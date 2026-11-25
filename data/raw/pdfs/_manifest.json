@@ -1,0 +1,164 @@
+{
+  "icmr_nin_2024.pdf": {
+    "status": "ok",
+    "title": "Dietary Guidelines for Indians 2024",
+    "publisher": "ICMR-NIN",
+    "year": 2024,
+    "topic": "dietary-guidelines",
+    "url": "https://nin.res.in/dietaryguidelines/pdfjs/locale/DGI_2024.pdf",
+    "bytes": 24471521,
+    "sha256": "fc4bb5b1ee92a4d3d5dfe5d88eba15be6a50c096b709ce55d2bd4af1a1b91658",
+    "downloaded_at": "2026-11-25T12:41:12+00:00"
+  },
+  "ifct_2017.pdf": {
+    "status": "ok",
+    "title": "Indian Food Composition Tables 2017",
+    "publisher": "ICMR-NIN",
+    "year": 2017,
+    "topic": "food-composition",
+    "url": "https://www.nin.res.in/ebooks/IFCT2017.pdf",
+    "bytes": 12401190,
+    "sha256": "7fc5a5112a57240d25bf695dca82cccd8d93ed54e8c39530e42b5ad1820d0e8c",
+    "downloaded_at": "2026-11-25T12:41:16+00:00"
+  },
+  "icmr_nin_rda_2020.pdf": {
+    "status": "failed",
+    "title": "Nutrient Requirements for Indians: RDA and EAR 2020",
+    "publisher": "ICMR-NIN",
+    "errors": [
+      "https://www.nin.res.in/RDA_Full_Report_2020.pdf -> HTTP 404",
+      "https://www.nin.res.in/downloads/RDA_Full_Report_2020.pdf -> HTTP 404"
+    ],
+    "tried_at": "2026-11-25T12:41:18+00:00"
+  },
+  "nin_dietary_guidelines_2011.pdf": {
+    "status": "ok",
+    "title": "Dietary Guidelines for Indians - A Manual (2nd ed.)",
+    "publisher": "ICMR-NIN",
+    "year": 2011,
+    "topic": "dietary-guidelines",
+    "url": "https://www.nin.res.in/downloads/DietaryGuidelinesforNINwebsite.pdf",
+    "bytes": 5163260,
+    "sha256": "9aef38bd103cb104272e8b57c831b888f4874249431de1c448618d3b03ab6788",
+    "downloaded_at": "2026-11-25T12:41:20+00:00"
+  },
+  "icmr_type2_diabetes_guidelines_2018.pdf": {
+    "status": "failed",
+    "title": "ICMR Guidelines for Management of Type 2 Diabetes",
+    "publisher": "ICMR",
+    "errors": [
+      "https://main.icmr.nic.in/sites/default/files/guidelines/ICMR_GuidelinesType2diabetes2018_0.pdf -> failed after 3 attempts: ConnectError('[Errno 11001] getaddrinfo failed')"
+    ],
+    "tried_at": "2026-11-25T12:41:27+00:00"
+  },
+  "who_sodium_intake_2012.pdf": {
+    "status": "failed",
+    "title": "Guideline: Sodium intake for adults and children",
+    "publisher": "WHO",
+    "errors": [
+      "https://iris.who.int/bitstream/handle/10665/77985/9789241504836_eng.pdf -> response is not a PDF (HTML error/login page?)",
+      "https://apps.who.int/iris/bitstream/handle/10665/77985/9789241504836_eng.pdf -> response is not a PDF (HTML error/login page?)"
+    ],
+    "tried_at": "2026-11-25T12:41:44+00:00"
+  },
+  "who_potassium_intake_2012.pdf": {
+    "status": "failed",
+    "title": "Guideline: Potassium intake for adults and children",
+    "publisher": "WHO",
+    "errors": [
+      "https://iris.who.int/bitstream/handle/10665/77986/9789241504829_eng.pdf -> response is not a PDF (HTML error/login page?)",
+      "https://apps.who.int/iris/bitstream/handle/10665/77986/9789241504829_eng.pdf -> response is not a PDF (HTML error/login page?)"
+    ],
+    "tried_at": "2026-11-25T12:41:46+00:00"
+  },
+  "who_sugars_intake_2015.pdf": {
+    "status": "failed",
+    "title": "Guideline: Sugars intake for adults and children",
+    "publisher": "WHO",
+    "errors": [
+      "https://iris.who.int/bitstream/handle/10665/149782/9789241549028_eng.pdf -> response is not a PDF (HTML error/login page?)",
+      "https://apps.who.int/iris/bitstream/handle/10665/149782/9789241549028_eng.pdf -> response is not a PDF (HTML error/login page?)"
+    ],
+    "tried_at": "2026-11-25T12:41:48+00:00"
+  },
+  "who_saturated_trans_fat_2023.pdf": {
+    "status": "failed",
+    "title": "Saturated fatty acid and trans-fatty acid intake for adults and children",
+    "publisher": "WHO",
+    "errors": [
+      "https://iris.who.int/bitstream/handle/10665/370419/9789240073630-eng.pdf -> response is not a PDF (HTML error/login page?)"
+    ],
+    "tried_at": "2026-11-25T12:41:49+00:00"
+  },
+  "who_carbohydrate_intake_2023.pdf": {
+    "status": "failed",
+    "title": "Carbohydrate intake for adults and children: WHO guideline",
+    "publisher": "WHO",
+    "errors": [
+      "https://iris.who.int/bitstream/handle/10665/370420/9789240073593-eng.pdf -> response is not a PDF (HTML error/login page?)"
+    ],
+    "tried_at": "2026-11-25T12:41:52+00:00"
+  },
+  "fao_who_vitamin_mineral_requirements_2004.pdf": {
+    "status": "ok",
+    "title": "Vitamin and mineral requirements in human nutrition (2nd ed.)",
+    "publisher": "FAO/WHO",
+    "year": 2004,
+    "topic": "micronutrient-requirements",
+    "url": "https://www.fao.org/3/y2809e/y2809e.pdf",
+    "bytes": 6865461,
+    "sha256": "cb34981ec497c523fd6d4da32d113f00c73fda77195e7feddb1b871f1ddb395a",
+    "downloaded_at": "2026-11-25T12:42:09+00:00"
+  },
+  "fao_fats_fatty_acids_2010.pdf": {
+    "status": "failed",
+    "title": "Fats and fatty acids in human nutrition (FAO Food and Nutrition Paper 91)",
+    "publisher": "FAO",
+    "errors": [
+      "https://www.fao.org/3/i1953e/i1953e00.pdf -> response is not a PDF (HTML error/login page?)"
+    ],
+    "tried_at": "2026-11-25T12:42:12+00:00"
+  },
+  "who_protein_amino_acid_requirements_2007.pdf": {
+    "status": "failed",
+    "title": "Protein and amino acid requirements in human nutrition (TRS 935)",
+    "publisher": "WHO/FAO/UNU",
+    "errors": [
+      "https://iris.who.int/bitstream/handle/10665/43411/WHO_TRS_935_eng.pdf -> response is not a PDF (HTML error/login page?)",
+      "https://apps.who.int/iris/bitstream/handle/10665/43411/WHO_TRS_935_eng.pdf -> response is not a PDF (HTML error/login page?)"
+    ],
+    "tried_at": "2026-11-25T12:42:27+00:00"
+  },
+  "who_diet_chronic_disease_2003.pdf": {
+    "status": "failed",
+    "title": "Diet, nutrition and the prevention of chronic diseases (TRS 916)",
+    "publisher": "WHO/FAO",
+    "errors": [
+      "https://iris.who.int/bitstream/handle/10665/42665/WHO_TRS_916.pdf -> response is not a PDF (HTML error/login page?)",
+      "https://apps.who.int/iris/bitstream/handle/10665/42665/WHO_TRS_916.pdf -> response is not a PDF (HTML error/login page?)"
+    ],
+    "tried_at": "2026-11-25T12:42:28+00:00"
+  },
+  "dga_2020_2025.pdf": {
+    "status": "ok",
+    "title": "Dietary Guidelines for Americans, 2020-2025",
+    "publisher": "USDA/HHS",
+    "year": 2020,
+    "topic": "dietary-guidelines",
+    "url": "https://www.dietaryguidelines.gov/sites/default/files/2021-03/Dietary_Guidelines_for_Americans-2020-2025.pdf",
+    "bytes": 32476619,
+    "sha256": "b5e602a73985c6f3715948885da967f863b49d4b6273b415381e80ce651ee0f6",
+    "downloaded_at": "2026-11-25T12:42:47+00:00"
+  },
+  "nhlbi_dash_eating_plan.pdf": {
+    "status": "ok",
+    "title": "Your Guide to Lowering Your Blood Pressure with DASH",
+    "publisher": "NHLBI",
+    "year": 2006,
+    "topic": "hypertension-dash",
+    "url": "https://www.nhlbi.nih.gov/files/docs/public/heart/new_dash.pdf",
+    "bytes": 811872,
+    "sha256": "a950723fa1047238ecf843723668c1bcae1f4ff4ee0722e475470211fbcc415d",
+    "downloaded_at": "2026-11-25T12:42:51+00:00"
+  }
+}

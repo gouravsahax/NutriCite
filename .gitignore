@@ -1,0 +1,31 @@
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Generated datasets and local caches
+/data/processed/
+/data/interim/
+/data/derived/
+/data/cache/
+
+# Python environments and bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Build and test artifacts
+/build/
+/dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local editor and operating system files
+.idea/
+.DS_Store
+Thumbs.db
