@@ -1,0 +1,1449 @@
+[
+  {
+    "pmid": "29566200",
+    "title": "Dietary fiber and health outcomes: an umbrella review of systematic reviews and meta-analyses.",
+    "abstract": "BACKGROUND: Several studies have suggested that higher consumption of dietary fiber is beneficial for a variety of health outcomes. However, many results have been inconclusive and, to our knowledge, there has been no attempt to systematically capture the breadth of outcomes associated with dietary fiber intake or to systematically assess the quality and the strength of the evidence on the associations of dietary fiber intake and different health outcomes or medical conditions.\nOBJECTIVE: The aim of this study was to describe the diverse health outcomes convincingly associated with dietary fiber consumption.\nDESIGN: This was an umbrella review of systematic reviews with meta-analysis of observational studies. For each association, random-effects summary effect size, 95% CIs, and 95% prediction intervals were estimated. We also assessed heterogeneity, evidence for small-study effect, and evidence for excess significance bias. We used these metrics to evaluate the credibility of the identified evidence.\nRESULTS: Our literature search identified 1351 abstracts. Of these, 18 meta-analyses including a total of 298 prospective observational studies and 21 outcomes were included. Outcomes studied included cancer and precancer lesions (n = 12), cardiovascular diseases (CVDs; n = 3), all-cause and specific-cause mortality (n = 4), type 2 diabetes (n = 1), and Crohn disease (n = 1). Overall, 6 (29%) of the 21 eligible outcomes reported highly significant summary results (P < 1 × 10-6); these included CVD and CVD mortality, coronary artery disease, pancreatic cancer, and gastric cancer. Overall, 3 of 21 (14%) outcomes presented convincing evidence (pancreatic cancer, CVD mortality, and all-cause mortality), but only CVD and all-cause mortality were based on prospective studies. Two other outcomes (10%), CVD and coronary artery disease, presented highly suggestive evidence based on prospective studies.\nCONCLUSION: Our results support dietary recommendations that promote higher fiber intake as part of a healthy diet.",
+    "journal": "The American journal of clinical nutrition",
+    "year": "2018",
+    "authors": [
+      "Veronese N",
+      "Solmi M",
+      "Caruso MG",
+      "Giannelli G",
+      "Osella AR",
+      "Evangelou E"
+    ],
+    "doi": "10.1093/ajcn/nqx082",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Cardiovascular Diseases",
+      "Databases, Factual",
+      "Diabetes Mellitus, Type 2",
+      "Diet",
+      "Dietary Fiber",
+      "Humans",
+      "Incidence",
+      "Inflammation",
+      "Meta-Analysis as Topic",
+      "Observational Studies as Topic",
+      "Randomized Controlled Trials as Topic",
+      "Systematic Reviews as Topic",
+      "Treatment Outcome"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29566200/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "30638909",
+    "title": "Carbohydrate quality and human health: a series of systematic reviews and meta-analyses.",
+    "abstract": "BACKGROUND: Previous systematic reviews and meta-analyses explaining the relationship between carbohydrate quality and health have usually examined a single marker and a limited number of clinical outcomes. We aimed to more precisely quantify the predictive potential of several markers, to determine which markers are most useful, and to establish an evidence base for quantitative recommendations for intakes of dietary fibre.\nMETHODS: We did a series of systematic reviews and meta-analyses of prospective studies published from database inception to April 30, 2017, and randomised controlled trials published from database inception to Feb 28, 2018, which reported on indicators of carbohydrate quality and non-communicable disease incidence, mortality, and risk factors. Studies were identified by searches in PubMed, Ovid MEDLINE, Embase, and the Cochrane Central Register of Controlled Trials, and by hand searching of previous publications. We excluded prospective studies and trials reporting on participants with a chronic disease, and weight loss trials or trials involving supplements. Searches, data extraction, and bias assessment were duplicated independently. Robustness of pooled estimates from random-effects models was considered with sensitivity analyses, meta-regression, dose-response testing, and subgroup analyses. The GRADE approach was used to assess quality of evidence.\nFINDINGS: Just under 135 million person-years of data from 185 prospective studies and 58 clinical trials with 4635 adult participants were included in the analyses. Observational data suggest a 15-30% decrease in all-cause and cardiovascular related mortality, and incidence of coronary heart disease, stroke incidence and mortality, type 2 diabetes, and colorectal cancer when comparing the highest dietary fibre consumers with the lowest consumers Clinical trials show significantly lower bodyweight, systolic blood pressure, and total cholesterol when comparing higher with lower intakes of dietary fibre. Risk reduction associated with a range of critical outcomes was greatest when daily intake of dietary fibre was between 25 g and 29 g. Dose-response curves suggested that higher intakes of dietary fibre could confer even greater benefit to protect against cardiovascular diseases, type 2 diabetes, and colorectal and breast cancer. Similar findings for whole grain intake were observed. Smaller or no risk reductions were found with the observational data when comparing the effects of diets characterised by low rather than higher glycaemic index or load. The certainty of evidence for relationships between carbohydrate quality and critical outcomes was graded as moderate for dietary fibre, low to moderate for whole grains, and low to very low for dietary glycaemic index and glycaemic load. Data relating to other dietary exposures are scarce.\nINTERPRETATION: Findings from prospective studies and clinical trials associated with relatively high intakes of dietary fibre and whole grains were complementary, and striking dose-response evidence indicates that the relationships to several non-communicable diseases could be causal. Implementation of recommendations to increase dietary fibre intake and to replace refined grains with whole grains is expected to benefit human health. A major strength of the study was the ability to examine key indicators of carbohydrate quality in relation to a range of non-communicable disease outcomes from cohort studies and randomised trials in a single study. Our findings are limited to risk reduction in the population at large rather than those with chronic disease.\nFUNDING: Health Research Council of New Zealand, WHO, Riddet Centre of Research Excellence, Healthier Lives National Science Challenge, University of Otago, and the Otago Southland Diabetes Research Trust.",
+    "journal": "Lancet (London, England)",
+    "year": "2019",
+    "authors": [
+      "Reynolds A",
+      "Mann J",
+      "Cummings J",
+      "Winter N",
+      "Mete E",
+      "Te Morenga L"
+    ],
+    "doi": "10.1016/S0140-6736(18)31809-9",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Research Support, Non-U.S. Gov't",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Dietary Carbohydrates",
+      "Dietary Fiber",
+      "Humans",
+      "Noncommunicable Diseases",
+      "Primary Prevention"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30638909/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "32142510",
+    "title": "Dietary fibre and whole grains in diabetes management: Systematic review and meta-analyses.",
+    "abstract": "BACKGROUND: Fibre is promoted as part of a healthy dietary pattern and in diabetes management. We have considered the role of high-fibre diets on mortality and increasing fibre intake on glycaemic control and other cardiometabolic risk factors of adults with prediabetes or diabetes.\nMETHODS AND FINDINGS: We conducted a systematic review of published literature to identify prospective studies or controlled trials that have examined the effects of a higher fibre intake without additional dietary or other lifestyle modification in adults with prediabetes, gestational diabetes, type 1 diabetes, and type 2 diabetes. Meta-analyses were undertaken to determine the effects of higher fibre intake on all-cause and cardiovascular mortality and increasing fibre intake on glycaemic control and a range of cardiometabolic risk factors. For trials, meta regression analyses identified further variables that influenced the pooled findings. Dose response testing was undertaken; Grading of Recommendations Assessment, Development and Evaluation (GRADE) protocols were followed to assess the quality of evidence. Two multicountry cohorts of 8,300 adults with type 1 or type 2 diabetes followed on average for 8.8 years and 42 trials including 1,789 adults with prediabetes, type 1, or type 2 diabetes were identified. Prospective cohort data indicate an absolute reduction of 14 fewer deaths (95% confidence interval (CI) 4-19) per 1,000 participants over the study duration, when comparing a daily dietary fibre intake of 35 g with the average intake of 19 g, with a clear dose response relationship apparent. Increased fibre intakes reduced glycated haemoglobin (HbA1c; mean difference [MD] -2.00 mmol/mol, 95% CI -3.30 to -0.71 from 33 trials), fasting plasma glucose (MD -0.56 mmol/L, 95% CI -0.73 to -0.38 from 34 trials), insulin (standardised mean difference [SMD] -2.03, 95% CI -2.92 to -1.13 from 19 trials), homeostatic model assessment of insulin resistance (HOMA IR; MD -1.24 mg/dL, 95% CI -1.72 to -0.76 from 9 trials), total cholesterol (MD -0.34 mmol/L, 95% CI -0.46 to -0.22 from 27 trials), low-density lipoprotein (LDL) cholesterol (MD -0.17 mmol/L, 95% CI -0.27 to -0.08 from 21 trials), triglycerides (MD -0.16 mmol/L, 95% CI -0.23 to -0.09 from 28 trials), body weight (MD -0.56 kg, 95% CI -0.98 to -0.13 from 18 trials), Body Mass Index (BMI; MD -0.36, 95% CI -0·55 to -0·16 from 14 trials), and C-reactive protein (SMD -2.80, 95% CI -4.52 to -1.09 from 7 trials) when compared with lower fibre diets. All trial analyses were subject to high heterogeneity. Key variables beyond increasing fibre intake were the fibre intake at baseline, the global region where the trials were conducted, and participant inclusion criteria other than diabetes type. Potential limitations were the lack of prospective cohort data in non-European countries and the lack of long-term (12 months or greater) controlled trials of increasing fibre intakes in adults with diabetes.\nCONCLUSIONS: Higher-fibre diets are an important component of diabetes management, resulting in improvements in measures of glycaemic control, blood lipids, body weight, and inflammation, as well as a reduction in premature mortality. These benefits were not confined to any fibre type or to any type of diabetes and were apparent across the range of intakes, although greater improvements in glycaemic control were observed for those moving from low to moderate or high intakes. Based on these findings, increasing daily fibre intake by 15 g or to 35 g might be a reasonable target that would be expected to reduce risk of premature mortality in adults with diabetes.",
+    "journal": "PLoS medicine",
+    "year": "2020",
+    "authors": [
+      "Reynolds AN",
+      "Akerman AP",
+      "Mann J"
+    ],
+    "doi": "10.1371/journal.pmed.1003053",
+    "pmcid": "PMC7059907",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Research Support, Non-U.S. Gov't",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Diabetes Mellitus, Type 1",
+      "Diabetes Mellitus, Type 2",
+      "Diet, Diabetic",
+      "Diet, Healthy",
+      "Dietary Fiber",
+      "Humans",
+      "Nutritive Value",
+      "Protective Factors",
+      "Recommended Dietary Allowances",
+      "Risk Assessment",
+      "Risk Factors",
+      "Risk Reduction Behavior",
+      "Time Factors",
+      "Treatment Outcome",
+      "Whole Grains"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32142510/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "38599319",
+    "title": "Diet, Food, and Nutritional Exposures and Inflammatory Bowel Disease or Progression of Disease: an Umbrella Review.",
+    "abstract": "Inflammatory bowel disease (IBD), including Crohn's disease (CD) and ulcerative colitis (UC), contributes to substantial morbidity. Understanding the intricate interplay between dietary factors and the incidence and progression of IBD is essential for developing effective preventative and therapeutic strategies. This umbrella review comprehensively synthesizes evidence from systematic reviews and meta-analyses to evaluate these complex associations. Dietary factors associated with an increased incidence and/or progression of IBD include a high intake of red and processed meat, other processed foods, and refined sugars, together with a low intake of vegetables, fruits, and fiber. For most other food groups, the results are mixed or indicate no clear associations with IBD, CD, and UC. Some differences seem to exist between UC and CD and their risk factors, with increased intake of dietary fiber being inversely associated with CD incidence but not clearly associated with UC. Dietary fiber may contribute to maintaining the gut epithelial barrier and reduce inflammation, often through interactions with the gut microbiota. This seems to play an important role in inflammatory mechanisms in the gut and in IBD incidence and progression. Diets low in fermentable saccharides and polyols can alleviate symptom burden, but there are concerns regarding their impact on the gut microbiota and their nutritional adequacy. Mediterranean diets, vegetarian diets, and a diet low in grains, sugars, and lactose (specific carbohydrate diet) are also associated with lower incidence and/or progression of IBD. The associations of dietary patterns are mirrored by inflammatory biomarkers. IBD is typically treated pharmaceutically; however, many patients have a suboptimal response to medical treatments. The findings from this umbrella review could provide evidence for nutritional counseling and be a valuable addition to traditional treatment plans for IBD. This systematic review was registered at PROSPERO as CRD440252.",
+    "journal": "Advances in nutrition (Bethesda, Md.)",
+    "year": "2024",
+    "authors": [
+      "Christensen C",
+      "Knudsen A",
+      "Arnesen EK",
+      "Hatlebakk JG",
+      "Sletten IS",
+      "Fadnes LT"
+    ],
+    "doi": "10.1016/j.advnut.2024.100219",
+    "pmcid": "PMC11063602",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Disease Progression",
+      "Inflammatory Bowel Diseases",
+      "Diet",
+      "Dietary Fiber",
+      "Gastrointestinal Microbiome",
+      "Crohn Disease",
+      "Colitis, Ulcerative",
+      "Risk Factors",
+      "Incidence",
+      "Diet, Mediterranean"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38599319/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "40651334",
+    "title": "The impact of dietary fiber consumption on human health: An umbrella review of evidence from 17,155,277 individuals.",
+    "abstract": "BACKGROUND: Dietary fiber plays a crucial role in disease prevention through multiple protective mechanisms. While previous reviews have examined its health effects, recent advances necessitate an updated synthesis of the evidence.\nOBJECTIVES: This umbrella review systematically evaluates meta-analyses of observational studies to assess the strength and credibility of associations, and the quality of evidence linking dietary fiber intake to diverse health outcomes, providing a comprehensive assessment of these associations.\nMETHODS: We updated our previous umbrella review by searching major databases (October 21, 2017-December 1, 2024) for meta-analyses on dietary fiber and health outcomes. Methodological quality was assessed using AMSTAR-2 (A Measurement Tool to Assess Systematic Reviews), and evidence credibility was classified based on predefined criteria, accounting for heterogeneity (I2), small-study effects, and excess significance bias.\nRESULTS: Thirty-three meta-analyses covering 38 health outcomes and 17,155,277 individuals were included. Of these, 29 (76 %) reported significant inverse associations (p < 0.05) between higher fiber intake and disease risk. Convincing evidence (Class I) was identified for cardiovascular disease (CVD) mortality, pancreatic cancer, and diverticular disease. Highly suggestive evidence (Class II) supported associations with all-cause mortality, CVD, coronary heart disease and ovarian cancer. Suggestive evidence (Class III) was observed for 16 outcomes, while six outcomes (16 %) exhibited weak evidence (Class IV). Quality assessment indicated that six meta-analyses were of high methodological quality, while others had some methodological limitations.\nCONCLUSIONS: Higher dietary fiber intake is associated with lower risk of multiple chronic diseases, particularly CVD mortality, pancreatic cancer, and diverticular disease. Despite these benefits, intake remains below recommended levels worldwide. Public health strategies should promote fiber-rich diets, and future research should further elucidate the role of specific fiber types in disease prevention.\nSYSTEMATIC REVIEW REGISTRATION: https://osf.io/37tyc/.",
+    "journal": "Clinical nutrition (Edinburgh, Scotland)",
+    "year": "2025",
+    "authors": [
+      "Veronese N",
+      "Gianfredi V",
+      "Solmi M",
+      "Barbagallo M",
+      "Dominguez LJ",
+      "Mandalà C"
+    ],
+    "doi": "10.1016/j.clnu.2025.06.021",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Dietary Fiber",
+      "Cardiovascular Diseases",
+      "Meta-Analysis as Topic",
+      "Diet",
+      "Observational Studies as Topic",
+      "Female",
+      "Pancreatic Neoplasms"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40651334/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "29757343",
+    "title": "Dietary fiber intervention on gut microbiota composition in healthy adults: a systematic review and meta-analysis.",
+    "abstract": "BACKGROUND: Dysfunction of the gut microbiota is frequently reported as a manifestation of chronic diseases, and therefore presents as a modifiable risk factor in their development. Diet is a major regulator of the gut microbiota, and certain types of dietary fiber may modify bacterial numbers and metabolism, including short-chain fatty acid (SCFA) generation.\nOBJECTIVE: A systematic review and meta-analysis were undertaken to assess the effect of dietary fiber interventions on gut microbiota composition in healthy adults.\nDESIGN: A systematic search was conducted across MEDLINE, EMBASE, CENTRAL, and CINAHL for randomized controlled trials using culture and/or molecular microbiological techniques evaluating the effect of fiber intervention on gut microbiota composition in healthy adults. Meta-analyses via a random-effects model were performed on alpha diversity, prespecified bacterial abundances including Bifidobacterium and Lactobacillus spp., and fecal SCFA concentrations comparing dietary fiber interventions with placebo/low-fiber comparators.\nRESULTS: A total of 64 studies involving 2099 participants were included. Dietary fiber intervention resulted in higher abundance of Bifidobacterium spp. (standardized mean difference (SMD): 0.64; 95% CI: 0.42, 0.86; P < 0.00001) and Lactobacillus spp. (SMD: 0.22; 0.03, 0.41; P = 0.02) as well as fecal butyrate concentration (SMD: 0.24; 0.00, 0.47; P = 0.05) compared with placebo/low-fiber comparators. Subgroup analysis revealed that fructans and galacto-oligosaccharides led to significantly greater abundance of both Bifidobacterium spp. and Lactobacillus spp. compared with comparators (P < 0.00001 and P = 0.002, respectively). No differences in effect were found between fiber intervention and comparators for α-diversity, abundances of other prespecified bacteria, or other SCFA concentrations.\nCONCLUSIONS: Dietary fiber intervention, particularly involving fructans and galacto-oligosaccharides, leads to higher fecal abundance of Bifidobacterium and Lactobacillus spp. but does not affect α-diversity. Further research is required to better understand the role of individual fiber types on the growth of microbes and the overall gut microbial community. This review was registered at PROSPERO as CRD42016053101.",
+    "journal": "The American journal of clinical nutrition",
+    "year": "2018",
+    "authors": [
+      "So D",
+      "Whelan K",
+      "Rossi M",
+      "Morrison M",
+      "Holtmann G",
+      "Kelly JT"
+    ],
+    "doi": "10.1093/ajcn/nqy041",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Adult",
+      "Bacteria",
+      "Dietary Fiber",
+      "Food Analysis",
+      "Gastrointestinal Microbiome",
+      "Humans"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29757343/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "27924137",
+    "title": "Exercise-induced stress behavior, gut-microbiota-brain axis and diet: a systematic review for athletes.",
+    "abstract": "Fatigue, mood disturbances, under performance and gastrointestinal distress are common among athletes during training and competition. The psychosocial and physical demands during intense exercise can initiate a stress response activating the sympathetic-adrenomedullary and hypothalamus-pituitary-adrenal (HPA) axes, resulting in the release of stress and catabolic hormones, inflammatory cytokines and microbial molecules. The gut is home to trillions of microorganisms that have fundamental roles in many aspects of human biology, including metabolism, endocrine, neuronal and immune function. The gut microbiome and its influence on host behavior, intestinal barrier and immune function are believed to be a critical aspect of the brain-gut axis. Recent evidence in murine models shows that there is a high correlation between physical and emotional stress during exercise and changes in gastrointestinal microbiota composition. For instance, induced exercise-stress decreased cecal levels of Turicibacter spp and increased Ruminococcus gnavus, which have well defined roles in intestinal mucus degradation and immune function. Diet is known to dramatically modulate the composition of the gut microbiota. Due to the considerable complexity of stress responses in elite athletes (from leaky gut to increased catabolism and depression), defining standard diet regimes is difficult. However, some preliminary experimental data obtained from studies using probiotics and prebiotics studies show some interesting results, indicating that the microbiota acts like an endocrine organ (e.g. secreting serotonin, dopamine or other neurotransmitters) and may control the HPA axis in athletes. What is troubling is that dietary recommendations for elite athletes are primarily based on a low consumption of plant polysaccharides, which is associated with reduced microbiota diversity and functionality (e.g. less synthesis of byproducts such as short chain fatty acids and neurotransmitters). As more elite athletes suffer from psychological and gastrointestinal conditions that can be linked to the gut, targeting the microbiota therapeutically may need to be incorporated in athletes' diets that take into consideration dietary fiber as well as microbial taxa not currently present in athlete's gut.",
+    "journal": "Journal of the International Society of Sports Nutrition",
+    "year": "2016",
+    "authors": [
+      "Clark A",
+      "Mach N"
+    ],
+    "doi": "10.1186/s12970-016-0155-6",
+    "pmcid": "PMC5121944",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Athletes",
+      "Athletic Performance",
+      "Brain",
+      "Diet",
+      "Food",
+      "Gastrointestinal Microbiome",
+      "Gastrointestinal Tract",
+      "Hormones",
+      "Humans",
+      "Probiotics",
+      "Sports Nutritional Physiological Phenomena",
+      "Stress, Psychological"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27924137/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "35449060",
+    "title": "Dietary fibre in hypertension and cardiovascular disease management: systematic review and meta-analyses.",
+    "abstract": "BACKGROUND: Higher dietary fibre intakes are associated with a reduced risk of developing cardiovascular disease (CVD), and increasing intake has been shown to reduce blood pressure and other cardiometabolic risk factors. The extent to which dietary fibre can further reduce risk for those with CVD and treated with cardioprotective drugs has not been clearly established. We have examined the evidence for dietary fibre as adjunct therapy in those with CVD or hypertension.\nMETHODS: Ovid MEDLINE, Embase, PubMed, and CENTRAL were searched to June 2021. Prospective observational studies reporting on fibre intakes and mortality in those with pre-existing CVD and controlled trials of increasing fibre intakes on cardiometabolic risk factors in those with CVD or hypertension were eligible. Outcomes were mortality (studies) and cardiometabolic risk factors (trials). Data synthesis was with random effects and dose response. Certainty of evidence was assessed using GRADE.\nRESULTS: Three prospective studies including 7469 adults with CVD, and 12 trials of 878 adults with CVD or hypertension were identified. Moderate certainty evidence indicates reduced all-cause mortality (relative risk, RR0.75 (95% confidence interval, CI 0.58-0.97)) when comparing higher with lower fibre intakes. Low certainty evidence from trials of adults with cardiovascular disease indicates increasing fibre intakes reduced total (mean difference, MD - 0.42 mmol/L (95%CI - 0.78 to - 0.05) and low-density lipoprotein (LDL) cholesterol (MD - 0.47mmol/L (95%CI - 0.85 to - 0.10)). High certainty evidence from trials of adults with hypertension indicates increasing fibre intakes reduces systolic (MD 4.3 mmHg (95% CI 2.2 to 5.8)) and diastolic blood pressure (MD 3.1 mmHg (95% CI 1.7 to 4.4)). Moderate and low certainty evidence indicated improvements in fasting blood glucose (MD 0.48 mmol/L (- 0.91 to - 0.05)) and LDL cholesterol (MD 0.29 mmol/L (95% CI 0.17 to 0.40)). Benefits were observed irrespective of cardioprotective drug use.\nCONCLUSIONS: These findings emphasise the likely benefits of promoting greater dietary fibre intakes for patients with CVD and hypertension. Further trials and cohort analyses in this area would increase confidence in these results.",
+    "journal": "BMC medicine",
+    "year": "2022",
+    "authors": [
+      "Reynolds AN",
+      "Akerman A",
+      "Kumar S",
+      "Diep Pham HT",
+      "Coffey S",
+      "Mann J"
+    ],
+    "doi": "10.1186/s12916-022-02328-x",
+    "pmcid": "PMC9027105",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "mesh": [
+      "Adult",
+      "Cardiovascular Diseases",
+      "Dietary Fiber",
+      "Humans",
+      "Hypertension",
+      "Observational Studies as Topic",
+      "Primary Prevention",
+      "Prospective Studies"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35449060/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "38011755",
+    "title": "Dietary fiber intake and all-cause and cause-specific mortality: An updated systematic review and meta-analysis of prospective cohort studies.",
+    "abstract": "BACKGROUND: Accumulating evidence supports the effects of dietary fiber on the risk of non-communicable diseases (NCDs). However, there is no updated systematic review and meta-analysis that compares and pools the effect of different types of fiber on mortality.\nMETHODS: In this systematic review and meta-analysis, all prospective cohort studies that evaluated the relationship between dietary fiber intake and all-cause or cause-specific mortality were included. The PubMed, SCOPUS, and Web of Science databases were searched up to October 2022. Data extraction and quality assessment were performed by two researchers independently. Heterogeneity between studies was assessed using Chi-square based test. Random/fixed effect meta-analysis was used to pool the hazard ratios (HR) or relative risks (RR) and 95 % confidence intervals (CI) for the association between different types of fiber and mortality.\nRESULTS: This systematic review included 64 eligible studies, with a total sample size of 3512828 subjects, that investigated the association between dietary fiber intake and mortality from all-cause, cardiovascular disease (CVD), and cancer. Random-effect meta-analysis shows that higher consumption of total dietary fiber, significantly decreased the risk of all-cause mortality, CVD-related mortality, and cancer-related mortality by 23, 26 and 22 % (HR:0.77; 95%CI (0.73,0.82), HR:0.74; 95%CI (0.71,0.77) and HR:0.78; 95%CI (0.68,0.87)), respectively. The consumption of insoluble fiber tended to be more effective than soluble fiber intake in reducing the risk of total mortality and mortality due to CVD and cancer. Additionally, dietary fiber from whole grains, cereals, and vegetables was associated with a reduced risk of all-cause mortality, while dietary fiber from nuts and seeds reduced the risk of CVD-related death by 43 % (HR:0.57; 95 % CI (0.38,0.77)).\nCONCLUSION: This comprehensive meta-analysis provides additional evidence supporting the protective association between fiber intake and all-cause and cause-specific mortality rates.",
+    "journal": "Clinical nutrition (Edinburgh, Scotland)",
+    "year": "2024",
+    "authors": [
+      "Ramezani F",
+      "Pourghazi F",
+      "Eslami M",
+      "Gholami M",
+      "Mohammadian Khonsari N",
+      "Ejtahed HS"
+    ],
+    "doi": "10.1016/j.clnu.2023.11.005",
+    "pmcid": "",
+    "pub_types": [
+      "Meta-Analysis",
+      "Systematic Review",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "mesh": [
+      "Humans",
+      "Cause of Death",
+      "Prospective Studies",
+      "Cardiovascular Diseases",
+      "Dietary Fiber",
+      "Neoplasms",
+      "Risk Factors"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38011755/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "40895468",
+    "title": "Hyperuricemia and the gut microbiota: current research hotspots and future trends.",
+    "abstract": "BACKGROUND: Hyperuricemia (HUA), found widely in humans and birds, is a key physiological factor responsible for the development of gout. In recent years, the relationship between the gut microbiota and HUA has garnered significant attention from researchers. This study aims to explore the current research hotspots, knowledge gaps, and future research trends regarding the gut microbiota and HUA.\nMETHODS: We performed a thorough search of the literature on gut flora and HUA published between 2005 and 2024 using the Web of Science and PubMed databases. The resulting data were analyzed using VOSviewer, CiteSpace, and Bibliometrix.\nRESULTS: Including 735 papers in total, the study found that the number of publications in the subject increased significantly between 2020 and 2024, with 2024 being the year with the highest number of publications. The primary research countries are highlighted as China and the United States, with institutions such as the University of California, San Diego, and Qingdao University making significant contributions. Sanjay K. Nigam and Chenyang Lu have made the most important contributions as authors. Keywords analysis highlighted high-frequency terms including \"gastrointestinal microbiome,\" \"uric acid,\" \"hyperuricemia,\" \"inflammation,\" \"gout,\" and \"probiotics.\" In the visualization map of the keyword timeline, emerging research hotspots include \"diets,\" \"dietary fiber,\" \"fecal microbiota transplantation,\" and \"gut-kidney axis.\"\nCONCLUSION: This study is the first to conduct a quantitative literature analysis in the field of gut microbiota in HUA, revealing that the core research hotspots include disease-related microbiota characteristics, probiotic therapy, microecological intervention, and the gut-distal target organ axis. The emerging hotspots focus on dietary supplementation, fecal microbiota transplantation (FMT) treatment strategies, and in-depth research on the above organ axes. Provide valuable guidance for future research directions.",
+    "journal": "Frontiers in microbiology",
+    "year": "2025",
+    "authors": [
+      "Yang J",
+      "Chen J",
+      "Li D",
+      "Wu Q",
+      "Zhang Y",
+      "Li Y"
+    ],
+    "doi": "10.3389/fmicb.2025.1620561",
+    "pmcid": "PMC12391128",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40895468/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "34854791",
+    "title": "Soluble and Insoluble Dietary Fiber Consumption and Colorectal Cancer Risk: A Systematic Review and Meta-Analysis.",
+    "abstract": "Colorectal cancer (CRC) is the third most common cancer worldwide with a high mortality rate. Dietary fibers, both soluble and insoluble, are essential for reducing the risk of CRC. In this study, a meta-analysis was performed to examine the relationship between the soluble and insoluble dietary fiber consumption and CRC risk. The highest vs. lowest fiber concentrations were compared by using PRISMA guidelines. To determine publishing bias, the Egger test; assess study heterogeneity I2 statistics were used. Studies that reported adjusted relative risk estimates with 95% confidence intervals (Cl) for the associations of interest were included. The results reveal that the relationship between soluble and insoluble fiber intake and the risk of CRC is almost equal [The total fiber ES = 0.75 (95% CI = 0.66-0.86), soluble fiber ES = 0.78 (95% CI = 0.66-0.92), insoluble fiber ES = 0.77 (95% CI = 0.67-0.88)]. Funnel plot and Egger's linear regression tests demonstrated that there was no publication bias. Both soluble and insoluble fiber consumption appear to be protective against CRC, with a clinically significant reduction in CRC risk. It is critical to identify preventive steps to avoid the CRC development, especially by leading a healthier lifestyle that includes healthy diet.",
+    "journal": "Nutrition and cancer",
+    "year": "2022",
+    "authors": [
+      "Arayici ME",
+      "Mert-Ozupek N",
+      "Yalcin F",
+      "Basbinar Y",
+      "Ellidokuz H"
+    ],
+    "doi": "10.1080/01635581.2021.2008990",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Colorectal Neoplasms",
+      "Dietary Fiber",
+      "Humans",
+      "Risk",
+      "Risk Factors"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34854791/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "33113929",
+    "title": "The Role of Dietary Fibre in Modulating Gut Microbiota Dysbiosis in Patients with Type 2 Diabetes: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.",
+    "abstract": "BACKGROUND: The prevalence of type 2 diabetes is on the increase worldwide, and it represents about 90% of adults who are diagnosed with diabetes. Overweight and obesity, lifestyle, genetic predisposition and gut microbiota dysbiosis have been implicated as possible risk factors in the development of type 2 diabetes. In particular, low intake of dietary fibre and consumption of foods high in fat and sugar, which are common in western lifestyle, have been reported to contribute to the depletion of specific bacterial taxa. Therefore, it is possible that intake of high dietary fibre may alter the environment in the gut and provide the needed substrate for microbial bloom.\nAIM: The current review is a systematic review and meta-analysis which evaluated the role of dietary fibre in modulating gut microbiota dysbiosis in patients with type 2 diabetes.\nMETHODS: This is a systematic review and meta-analysis of randomised controlled trials which relied on the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) framework. Electronic searches were conducted using EBSCOHost with links to Health Sciences Research Databases, EMBASE and Google Scholar. The reference lists of articles were also searched for relevant studies. Searches were conducted from date of commencement of the database to 5 August 2020. The search strategy was based on the Population, Intervention, Comparator, Outcomes, Studies (PICOS) framework and involved the use of synonyms and medical subject headings (MesH). Search terms were combined with Boolean operators (OR/AND).\nRESULTS: Nine studies which met the inclusion criteria were selected for the systematic review and meta-analysis, and four distinct areas were identified: the effect of dietary fibre on gut microbiota; the role of dietary fibre on short-chain fatty acids (SCFAs); glycaemic control; and adverse events. There was significant difference (p < 0.01) in the relative abundance of Bifidobacterium with a mean difference of 0.72 (95% CI, 0.56, 0.89) between the dietary fibre group compared with placebo. In relation to the meta-analysis for SCFAs, while there was significant difference (p = 0.02) between the dietary fibre group and placebo with a standardised mean difference of 0.5 (95% CI, 0.08, 0.91) regarding total SCFAs, the differences were not significant (p > 0.05) in relation to acetic acid, propionic acid and butyric acid. There was only significant improvement (p = 0.002) with respect to glycated haemoglobin with a mean difference of -0.18 (95% CI, -0.29, -0.06) between the dietary fibre group and placebo group. Differences between the two groups were not significant (p > 0.05) in relation to fasting blood glucose and homeostatic model assessment of insulin resistance (HOMA-IR). Furthermore, there were no significant differences between the two groups in subjects who reported adverse events. It is possible that the promotion of SCFA producers in greater diversity and abundance by dietary fibre in this review led to improvement in glycated haemoglobin, partly due to increased glucagon-like peptide-1 (GLP-1) production. In addition, Bifidobacterium lactis has been reported to increase glycogen synthesis, decrease expression of hepatic gluconeogenesis genes, improve translocation of glucose transport-4 and promote glucose uptake. It is also possible that the reduction in body weight of participants in the intervention group compared with control may have contributed to the observed improvement in glycated haemoglobin.\nCONCLUSION: This systematic review and meta-analysis have demonstrated that dietary fibre can significantly improve (p < 0.05) the relative abundance of Bifidobacterium, total SCFAs and glycated haemoglobin. However, dietary fibre did not appear to have significant effect (p > 0.05) on fasting blood glucose, HOMA-IR, acetic acid, propionic acid, butyric acid and adverse events.",
+    "journal": "Nutrients",
+    "year": "2020",
+    "authors": [
+      "Ojo O",
+      "Feng QQ",
+      "Ojo OO",
+      "Wang XH"
+    ],
+    "doi": "10.3390/nu12113239",
+    "pmcid": "PMC7690692",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Adult",
+      "Diabetes Mellitus, Type 2",
+      "Dietary Fiber",
+      "Dysbiosis",
+      "Fatty Acids, Volatile",
+      "Female",
+      "Gastrointestinal Microbiome",
+      "Glucagon-Like Peptide 1",
+      "Glycated Hemoglobin",
+      "Glycemic Control",
+      "Humans",
+      "Male",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33113929/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "33162192",
+    "title": "Effects of soluble fiber supplementation on glycemic control in adults with type 2 diabetes mellitus: A systematic review and meta-analysis of randomized controlled trials.",
+    "abstract": "BACKGROUND & AIMS: Soluble dietary fiber is prompted as an important part of reducing blood glucose, ameliorating insulin resistance and controlling body weight. Thus, we performed this systematic review and meta-analysis of randomized controlled trials (RCTs) to quantify and synthesize the effects of soluble fiber supplementation on glycemic control and BMI modification in adults with type 2 diabetes.\nMETHODS: We searched MEDLINE, Embase, Web of Science, ClinicalTrials.gov, and Cochrane databases until February 13, 2020 to identify RCTs that detected the effects of soluble fiber supplementation on glycemic control in adults with type 2 diabetes. A random-effects model with the generic inverse variance method was used to analyze the pooled data. The meta-regression and subgroup analyses were conducted to identify the variables that influenced the pooled results. The robust error meta-regression model was used to conduct the dose-response test. The Grading of Recommendations Assessment, Development, and Evaluation (GRADE) system was undertaken to evaluate the overall quality of the evidence.\nRESULTS: A total of 29 RCTs (33 comparisons) involving 1517 participants were identified in this meta-analysis. Results showed that supplemental soluble dietary fiber significantly reduced glycosylated hemoglobin (HbA1c, MD -0.63%, 95% CI [-0.90, -0.37]; P < 0.00001), fasting plasma glucose (FPG, MD -0.89 mmol/L, 95% CI [-1.28, -0.51]; P < 0.00001), fasting insulin (SMD -0.48, 95% CI [-0.80, -0.17]; P = 0.003), homeostatic model assessment of insulin resistance (HOMA-IR, SMD -0.58, 95% CI [-0.86, -0.29], P < 0.0001), fructosamine (SMD -1.03, 95% CI [-1.51, -0.55]; P < 0.0001), 2-h postprandial plasma glucose (SMD -0.74, 95% CI [-1.00, -0.48]; P < 0.00001), and BMI (SMD -0.31, 95% CI [-0.61, -0.00], P = 0.05) compared with control diets in patients with type 2 diabetes. Specifically, dose-response meta-analyses presented that a daily dosage of 7.6-8.3 g was recommended.\nCONCLUSION: Intake of soluble fiber supplementation is effective in improving glycemic control and BMI level in type 2 diabetes and is also a convenient way to help individuals meet standard dietary fiber needs. But due to the evidence of substantial heterogeneity in most pooled estimates, further long-term and high-quality RCTs are needed.",
+    "journal": "Clinical nutrition (Edinburgh, Scotland)",
+    "year": "2021",
+    "authors": [
+      "Xie Y",
+      "Gou L",
+      "Peng M",
+      "Zheng J",
+      "Chen L"
+    ],
+    "doi": "10.1016/j.clnu.2020.10.032",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Diabetes Mellitus, Type 2",
+      "Dietary Fiber",
+      "Dietary Supplements",
+      "Glycemic Control",
+      "Humans"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33162192/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "38007616",
+    "title": "Fiber intake and fiber intervention in depression and anxiety: a systematic review and meta-analysis of observational studies and randomized controlled trials.",
+    "abstract": "CONTEXT: Dietary fibers hold potential to influence depressive and anxiety outcomes by modulating the microbiota-gut-brain axis, which is increasingly recognized as an underlying factor in mental health maintenance.\nOBJECTIVE: Evidence for the effects of fibers on depressive and anxiety outcomes remains unclear. To this end, a systematic literature review and a meta-analysis were conducted that included observational studies and randomized controlled trials (RCTs).\nDATA SOURCES: The PubMed, Embase, CENTRAL, CINAHL, and PsychINFO databases were searched for eligible studies.\nDATA EXTRACTION: Study screening and risk-of-bias assessment were conducted by 2 independent reviewers.\nDATA ANALYSIS: Meta-analyses via random effects models were performed to examine the (1) association between fiber intake and depressive and anxiety outcomes in observational studies, and (2) effect of fiber intervention on depressive and anxiety outcomes compared with placebo in RCTs. A total of 181 405 participants were included in 23 observational studies. In cross-sectional studies, an inverse association was observed between fiber intake and depressive (Cohen's d effect size [d]: -0.11; 95% confidence interval [CI]: -0.16, -0.05) and anxiety (d = -0.25; 95%CI, -0.38, -0.12) outcomes. In longitudinal studies, there was an inverse association between fiber intake and depressive outcomes (d = -0.07; 95%CI, -0.11, -0.04). In total, 740 participants were included in 10 RCTs, all of whom used fiber supplements. Of note, only 1 RCT included individuals with a clinical diagnosis of depression. No difference was found between fiber supplementation and placebo for depressive (d = -0.47; 95%CI, -1.26, 0.31) or anxiety (d = -0.30; 95%CI, -0.67, 0.07) outcomes.\nCONCLUSION: Although observational data suggest a potential benefit for higher fiber intake for depressive and anxiety outcomes, evidence from current RCTs does not support fiber supplementation for improving depressive or anxiety outcomes. More research, including RCTs in clinical populations and using a broad range of fibers, is needed.\nSYSTEMATIC REVIEW REGISTRATION: PROSPERO registration no. CRD42021274898.",
+    "journal": "Nutrition reviews",
+    "year": "2024",
+    "authors": [
+      "Aslam H",
+      "Lotfaliany M",
+      "So D",
+      "Berding K",
+      "Berk M",
+      "Rocks T"
+    ],
+    "doi": "10.1093/nutrit/nuad143",
+    "pmcid": "PMC11551482",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "mesh": [
+      "Humans",
+      "Anxiety",
+      "Depression",
+      "Dietary Fiber",
+      "Observational Studies as Topic",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38007616/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "25143474",
+    "title": "Dietary fiber intake and total mortality: a meta-analysis of prospective cohort studies.",
+    "abstract": "Greater intake of dietary fiber has been associated with lower risk of several chronic diseases. Some observational studies have examined the association between dietary fiber intake and total mortality, but the results were inconclusive. We conducted a meta-analysis of data from prospective cohort studies to quantitatively assess the association. Eligible studies were identified by searching the PubMed and Embase databases for all articles published through November 30, 2013, and by reviewing the reference lists of retrieved articles. Study-specific estimates adjusting for potential confounders were combined to calculate a pooled relative risk and 95% confidence interval using a random-effects model. Seven prospective cohort studies of dietary fiber intake and total mortality, including 62,314 deaths among 908,135 participants, were identified. The pooled adjusted relative risk of total mortality for the highest category of dietary fiber intake versus the lowest was 0.77 (95% confidence interval: 0.74, 0.80). In a dose-response meta-analysis, the pooled adjusted relative risk for a 10-g/day increment of dietary fiber intake was 0.89 (95% confidence interval: 0.85, 0 92). By source of fiber, cereal and, to a lesser extent, vegetable fiber were significantly associated with lower total mortality, while fruit fiber showed no association. In conclusion, high dietary fiber intake may reduce the risk of total mortality.",
+    "journal": "American journal of epidemiology",
+    "year": "2014",
+    "authors": [
+      "Kim Y",
+      "Je Y"
+    ],
+    "doi": "10.1093/aje/kwu174",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ],
+    "mesh": [
+      "Cohort Studies",
+      "Dietary Fiber",
+      "Humans",
+      "Mortality",
+      "Prospective Studies",
+      "Risk Reduction Behavior"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25143474/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "32210176",
+    "title": "Dietary Fiber, Gut Microbiota, and Metabolic Regulation-Current Status in Human Randomized Trials.",
+    "abstract": "New knowledge about the gut microbiota and its interaction with the host's metabolic regulation has emerged during the last few decades. Several factors may affect the composition of the gut microbiota, including dietary fiber. Dietary fiber is not hydrolyzed by human digestive enzymes, but it is acted upon by gut microbes, and metabolites like short-chain fatty acids are produced. The short-chain fatty acids may be absorbed into the circulation and affect metabolic regulation in the host or be a substrate for other microbes. Some studies have shown improved insulin sensitivity, weight regulation, and reduced inflammation with increases in gut-derived short-chain fatty acids, all of which may reduce the risk of developing metabolic diseases. To what extent a dietary intervention with fiber may affect the human gut microbiota and hence metabolic regulation, is however, currently not well described. The aim of the present review is to summarize recent research on human randomized, controlled intervention studies investigating the effect of dietary fiber on gut microbiota and metabolic regulation. Metabolic regulation is discussed with respect to markers relating to glycemic regulation and lipid metabolism. Taken together, the papers on which the current review is based, suggest that dietary fiber has the potential to change the gut microbiota and alter metabolic regulation. However, due to the heterogeneity of the studies, a firm conclusion describing the causal relationship between gut microbiota and metabolic regulation remains elusive.",
+    "journal": "Nutrients",
+    "year": "2020",
+    "authors": [
+      "Myhrstad MCW",
+      "Tunsjø H",
+      "Charnock C",
+      "Telle-Hansen VH"
+    ],
+    "doi": "10.3390/nu12030859",
+    "pmcid": "PMC7146107",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Body Weight",
+      "Diet Therapy",
+      "Dietary Fiber",
+      "Fatty Acids, Volatile",
+      "Female",
+      "Gastrointestinal Microbiome",
+      "Gastrointestinal Tract",
+      "Glucose",
+      "Host Microbial Interactions",
+      "Humans",
+      "Inflammation",
+      "Insulin Resistance",
+      "Intestinal Absorption",
+      "Lipid Metabolism",
+      "Male",
+      "Metabolic Diseases",
+      "Randomized Controlled Trials as Topic",
+      "Risk"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32210176/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "35387194",
+    "title": "Personalized Dietary Recommendations Based on Lipid-Related Genetic Variants: A Systematic Review.",
+    "abstract": "BACKGROUND: Obesity and dyslipidemias are risk factors for developing cardiovascular diseases, the leading causes of morbidity and mortality worldwide. The pathogenesis of these diseases involves environmental factors, such as nutrition, but other aspects like genetic polymorphisms confer susceptibility to developing obesity and dyslipidemias. In this sense, nutrigenetics is being used to study the influence of genetic variations on the circulating lipid responses promoted by certain nutrients or foods to provide specific dietary strategies considering the genetic factors in personalized nutrition interventions.\nOBJECTIVE: To identify throughout a systematic review the potential nutrigenetic recommendations that demonstrate a strong interaction between gene-diet and circulating lipid variations.\nMETHODS: This systematic review used the PRISMA-Protocol for manuscript research and preparation using PubMed and ScienceDirect databases. Human studies published in English from January 2010 to December 2020 were included. The main results were outcomes related to gene-diet interactions and plasmatic lipids variation.\nRESULTS: About 1,110 articles were identified, but only 38 were considered to fulfill the inclusion criteria established based on the reported data. The acquired information was organized based on gene-diet interaction with nutrients and components of the diet and dietary recommendation generated by each interaction: gene-diet interaction with dietary fats, carbohydrates or dietary fiber, gene-diet interaction with nutraceutical or dietary supplementation, and gene-diet interaction with proteins.\nCONCLUSION: Findings included in this systematic review indicated that a certain percentage of dietary macronutrients, the consumption of specific amounts of polyunsaturated or monounsaturated fatty acids, as well as the ingestion of nutraceuticals or dietary supplements could be considered as potential strategies for the development of a wide range of nutrigenetic interventions since they have a direct impact on the blood levels of lipids. In this way, specific recommendations were identified as potential tools in developing precision diets and highlighted the importance of personalized nutrition. These recommendations may serve as a possible strategy to implement as dietary tools for the preventive treatment and control alterations in lipid metabolism.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42021248816, identifier [CRD42021248816].",
+    "journal": "Frontiers in nutrition",
+    "year": "2022",
+    "authors": [
+      "Pérez-Beltrán YE",
+      "Rivera-Iñiguez I",
+      "Gonzalez-Becerra K",
+      "Pérez-Naitoh N",
+      "Tovar J",
+      "Sáyago-Ayerdi SG"
+    ],
+    "doi": "10.3389/fnut.2022.830283",
+    "pmcid": "PMC8979208",
+    "pub_types": [
+      "Systematic Review",
+      "Journal Article"
+    ],
+    "mesh": [],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35387194/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "35631146",
+    "title": "Japanese-Style Diet and Cardiovascular Disease Mortality: A Systematic Review and Meta-Analysis of Prospective Cohort Studies.",
+    "abstract": "This systematic review and meta-analysis elucidate the effects of the Japanese-style diet and characteristic Japanese foods on the mortality risk of cardiovascular disease (CVD), cerebrovascular disease (stroke), and heart disease (HD). This review article followed the PRISMA guidelines. A systematic search in PubMed, The Cochrane Library, JDreamIII, and ICHUSHI Web identified prospective cohort studies on Japanese people published till July 2020. The meta-analysis used a random-effects model, and heterogeneity and publication bias were evaluated with I2 statistic and Egger's test, respectively. Based on inclusion criteria, we extracted 58 articles, including 9 on the Japanese-style diet (n = 469,190) and 49 (n = 2,668,238) on characteristic Japanese foods. With higher adherence to the Japanese-style diet, the pooled risk ratios (RRs) for CVD, stroke, heart disease/ischemic heart disease combined (HD/IHD) mortality were 0.83 (95% CI, 0.77-0.89, I2 = 58%, Egger's test: p = 0.625, n = 9 studies), 0.80 (95% CI, 0.69-0.93, I2 = 66%, Egger's test: p = 0.602, n = 6 studies), and 0.81 (95% CI, 0.75-0.88, I2 = 0%, Egger's test: p = 0.544, n = 6 studies), respectively. Increased consumption of vegetables, fruits, fish, green tea, and milk and dairy products decreased the RR for CVD, stroke, or HD mortality. Increased salt consumption elevated the RR for CVD and stroke mortality. Increased consumption of dietary fiber and plant-derived protein decreased the RR for CVD, stroke, and HD/IHD mortality. The Japanese-style diet and characteristic Japanese foods may reduce CVD mortality. Most studies conducted diet surveys between 1980 and the 1990s. This meta-analysis used articles that evaluated the same cohort study by a different method. A new large-scale cohort study matching the current Japanese dietary habits is needed to confirm these findings.",
+    "journal": "Nutrients",
+    "year": "2022",
+    "authors": [
+      "Shirota M",
+      "Watanabe N",
+      "Suzuki M",
+      "Kobori M"
+    ],
+    "doi": "10.3390/nu14102008",
+    "pmcid": "PMC9147868",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Animals",
+      "Cardiovascular Diseases",
+      "Cohort Studies",
+      "Diet",
+      "Heart Diseases",
+      "Humans",
+      "Japan",
+      "Milk",
+      "Prospective Studies",
+      "Stroke"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35631146/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "34770068",
+    "title": "Dietary Fiber Intake and Risk of Pancreatic Cancer: Systematic Review and Meta-Analysis of Observational Studies.",
+    "abstract": "The burden of pancreatic cancer varies greatly across countries, with the number of deaths, incident cases, and disability-adjusted life years more than doubling in recent years, and with high-income countries having the highest incidence and mortality rates. We conducted this systematic review with meta-analysis with the goal of summarizing the current evidence on dietary fiber intake and its role in reducing the risk of pancreatic cancer, given the importance of identifying risk factors. This systematic review followed the guidelines of the Cochrane Collaboration and the Meta-analysis of Observational Studies in Epidemiology and the Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020. The structured literature search was conducted on PubMed/Medline and Scopus, combining free text words and medical subject headings. Our review contained 18 records at the end of the process. Our results show that dietary fiber intake reduces the risk of pancreatic cancer. When the analysis was differentiated according to the type of fiber considered, sub-grouped by gender (reduction of around 60% among women), and when case-control studies were conducted, the strength of the association increased. Clinicians and policymakers should improve interventions to raise the population's awareness regarding the consumption of high-fiber diets, both in practice and in terms of public health policy.",
+    "journal": "International journal of environmental research and public health",
+    "year": "2021",
+    "authors": [
+      "Nucci D",
+      "Santangelo OE",
+      "Provenzano S",
+      "Fatigoni C",
+      "Nardi M",
+      "Ferrara P"
+    ],
+    "doi": "10.3390/ijerph182111556",
+    "pmcid": "PMC8583332",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Case-Control Studies",
+      "Dietary Fiber",
+      "Female",
+      "Humans",
+      "Incidence",
+      "Observational Studies as Topic",
+      "Pancreatic Neoplasms",
+      "Risk Factors"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34770068/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "28064440",
+    "title": "Dietary fibre for the prevention of recurrent colorectal adenomas and carcinomas.",
+    "abstract": "BACKGROUND: This is an update of the Cochrane review published in 2002.Colorectal cancer (CRC) is a major cause of morbidity and mortality in industrialised countries. Experimental evidence has supported the hypothesis that dietary fibre may protect against the development of CRC, although epidemiologic data have been inconclusive.\nOBJECTIVES: To assess the effect of dietary fibre on the recurrence of colorectal adenomatous polyps in people with a known history of adenomatous polyps and on the incidence of CRC compared to placebo. Further, to identify the reported incidence of adverse effects, such as abdominal pain or diarrhoea, that resulted from the fibre intervention.\nSEARCH METHODS: We identified randomised controlled trials (RCTs) from Cochrane Colorectal Cancer's Specialised Register, CENTRAL, MEDLINE and Embase (search date, 4 April 2016). We also searched ClinicalTrials.gov and WHO International Trials Registry Platform on October 2016.\nSELECTION CRITERIA: We included RCTs or quasi-RCTs. The population were those having a history of adenomatous polyps, but no previous history of CRC, and repeated visualisation of the colon/rectum after at least two-years' follow-up. Dietary fibre was the intervention. The primary outcomes were the number of participants with: 1. at least one adenoma, 2. more than one adenoma, 3. at least one adenoma greater than or equal to 1 cm, or 4. a new diagnosis of CRC. The secondary outcome was the number of adverse events.\nDATA COLLECTION AND ANALYSIS: Two reviewers independently extracted data, assessed trial quality and resolved discrepancies by consensus. We used risk ratios (RR) and risk difference (RD) with 95% confidence intervals (CI) to measure the effect. If statistical significance was reached, we reported the number needed to treat for an additional beneficial outcome (NNTB) or harmful outcome (NNTH). We combined the study data using the fixed-effect model if it was clinically, methodologically, and statistically reasonable.\nMAIN RESULTS: We included seven studies, of which five studies with 4798 participants provided data for analyses in this review. The mean ages of the participants ranged from 56 to 66 years. All participants had a history of adenomas, which had been removed to achieve a polyp-free colon at baseline. The interventions were wheat bran fibre, ispaghula husk, or a comprehensive dietary intervention with high fibre whole food sources alone or in combination. The comparators were low-fibre (2 to 3 g per day), placebo, or a regular diet. The combined data showed no statistically significant difference between the intervention and control groups for the number of participants with at least one adenoma (5 RCTs, n = 3641, RR 1.04, 95% CI 0.95 to 1.13, low-quality evidence), more than one adenoma (2 RCTs, n = 2542, RR 1.06, 95% CI 0.94 to 1.20, low-quality evidence), or at least one adenoma 1 cm or greater (4 RCTs, n = 3224, RR 0.99, 95% CI 0.82 to 1.20, low-quality evidence) at three to four years. The results on the number of participants diagnosed with colorectal cancer favoured the control group over the dietary fibre group (2 RCTS, n = 2794, RR 2.70, 95% CI 1.07 to 6.85, low-quality evidence). After 8 years of comprehensive dietary intervention, no statistically significant difference was found in the number of participants with at least one recurrent adenoma (1 RCT, n = 1905, RR 0.97, 95% CI 0.78 to 1.20), or with more than one adenoma (1 RCT, n = 1905, RR 0.89, 95% CI 0.64 to 1.24). More participants given ispaghula husk group had at least one recurrent adenoma than the control group (1 RCT, n = 376, RR 1.45, 95% CI 1.01 to 2.08). Other analyses by types of fibre intervention were not statistically significant. The overall dropout rate was over 16% in these trials with no reasons given for these losses. Sensitivity analysis incorporating these missing data shows that none of the results can be considered as robust; when the large numbers of participants lost to follow-up were assumed to have had an event or not, the results changed sufficiently to alter the conclusions that we would draw. Therefore, the reliability of the findings may have been compromised by these missing data (attrition bias) and should be interpreted with caution.\nAUTHORS' CONCLUSIONS: There is a lack of evidence from existing RCTs to suggest that increased dietary fibre intake will reduce the recurrence of adenomatous polyps in those with a history of adenomatous polyps within a two to eight year period. However, these results may be unreliable and should be interpreted cautiously, not only because of the high rate of loss to follow-up, but also because adenomatous polyp is a surrogate outcome for the unobserved true endpoint CRC. Longer-term trials with higher dietary fibre levels are needed to enable confident conclusion.",
+    "journal": "The Cochrane database of systematic reviews",
+    "year": "2017",
+    "authors": [
+      "Yao Y",
+      "Suo T",
+      "Andersson R",
+      "Cao Y",
+      "Wang C",
+      "Lu J"
+    ],
+    "doi": "10.1002/14651858.CD003430.pub2",
+    "pmcid": "PMC6465195",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Adenoma",
+      "Adenomatous Polyps",
+      "Aged",
+      "Colorectal Neoplasms",
+      "Dietary Fiber",
+      "Humans",
+      "Middle Aged",
+      "Neoplasm Recurrence, Local",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28064440/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "29516760",
+    "title": "Is dietary fibre truly protective against colon cancer? A systematic review and meta-analysis.",
+    "abstract": "Colorectal cancer is the third most common cancer worldwide. Growing evidence shows that about 47% of cases of colorectal cancer can be prevented by a healthy lifestyle. We performed a systematic review and meta-analysis aimed to evaluate the association between dietary fibre intake and the risk of colon cancer. We performed a structured computer search on PubMed, including epidemiological studies reporting results of dietary fibre intake and risk of colon cancer in women or men. We compared subjects exposed to the highest versus the lowest consumption. The search strategy identified 376 papers. After screening, 25 datasets were included in our meta-analysis. Results suggest a protective role of dietary fibre intake on colon cancer risk ES = 0.74 (95% CI = 0.67-0.82), p value = .000, but, moderate statistical heterogeneity (χ2 = 42.73, p value = .011) was found. Due to the high mortality of colorectal cancer, it is important to identify effective preventive measures, especially those of a healthy lifestyle, such as a healthy diet.",
+    "journal": "International journal of food sciences and nutrition",
+    "year": "2018",
+    "authors": [
+      "Gianfredi V",
+      "Salvatori T",
+      "Villarini M",
+      "Moretti M",
+      "Nucci D",
+      "Realdon S"
+    ],
+    "doi": "10.1080/09637486.2018.1446917",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Colonic Neoplasms",
+      "Dietary Fiber",
+      "Female",
+      "Humans",
+      "Male",
+      "Randomized Controlled Trials as Topic",
+      "Risk Factors"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29516760/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "25552267",
+    "title": "Association between dietary fiber and lower risk of all-cause mortality: a meta-analysis of cohort studies.",
+    "abstract": "Although in vitro and in vivo experiments have suggested that dietary fiber might have beneficial effects on health, results on the association between fiber intake and all-cause mortality in epidemiologic studies have been inconsistent. Therefore, we conducted a meta-analysis of prospective cohort studies to quantitatively assess this association. Pertinent studies were identified by searching articles in PubMed and Web of Knowledge through May 2014 and reviewing the reference lists of the retrieved articles. Study-specific risk estimates were combined using random-effects models. Seventeen prospective studies (1997-2014) that had a total of 67,260 deaths and 982,411 cohort members were included. When comparing persons with dietary fiber intakes in the top tertile with persons whose intakes were in the bottom tertile, we found a statistically significant inverse association between fiber intake and all-cause mortality, with an overall relative risk of 0.84 (95% confidence interval: 0.80, 0.87; I(2) = 41.2%). There was a 10% reduction in risk for per each 10-g/day increase in fiber intake (relative risk = 0.90; 95% confidence interval: 0.86, 0.94; I(2) = 77.2%). The combined estimate was robust across subgroup and sensitivity analyses. No publication bias was detected. A higher dietary fiber intake was associated with a reduced risk of death. These findings suggest that fiber intake may offer a potential public health benefit in reducing all-cause mortality.",
+    "journal": "American journal of epidemiology",
+    "year": "2015",
+    "authors": [
+      "Yang Y",
+      "Zhao LG",
+      "Wu QJ",
+      "Ma X",
+      "Xiang YB"
+    ],
+    "doi": "10.1093/aje/kwu257",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "mesh": [
+      "Cholesterol",
+      "Dietary Fiber",
+      "Female",
+      "Health Behavior",
+      "Humans",
+      "Male",
+      "Mortality",
+      "Prospective Studies",
+      "Risk Factors"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25552267/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "34951702",
+    "title": "Effect of dietary fiber on gut barrier function, gut microbiota, short-chain fatty acids, inflammation, and clinical outcomes in critically ill patients: A systematic review and meta-analysis.",
+    "abstract": "BACKGROUND: Although some studies have explored the relationships between dietary fiber (DF) supplement and gut barrier function, changes of gut microbiota, and clinical outcomes in critically ill patients, the results were not consistent.\nOBJECTIVE: The purpose was to explore the effect of DF on gut barrier function, gut microbiota, short-chain fatty acids (SCFAs), inflammation, and clinical outcomes in critically ill patients.\nMETHODS: A search was performed through five databases from inception to July 12, 2021. Data were expressed as mean difference (MD) or odds ratio (OR) with CI.\nRESULTS: Twenty-one studies involving 2084 critically ill patients were included. There was a significant reduction in intestinal permeability, demonstrated by lactulose/rhamnose ratio (MD, -0.04; 95% CI, -0.08 to -0.00; P = 0.03) on day 8, C-reactive protein on day 14 (MD, -36.66; 95% CI, -44.40 to -28.93; P < 0.001) and duration of hospital stay (MD, -3.16; 95% CI, -5.82 to -0.49; P < 0.05) after DF supplement. There were no significant differences in SCFA levels, duration of mechanical ventilation, and mortality between two groups. However, subgroup analysis results indicated significant decreases in duration of hospital stay and risk of mortality were seen in the subgroups with a supplementary fiber dose ≥20 g/day (MD, -5.62 [95% CI, -8.04 to -3.21; P < 0.0001]; OR, 0.18 [95% CI, 0.06-0.57; P = 0.004]), as well as in the medical intensive care unit (MD, -4.77 [95% CI, -7.48 to -2.07; P < 0.01]; OR, 0.13 [95% CI, 0.03-0.65; P < 0.05]).\nCONCLUSIONS: DF may improve gut barrier function, modulate intestinal microbiota, decrease systemic inflammatory response, and advance clinical outcomes in critically ill patients.",
+    "journal": "JPEN. Journal of parenteral and enteral nutrition",
+    "year": "2022",
+    "authors": [
+      "Liu T",
+      "Wang C",
+      "Wang YY",
+      "Wang LL",
+      "Ojo O",
+      "Feng QQ"
+    ],
+    "doi": "10.1002/jpen.2319",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "mesh": [
+      "Critical Illness",
+      "Dietary Fiber",
+      "Fatty Acids, Volatile",
+      "Gastrointestinal Microbiome",
+      "Humans",
+      "Inflammation"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34951702/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "26711548",
+    "title": "Dietary fibre intake and mortality from cardiovascular disease and all cancers: A meta-analysis of prospective cohort studies.",
+    "abstract": "BACKGROUND: Accumulating evidence supports health benefits of dietary fibre, such as improving lipid profiles, lowering blood pressure and improving insulin sensitivity, but evidence from comprehensive investigation of dietary fibre intake and mortality from cardiovascular disease (CVD) and all cancers is limited.\nAIMS: To quantitatively assess the association between dietary fibre intake and mortality from CVD and all cancers.\nMETHODS: We performed a meta-analysis of prospective cohort studies. Eligible studies were identified by searching PubMed and Embase databases for all articles published up to September 2014 and via hand searching. Study-specific estimates adjusting for potential confounders were combined to calculate pooled relative risks (RRs) with 95% confidence intervals (CIs), using a random-effects model.\nRESULTS: We found 15 studies that examined the association between dietary fibre and mortality from CVD, coronary heart disease (CHD) and all cancers. The pooled RRs of CVD, CHD and all-cancer mortality for the highest versus lowest category of dietary fibre were 0.77 (95% CI: 0.71-0.84), 0.76 (95% CI: 0.67-0.87) and 0.86 (95% CI: 0.79-0.93), respectively. In a dose-response meta-analysis, the pooled RRs for an increment of 10 g/day in dietary fibre intake were 0.91 (95% CI: 0.88-0.94) for CVD, 0.89 (95% CI: 0.85-0.93) for CHD and 0.94 (95% CI: 0.91-0.97) for all cancers.\nCONCLUSIONS: Our findings suggest that high dietary fibre intake is associated with a reduced risk of mortality from CVD and all cancers. These results support the current recommendation that high dietary fibre intake should be part of a healthy diet.",
+    "journal": "Archives of cardiovascular diseases",
+    "year": "2016",
+    "authors": [
+      "Kim Y",
+      "Je Y"
+    ],
+    "doi": "10.1016/j.acvd.2015.09.005",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ],
+    "mesh": [
+      "Adult",
+      "Aged",
+      "Aged, 80 and over",
+      "Cardiovascular Diseases",
+      "Dietary Fiber",
+      "Feeding Behavior",
+      "Female",
+      "Humans",
+      "Least-Squares Analysis",
+      "Life Style",
+      "Male",
+      "Middle Aged",
+      "Neoplasms",
+      "Odds Ratio",
+      "Prospective Studies",
+      "Protective Factors",
+      "Risk Assessment",
+      "Risk Factors",
+      "Risk Reduction Behavior",
+      "Time Factors"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26711548/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "39821284",
+    "title": "Effects of Supplementation With Different Specificities of Dietary Fiber on Health-Related Indicators in Adults With Overweight or Obesity: A Systematic Review and Meta-analysis of Randomized Controlled Trials.",
+    "abstract": "CONTEXT: Dietary fiber (DF) exhibits variations in its chemical and physical complexity, as well as in its utilization by the gut microbiota. However, the impact of these differences on the health status of adults with overweight or obesity remains unclear.\nOBJECTIVE: This meta-analysis aimed to explore the varying effects of supplementing with different specificities of DF on the health of adults with overweight or obesity, providing guidance on selecting DF supplementation to improve health status.\nDATA SOURCES: The literature search encompassed 4 electronic databases-PubMed, Cochrane Library, Web of Science, and EMBASE-and was conducted between January 1, 2012, and November 10, 2023. Randomized controlled trials comparing DF with placebo treatment, without energy restriction, were included.\nDATA EXTRACTION: Two independent reviewers extracted data using a standardized form, resolving discrepancies through discussion. The data included study characteristics, participant demographics, DF specifications, and outcome measures.\nDATA ANALYSIS: Random-effects models and the generic inverse variance method were used to analyze data, assuming varying outcomes based on DF specificity. Meta-regression assessed the impact of population, duration, and dosage. Publication bias was evaluated using funnel plots and Egger's and Begg's tests. The analysis included 34 trials (n = 1804) examining DF supplementation at 1.5 to 40 g/day for 3 to 16 weeks. DF supplementation significantly reduced glycated hemoglobin (HbA1c) by 0.13%, fasting insulin by 0.82 μIU/mL, and homeostatic model assessment of insulin resistance (HOMA-IR) by 0.33 in adults with overweight or obesity. Subgroup analyses based on DF specificity revealed differences in effects on HbA1c, fasting insulin, and systolic blood pressure. The low-specificity subgroup showed significant heterogeneity in body weight, body mass index, HbA1c, fasting insulin, and HOMA-IR, with a decrease in fasting insulin by 1.09 μIU/mL. The low-to-intermediate-specificity subgroup had reductions in HbA1c by 0.8%, fasting insulin by 2.08 μIU/mL, and HOMA-IR by 0.61. The intermediate-specificity subgroup experienced a 2.85-kg decrease in body weight and a 9.03-mg/dL increase in LDL cholesterol. The mixed subgroup showed an increase in systolic blood pressure by 3.85 mmHg.\nCONCLUSION: Supplementing with different specificities of DF may have distinct effects on health-related indicators in adults with overweight or obesity. Considering individuals' gut microbiota composition and specific health goals is recommended when selecting DF supplementation for adults with overweight or obesity.\nSYSTEMATIC REVIEW REGISTRATION: PROSPERO registration no. CRD42023432920.",
+    "journal": "Nutrition reviews",
+    "year": "2025",
+    "authors": [
+      "Xiang M",
+      "Qiao L",
+      "Han Q",
+      "Zha Y",
+      "Sui X",
+      "Wang Q"
+    ],
+    "doi": "10.1093/nutrit/nuae193",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "mesh": [
+      "Humans",
+      "Dietary Fiber",
+      "Obesity",
+      "Overweight",
+      "Randomized Controlled Trials as Topic",
+      "Dietary Supplements",
+      "Adult",
+      "Insulin Resistance",
+      "Female",
+      "Health Status",
+      "Male",
+      "Middle Aged",
+      "Glycated Hemoglobin"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39821284/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "24929874",
+    "title": "Association between dietary fiber intake and risk of coronary heart disease: A meta-analysis.",
+    "abstract": "BACKGROUND & AIMS: The association between coronary heart disease (CHD) and dietary fiber intake is not consistent, especially for the subtypes of dietary fiber. The aim of our study was to conduct a meta-analysis of existing cohort published studies assessing the association between dietary fiber intake and risk of CHD, and quantitatively estimating their dose-response relationships.\nMETHODS: We searched PubMed and EMBASE before May 2013. Random-effect model was used to calculate the pool relative risk (RRs) for the incidence and mortality of CHD. Dose-response, subgroup analyses based on fiber subtypes, heterogeneity and publication bias were also carried out.\nRESULTS: Eighteen studies involving 672,408 individuals were finally included in the present study. The pooled-adjusted RRs of coronary heart disease for the highest versus lowest category of fiber intake were 0.93 (95% confidence interval (CI), 0.91-0.96, P < 0.001) for incidence of all coronary events and 0.83 (95% CI, 0.76-0.91, P < 0.001) for mortality. Further subgroup analyses based on fiber subtypes (cereal, fruit, and vegetable fiber), indicated that RRs were 0.92 (95% CI, 0.85-0.99, P = 0.032), 0.92 (95% CI, 0.86-0.98, P = 0.01), 0.95 (95% CI, 0.89-1.01, P = 0.098) respectively for all coronary event and 0.81 (95% CI, 0.72-0.92, P = 0.001), 0.68 (95% CI, 0.43-1.07, P = 0.094), 0.91 (95% CI, 0.74-1.12, P = 0.383) for mortality. In addition, a significant dose-response relationship was observed between fiber intake and the incidence and mortality of CHD (P < 0.001).\nCONCLUSIONS: Our results indicate that consumption of dietary fiber is inversely associated with risk of coronary heart disease, especially for fiber from cereals and fruits. Besides, soluble and insoluble fibers have the similar effect. A significant dose-response relationship is also observed between fiber intake and CHD risk.",
+    "journal": "Clinical nutrition (Edinburgh, Scotland)",
+    "year": "2015",
+    "authors": [
+      "Wu Y",
+      "Qian Y",
+      "Pan Y",
+      "Li P",
+      "Yang J",
+      "Ye X"
+    ],
+    "doi": "10.1016/j.clnu.2014.05.009",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "mesh": [
+      "Coronary Artery Disease",
+      "Databases, Factual",
+      "Dietary Fiber",
+      "Edible Grain",
+      "Fruit",
+      "Humans",
+      "Incidence",
+      "Risk Factors",
+      "Vegetables"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24929874/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "27932391",
+    "title": "Healthy Dietary Patterns and Risk of Mortality and ESRD in CKD: A Meta-Analysis of Cohort Studies.",
+    "abstract": "BACKGROUND AND OBJECTIVES: Patients with CKD are advised to follow dietary recommendations that restrict individual nutrients. Emerging evidence indicates overall eating patterns may better predict clinical outcomes, however, current data on dietary patterns in kidney disease are limited.\nDESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: This systematic review aimed to evaluate the association between dietary patterns and mortality or ESRD among adults with CKD. Medline, Embase, and reference lists were systematically searched up to November 24, 2015 by two independent review authors. Eligible studies were longitudinal cohort studies reporting the association of dietary patterns with mortality, cardiovascular events, or ESRD.\nRESULTS: A total of seven studies involving 15,285 participants were included. Healthy dietary patterns were generally higher in fruit and vegetables, fish, legumes, cereals, whole grains, and fiber, and lower in red meat, salt, and refined sugars. In six studies, healthy dietary patterns were consistently associated with lower mortality (3983 events; adjusted relative risk, 0.73; 95% confidence interval, 0.63 to 0.83; risk difference of 46 fewer (29-63 fewer) events per 1000 people over 5 years). There was no statistically significant association between healthy dietary patterns and risk of ESRD (1027 events; adjusted relative risk, 1.04; 95% confidence interval, 0.68 to 1.40).\nCONCLUSIONS: Healthy dietary patterns are associated with lower mortality in people with kidney disease. Interventions to support adherence to increased fruit and vegetable, fish, legume, whole grain, and fiber intake, and reduced red meat, sodium, and refined sugar intake could be effective tools to lower mortality in people with kidney disease.",
+    "journal": "Clinical journal of the American Society of Nephrology : CJASN",
+    "year": "2017",
+    "authors": [
+      "Kelly JT",
+      "Palmer SC",
+      "Wai SN",
+      "Ruospo M",
+      "Carrero JJ",
+      "Campbell KL"
+    ],
+    "doi": "10.2215/CJN.06190616",
+    "pmcid": "PMC5293335",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Cohort Studies",
+      "Diet, Healthy",
+      "Disease Progression",
+      "Food",
+      "Humans",
+      "Renal Insufficiency",
+      "Renal Insufficiency, Chronic"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27932391/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "34073366",
+    "title": "The Effect of Dietary Fibre on Gut Microbiota, Lipid Profile, and Inflammatory Markers in Patients with Type 2 Diabetes: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.",
+    "abstract": "BACKGROUND: A disequilibrium of the gut microbial community has been closely associated with systemic inflammation and metabolic syndromes including type 2 diabetes. While low fibre and high fat diets may lead to dysbiosis of the gut microbiome as a result of the loss of useful microbes, it has been reported that a high fibre diet may prevent the fermentation of protein and may promote eubiosis of gut microbiota.\nAIM: This review aims to evaluate the effect of dietary fibre (DF) on gut microbiota, lipid profile, and inflammatory markers in patients with type 2 diabetes.\nMETHODS: The PRISMA framework was relied on to conduct this systematic review and meta-analysis. Searches were carried out using electronic databases and reference list of articles.\nRESULTS: Eleven studies were included in the systematic review, while ten studies were included in the meta-analysis. The findings revealed five distinct areas including the effects of DF on (a) gut microbiota (122 participants); (b) lipopolysaccharides (LPS, 79 participants) and lipopolysaccharides binding protein (LBP, 81 participants); (c) lipid profile; (d) inflammatory markers; and (e) body mass index (BMI, 319 participants). The relative abundance of Bifidobacterium increased by 0.73 (95% CI: 0.57, 0.89) in the DF group in contrast to the control (p < 0.05). With respect to LPS, the level was lower in the DF group than the control and the difference was significant (p < 0.05). The standardised mean difference for LPS was -0.45 (95% CI: -0.90, -0.01) although the difference between the two groups in relation to LBP was not significant (p = 0.08) and the mean difference was 0.92 (95% CI: -0.12, 1.95). While there was a decrease of -1.05 (95% CI: -2.07, -0.02) with respect to total cholesterol (356 participants) in the DF group as compared with the control (p < 0.05), both groups were not significantly different (p > 0.05) in the other lipid parameters. The difference between the groups was significant (p < 0.05) in relation to C-reactive protein, and the mean difference was 0.43 (95% CI: 0.02, 0.84). This could be due to the short duration of the included studies and differences in participants' diets including the amount of dietary fibre supplements. However, the groups were not significantly different (p > 0.05) with respect to the other inflammatory markers. The meta-analysis of the BMI showed that the DF group decreased by -0.57 (95% CI: -1.02, -0.12) as compared with the control and this was significant (p < 0.01).\nCONCLUSION: DF significantly (p < 0.05) increased the relative abundance of Bifidobacterium and significantly decreased (p < 0.05) LPS, total cholesterol, and BMI as compared with the control. However, DF did not seem to have an effect that was significant on LBP, triglyceride, HDL cholesterol, LDL cholesterol, IL-6, TNF-α, adiponectin, and leptin. These findings have implications for public health in relation to the use of dietary fibre in nutritional interventions and as strategies for managing type 2 diabetes.",
+    "journal": "Nutrients",
+    "year": "2021",
+    "authors": [
+      "Ojo O",
+      "Ojo OO",
+      "Zand N",
+      "Wang X"
+    ],
+    "doi": "10.3390/nu13061805",
+    "pmcid": "PMC8228854",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Acute-Phase Proteins",
+      "Bifidobacterium",
+      "Biomarkers",
+      "Body Mass Index",
+      "C-Reactive Protein",
+      "Carrier Proteins",
+      "Databases, Factual",
+      "Diabetes Mellitus, Type 2",
+      "Dietary Fiber",
+      "Dysbiosis",
+      "Gastrointestinal Microbiome",
+      "Humans",
+      "Lipids",
+      "Membrane Glycoproteins",
+      "Metabolic Syndrome",
+      "Randomized Controlled Trials as Topic",
+      "Triglycerides",
+      "Lipopolysaccharide-Binding Protein"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34073366/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "36558444",
+    "title": "Lower Fiber Consumption in Women with Polycystic Ovary Syndrome: A Meta-Analysis of Observational Studies.",
+    "abstract": "Polycystic ovary syndrome is a common endocrine disorder associated with metabolic abnormalities and gut microbiota dysbiosis. The deficiency of dietary fiber, a crucial nutrient in the daily diet, is also associated with a wide range of metabolic and reproductive abnormalities, as well as an altered gut microbial ecosystem. This study is a meta-analysis to summarize the available evidence on the dietary fiber intake level in PCOS patients. Databases of PubMed, Embase, Cochrane Library, Web of Science, and ClinicalTrials.gov were searched for observational studies, and 13 studies were finally included. The pooled standardized mean difference (SMD) with the 95% confidence interval (CI) of daily dietary fiber intake and total energy intake were calculated using the random-effects model. The pooled result (12 studies) on absolute dietary fiber intake showed that while there was no significant difference in the total energy intake [−0.17 (−0.44, 0.09), p = 0.208], the dietary fiber intake was significantly lower in PCOS women than those of controls [−0.32 (−0.50, −0.14), p < 0.001]. However, significant heterogeneity was detected across the studies (I2 = 65.6%, p = 0.001). Meta-regression suggested that geographic region and dietary assessment method may confer borderline significance of influence on the heterogeneity. The pooled result (two studies) on dietary fiber intake which adjusted for total energy intake, however, showed no significant difference [−2.11 (−4.77, 0.56), p = 0.122]. In subgroup analyses based on absolute dietary fiber intake, a lower dietary fiber intake in PCOS was observed in studies conducted in Asia, adopted food diary or records or food recall as the dietary assessment method, had a case−control study design, or used Rotterdam criteria for PCOS diagnosis. The difference in SMD was still significant in the adult subgroup or in studies matched or unmatched for age.",
+    "journal": "Nutrients",
+    "year": "2022",
+    "authors": [
+      "Leung WT",
+      "Tang Z",
+      "Feng Y",
+      "Guan H",
+      "Huang Z",
+      "Zhang W"
+    ],
+    "doi": "10.3390/nu14245285",
+    "pmcid": "PMC9785338",
+    "pub_types": [
+      "Meta-Analysis",
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Adult",
+      "Humans",
+      "Female",
+      "Polycystic Ovary Syndrome",
+      "Case-Control Studies",
+      "Ecosystem",
+      "Diet",
+      "Dietary Fiber"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36558444/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "31894861",
+    "title": "Metabolic endotoxemia and cardiovascular disease: A systematic review about potential roles of prebiotics and probiotics.",
+    "abstract": "Translocation of microbiome-derived lipopolysaccharide (LPS) to the bloodstream (metabolic endotoxaemia) is associated with a significantly increased risk of cardiovascular diseases (CVD); however, the direction of this association is not fully understood. It has been revealed by some studies that alterations in the intestinal microbiota (dysbiosis) lead to increased intestinal permeability and translocation of LPS to the blood circulation. LPS may trigger toll-like receptor 4- (TLR-4) mediated inflammatory responses; this could lead to a chronic low-grade pro-inflammatory condition named metabolic endotoxaemia (ME), which is typically observed in CVD patients. ME is promoted by increased intestinal permeability. Moreover, dysbiosis leads to production of trimethylamine-N-oxide (TMAO), a gut bacterial metabolite suggested as a new risk factor in CVD development. Probiotics, extensively reviewed for decades, are live microorganisms which, when taken in adequate amounts, have beneficial effects on the host metabolism. Prebiotics are a type of dietary fibre that act as nourishment for the good bacteria in the gut and decrease the population of pathogen bacteria that produce greater amounts of endotoxins. Although an association has been postulated between ME and CVD, the results of studies investigating the role of antibiotic therapy in preventing the disease have been inconsistent. In this review, we discuss how prebiotics and probiotics modulate gut microbiota and consequently might help with prevention and/or treatment of CVD associated with ME.",
+    "journal": "Clinical and experimental pharmacology & physiology",
+    "year": "2020",
+    "authors": [
+      "Moludi J",
+      "Maleki V",
+      "Jafari-Vayghyan H",
+      "Vaghef-Mehrabany E",
+      "Alizadeh M"
+    ],
+    "doi": "10.1111/1440-1681.13250",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Animals",
+      "Bacteria",
+      "Cardiovascular Diseases",
+      "Dysbiosis",
+      "Endotoxemia",
+      "Gastrointestinal Microbiome",
+      "Heart Disease Risk Factors",
+      "Host-Pathogen Interactions",
+      "Humans",
+      "Intestines",
+      "Methylamines",
+      "Prebiotics",
+      "Probiotics",
+      "Prognosis",
+      "Risk Assessment"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31894861/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "36279902",
+    "title": "Postdiagnosis dietary factors, supplement use and breast cancer prognosis: Global Cancer Update Programme (CUP Global) systematic literature review and meta-analysis.",
+    "abstract": "Little is known about how diet might influence breast cancer prognosis. The current systematic reviews and meta-analyses summarise the evidence on postdiagnosis dietary factors and breast cancer outcomes from randomised controlled trials and longitudinal observational studies. PubMed and Embase were searched through 31st October 2021. Random-effects linear dose-response meta-analysis was conducted when at least three studies with sufficient information were available. The quality of the evidence was evaluated by an independent Expert Panel. We identified 108 publications. No meta-analysis was conducted for dietary patterns, vegetables, wholegrains, fish, meat, and supplements due to few studies, often with insufficient data. Meta-analysis was only possible for all-cause mortality with dairy, isoflavone, carbohydrate, dietary fibre, alcohol intake and serum 25-hydroxyvitamin D (25(OH)D), and for breast cancer-specific mortality with fruit, dairy, carbohydrate, protein, dietary fat, fibre, alcohol intake and serum 25(OH)D. The results, with few exceptions, were generally null. There was limited-suggestive evidence that predefined dietary patterns may reduce the risk of all-cause and other causes of death; that isoflavone intake reduces the risk of all-cause mortality (relative risk (RR) per 2 mg/day: 0.96, 95% confidence interval (CI): 0.92-1.02), breast cancer-specific mortality (RR for high vs low: 0.83, 95% CI: 0.64-1.07), and recurrence (RR for high vs low: 0.75, 95% CI: 0.61-0.92); that dietary fibre intake decreases all-cause mortality (RR per 10 g/day: 0.87, 95% CI: 0.80-0.94); and that serum 25(OH)D is inversely associated with all-cause and breast cancer-specific mortality (RR per 10 nmol/L: 0.93, 95% CI: 0.89-0.97 and 0.94, 95% CI: 0.90-0.99, respectively). The remaining associations were graded as limited-no conclusion.",
+    "journal": "International journal of cancer",
+    "year": "2023",
+    "authors": [
+      "Becerra-Tomás N",
+      "Balducci K",
+      "Abar L",
+      "Aune D",
+      "Cariolou M",
+      "Greenwood DC"
+    ],
+    "doi": "10.1002/ijc.34321",
+    "pmcid": "PMC10092903",
+    "pub_types": [
+      "Systematic Review",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "mesh": [
+      "Animals",
+      "Dietary Supplements",
+      "Diet",
+      "Dietary Fats",
+      "Neoplasms",
+      "Vegetables"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36279902/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "38165561",
+    "title": "Relationship between dietary fiber and all-cause mortality, cardiovascular mortality, and cardiovascular disease in patients with chronic kidney disease: a systematic review and meta-analysis.",
+    "abstract": "BACKGROUND: The potential protective effects of dietary fiber against all-cause mortality, cardiovascular mortality, and cardiovascular disease in patients with chronic kidney disease have not been definitively established. To verify this relationship, a systematic review and a meta-analysis were undertaken.\nMETHODS: PubMed, The Cochrane Library, Web of Science, Embase, ProQuest, and CINAHL were used to systematically search for prospective cohort studies that investigate the association between dietary fiber and all-cause mortality, cardiovascular mortality, and cardiovascular disease in individuals with chronic kidney disease (CKD). This search was conducted up to and including March 2023.\nRESULTS: The analysis included 10 cohort studies, with a total of 19,843 patients who were followed up for 1.5-10.1 y. The results indicated a significant negative correlation between dietary fiber and all-cause mortality among patients with CKD (HR 0.80, 95% CI 0.58-0.97, P < 0.001). Subgroup analysis further revealed that the study population and exposure factors were significantly associated with all-cause mortality (P < 0.001). Increased dietary fiber intake was associated with a reduced risk of cardiovascular mortality (HR 0.78; 95% CI 0.67-0.90) and a reduced incidence of cardiovascular disease (HR 0.87; 95% CI 0.80-0.95) among patients with CKD.\nCONCLUSIONS: The pooled results of our meta-analysis indicated an inverse association between dietary fiber intake and all-cause mortality, cardiovascular mortality, and cardiovascular disease.",
+    "journal": "Journal of nephrology",
+    "year": "2024",
+    "authors": [
+      "Gai W",
+      "Lin L",
+      "Wang Y",
+      "Bian J",
+      "Tao Y"
+    ],
+    "doi": "10.1007/s40620-023-01808-4",
+    "pmcid": "PMC10920433",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Cardiovascular Diseases",
+      "Dietary Fiber",
+      "Prospective Studies",
+      "Renal Insufficiency, Chronic",
+      "Mortality"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38165561/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "39907304",
+    "title": "ILSI Europe Systematic Review: The Impact of Digestible and Nondigestible Carbohydrate Consumption for Toddlers (1-4 Years) in Relation to Health Outcomes.",
+    "abstract": "CONTEXT: Early dietary habits play a crucial role in shaping long-term health outcomes. Understanding the effects of different carbohydrate types on physiological markers is essential for developing evidence-based nutritional guidelines for toddlers.\nOBJECTIVE: The aim was to systematically evaluate the impact of both digestible and nondigestible carbohydrate intake during early childhood (1-4 years of age) on various health outcomes, including growth patterns, metabolic parameters, and the development of risk of cardiovascular diseases.\nDATA SOURCES: PubMed, Embase, and CENTRAL databases were searched up to April 2022 to identify studies investigating carbohydrate consumption in toddlers.\nDATA EXTRACTION: The types of carbohydrates consumed, their sources, and their associations with growth parameters and metabolic markers were extracted. Thirty-one publications, including 18 cohort studies and 2 randomized controlled trials, were included.\nDATA ANALYSIS: The risk of bias was assessed using the Mixed Methods Appraisal Tool. A narrative synthesis was performed, with a visual summary table of the direction of effects.\nCONCLUSION: In toddlers, the negative impact on health risks later in life is more pronounced for digestible dietary carbohydrate intake in liquid forms, such as sugar-sweetened beverages and fruit juice, compared with solid forms. Higher nondigestible carbohydrate (dietary fiber) intake during early childhood showed a beneficial trend on later lipid profile. Further studies are required to comprehensively assess the effect of digestible and nondigestible carbohydrate intake in toddlers on cognitive and psychomotor development, infections, bowel function, and gut microbiota.",
+    "journal": "Nutrition reviews",
+    "year": "2025",
+    "authors": [
+      "Zalewski BM",
+      "Weiss GA",
+      "Campoy C",
+      "Decsi T",
+      "Di Profio E",
+      "Mestdagh R"
+    ],
+    "doi": "10.1093/nutrit/nuae212",
+    "pmcid": "PMC12066953",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Infant",
+      "Child, Preschool",
+      "Dietary Carbohydrates",
+      "Europe",
+      "Dietary Fiber",
+      "Digestion",
+      "Child Development",
+      "Diet",
+      "Cardiovascular Diseases"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39907304/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "38260058",
+    "title": "Dietary intervention improves metabolic levels in patients with type 2 diabetes through the gut microbiota: a systematic review and meta-analysis.",
+    "abstract": "BACKGROUND: Poor dietary structure plays a pivotal role in the development and progression of type 2 diabetes and is closely associated with dysbiosis of the gut microbiota. Thus, the objective of this systematic review was to assess the impact of dietary interventions on improving gut microbiota and metabolic levels in patients with type 2 diabetes.\nMETHODS: We conducted a systematic review and meta-analysis following the PRISMA 2020 guidelines.\nRESULTS: Twelve studies met the inclusion criteria. In comparison to baseline measurements, the high-fiber diet produced substantial reductions in FBG (mean difference -1.15 mmol/L; 95% CI, -2.24 to -0.05; I2 = 94%; P = 0.04), HbA1c (mean difference -0.99%; 95% CI, -1.93 to -0.03; I2 = 89%; P = 0.04), and total cholesterol (mean difference -0.95 mmol/L; 95% CI, -1.57 to -0.33; I2 = 77%; P = 0.003); the high-fat and low-carbohydrate diet led to a significant reduction in HbA1c (mean difference -0.98; 95% CI, -1.50 to -0.46; I2 = 0%; P = 0.0002). Within the experimental group (intervention diets), total cholesterol (mean difference -0.69 mmol/L; 95% CI, -1.27 to -0.10; I2 = 52%; P = 0.02) and LDL-C (mean difference -0.45 mmol/L; 95% CI, -0.68 to -0.22; I2 = 0%; P < 0.0001) experienced significant reductions in comparison to the control group (recommended diets for type 2 diabetes). However, no statistically significant differences emerged in the case of FBG, HbA1c, HOMA-IR, and HDL-C between the experimental and control groups. The high dietary fiber diet triggered an augmented presence of short-chain fatty acid-producing bacteria in the intestines of individuals with T2DM. In addition, the high-fat and low-carbohydrate diet resulted in a notable decrease in Bacteroides abundance while simultaneously increasing the relative abundance of Eubacterium. Compared to a specific dietary pattern, personalized diets appear to result in the production of a greater variety of beneficial bacteria in the gut, leading to more effective blood glucose control in T2D patients.\nCONCLUSION: Dietary interventions hold promise for enhancing metabolic profiles in individuals with T2D through modulation of the gut microbiota. Tailored dietary regimens appear to be more effective than standard diets in improving glucose metabolism. However, given the limited and highly heterogeneous nature of the current sample size, further well-designed and controlled intervention studies are warranted in the future.",
+    "journal": "Frontiers in nutrition",
+    "year": "2023",
+    "authors": [
+      "Xu X",
+      "Zhang F",
+      "Ren J",
+      "Zhang H",
+      "Jing C",
+      "Wei M"
+    ],
+    "doi": "10.3389/fnut.2023.1243095",
+    "pmcid": "PMC10800606",
+    "pub_types": [
+      "Systematic Review",
+      "Journal Article"
+    ],
+    "mesh": [],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38260058/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "37854351",
+    "title": "Dietary intake of total vegetable, fruit, cereal, soluble and insoluble fiber and risk of all-cause, cardiovascular, and cancer mortality: systematic review and dose-response meta-analysis of prospective cohort studies.",
+    "abstract": "OBJECTIVES: To conduct a systematic review and meta-analysis of prospective cohort studies to investigate the association between total, vegetable, fruit, cereal, soluble and insoluble fiber intake and risk of all causes, cardiovascular disease (CVD), and cancer mortality and quantitatively assess the dose-response relation.\nMETHODS: Eligible studies were identified by searching PubMed, Embase and Web of science before August 2023. Random effects models were used to calculate summary relative risk (RR) and 95% confidence intervals (CI) and restricted cubic splines to model the linear/non-linear association.\nRESULTS: The summary RR for all-cause, CVD and cancer mortality of dietary fiber was 0.90 (95% CI: 0.86,0.93), 0.87 (0.84,0.91), 0.91 (0.88,0.93), respectively. Significant association was observed for all-cause and CVD mortality with fruit, vegetable cereal and soluble fiber intake and cancer mortality with cereal fiber intake. No significant association was found for insoluble fiber, vegetable or fruit fiber intake and cancer mortality. Dose-response analysis showed a significant non-linear relation of dietary fiber intake with all-cause mortality, and linear relation for others.\nCONCLUSIONS: Higher dietary fiber including different type and food sources of fiber intake were associated with lower risk of mortality. Our findings provide more comprehensive evidence on dietary fiber intake with mortality.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero, identifier: CRD42022338837.",
+    "journal": "Frontiers in nutrition",
+    "year": "2023",
+    "authors": [
+      "Yao F",
+      "Ma J",
+      "Cui Y",
+      "Huang C",
+      "Lu R",
+      "Hu F"
+    ],
+    "doi": "10.3389/fnut.2023.1153165",
+    "pmcid": "PMC10579821",
+    "pub_types": [
+      "Systematic Review",
+      "Journal Article"
+    ],
+    "mesh": [],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37854351/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "36811592",
+    "title": "The Effect of Regular Consumption of Reformulated Breads on Glycemic Control: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.",
+    "abstract": "Bread is a major source of grain-derived carbohydrates worldwide. High intakes of refined grains, low in dietary fiber and high in glycemic index, are linked with increased risk for type 2 diabetes mellitus (T2DM) and other chronic diseases. Hence, improvements in the composition of bread could influence population health. This systematic review evaluated the effect of regular consumption of reformulated breads on glycemic control among healthy adults, adults at cardiometabolic risk or with manifest T2DM. A literature search was performed using MEDLINE, Embase, Web of Science and the Cochrane Central Register of Controlled Trials. Eligible studies employed a bread intervention (≥2 wk) in adults (healthy, at cardiometabolic risk or manifest T2DM) and reported glycemic outcomes (fasting blood glucose, fasting insulin, HOMA-IR, HbA1c, and postprandial glucose responses). Data were pooled using generic inverse variance with random-effects model and presented as mean difference (MD) or standardized MD between treatments with 95% CIs. Twenty-two studies met the inclusion criteria (n = 1037 participants). Compared with \"regular\" or comparator bread, consumption of reformulated intervention breads yielded lower fasting blood glucose concentrations (MD: -0.21 mmol/L; 95% CI: -0.38, -0.03; I2 = 88%, moderate certainty of evidence), yet no differences in fasting insulin (MD: -1.59 pmol/L; 95% CI: -5.78, 2.59; I2 = 38%, moderate certainty of evidence), HOMA-IR (MD: -0.09; 95% CI: -0.35, 0.23; I2 = 60%, moderate certainty of evidence), HbA1c (MD: -0.14; 95% CI: -0.39, 0.10; I2 = 56%, very low certainty of evidence), or postprandial glucose response (SMD: -0.46; 95% CI: -1.28, 0.36; I2 = 74%, low certainty of evidence). Subgroup analyses revealed a beneficial effect for fasting blood glucose only among people with T2DM (low certainty of evidence). Our findings suggest a beneficial effect of reformulated breads high in dietary fiber, whole grains, and/or functional ingredients on fasting blood glucose concentrations in adults, primarily among those with T2DM. This trial was registered at PROSPERO as CRD42020205458.",
+    "journal": "Advances in nutrition (Bethesda, Md.)",
+    "year": "2023",
+    "authors": [
+      "Schadow AM",
+      "Revheim I",
+      "Spielau U",
+      "Dierkes J",
+      "Schwingshackl L",
+      "Frank J"
+    ],
+    "doi": "10.1016/j.advnut.2022.10.008",
+    "pmcid": "PMC10102991",
+    "pub_types": [
+      "Meta-Analysis",
+      "Systematic Review",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "mesh": [
+      "Adult",
+      "Humans",
+      "Diabetes Mellitus, Type 2",
+      "Bread",
+      "Blood Glucose",
+      "Glycated Hemoglobin",
+      "Randomized Controlled Trials as Topic",
+      "Insulin",
+      "Dietary Fiber",
+      "Cardiovascular Diseases"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36811592/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "25387901",
+    "title": "Dietary fiber effects in chronic kidney disease: a systematic review and meta-analysis of controlled feeding trials.",
+    "abstract": "BACKGROUND/OBJECTIVES: Chronic kidney disease (CKD) is a major health concern associated with increased risk of cardiovascular disease, morbidity and mortality. Current CKD practice guidelines overlook dietary fiber, which is chronically low in the renal diet. However, increasing dietary fiber has been proposed to ameliorate the progress of CKD. We therefore conducted a systematic review and meta-analysis on the effect of dietary fiber intake on serum urea and creatinine as classical markers of renal health in individuals with CKD.\nSUBJECTS/METHODS: We searched MEDLINE, EMBASE, CINHAL and the Cochrane Library for relevant clinical trials with a follow-up ⩾7 days. Data were pooled by the generic inverse variance method using random-effects models and expressed as mean difference (MD) with 95% confidence intervals (95% CIs). Heterogeneity was assessed by the Cochran Q statistic and quantified by I(2).\nRESULTS: A total of 14 trials involving 143 participants met the eligibility criteria. Dietary fiber supplementation significantly reduced serum urea and creatinine levels in the primary pooled analyses (MD, -1.76 mmol/l (95% CI, -3.00, -0.51), P<0.01 and MD, -22.83 mmol/l (95% CI, -42.63, -3.02), P=0.02, respectively) with significant evidence of interstudy heterogeneity only in the analysis of serum urea.\nCONCLUSIONS: This is the first study to summarize the potential beneficial effects of dietary fiber in the CKD population demonstrating a reduction in serum urea and creatinine, as well as highlighting the lack of clinical trials on harder end points. Larger, longer, higher-quality clinical trials measuring a greater variety of uremic toxins in CKD are required (NCT01844882).",
+    "journal": "European journal of clinical nutrition",
+    "year": "2015",
+    "authors": [
+      "Chiavaroli L",
+      "Mirrahimi A",
+      "Sievenpiper JL",
+      "Jenkins DJ",
+      "Darling PB"
+    ],
+    "doi": "10.1038/ejcn.2014.237",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Biomarkers",
+      "Combined Modality Therapy",
+      "Controlled Clinical Trials as Topic",
+      "Creatinine",
+      "Cross-Over Studies",
+      "Dietary Fiber",
+      "Dietary Supplements",
+      "Disease Progression",
+      "Fermentation",
+      "Gastrointestinal Microbiome",
+      "Humans",
+      "Practice Guidelines as Topic",
+      "Renal Dialysis",
+      "Renal Insufficiency, Chronic",
+      "Urea"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25387901/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "30617143",
+    "title": "Should Viscous Fiber Supplements Be Considered in Diabetes Control? Results From a Systematic Review and Meta-analysis of Randomized Controlled Trials.",
+    "abstract": "OBJECTIVE: Evidence from randomized controlled trials (RCTs) suggests that viscous dietary fiber may offer beneficial effects on glycemic control and, thus, an improved cardiovascular disease risk profile. Our purpose was to conduct a systematic review and meta-analysis of RCTs to synthesize the therapeutic effect of viscous fiber supplementation on glycemic control in type 2 diabetes.\nRESEARCH DESIGN AND METHODS: MEDLINE, Embase, and Cochrane Central Register of Controlled Trials were searched through 15 June 2018. We included RCTs ≥3 weeks in duration that assessed the effects of viscous fiber on markers of glycemic control in type 2 diabetes. Two independent reviewers extracted data. Data were pooled using the generic inverse variance method and expressed as mean differences (MD) with 95% CIs. Heterogeneity was assessed (Cochran Q statistic) and quantified (I 2 statistic). The Grading of Recommendations Assessment, Development, and Evaluation (GRADE) approach was used to evaluate the overall certainty of the evidence.\nRESULTS: We identified 28 eligible trial comparisons (n = 1,394). Viscous fiber at a median dose of ∼13.1 g/day significantly reduced HbA1c (MD -0.58% [95% CI -0.88, -0.28]; P = 0.0002), fasting blood glucose (MD -0.82 mmol/L [95% CI -1.32, -0.31]; P = 0.001), and HOMA-insulin resistance (IR) (MD -1.89 [95% CI -3.45, -0.33]; P = 0.02) compared with control and in addition to standard of care. The certainty of evidence was graded moderate for HbA1c, fasting glucose, fasting insulin, and HOMA-IR and low for fructosamine.\nCONCLUSIONS: Viscous fiber supplements improve conventional markers of glycemic control beyond usual care and should be considered in the management of type 2 diabetes.",
+    "journal": "Diabetes care",
+    "year": "2019",
+    "authors": [
+      "Jovanovski E",
+      "Khayyat R",
+      "Zurbau A",
+      "Komishon A",
+      "Mazhar N",
+      "Sievenpiper JL"
+    ],
+    "doi": "10.2337/dc18-1126",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Research Support, Non-U.S. Gov't",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Blood Glucose",
+      "Diabetes Mellitus, Type 2",
+      "Dietary Fiber",
+      "Dietary Supplements",
+      "Fasting",
+      "Humans",
+      "Insulin",
+      "Insulin Resistance",
+      "Randomized Controlled Trials as Topic",
+      "Viscosity"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30617143/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "25382817",
+    "title": "Fiber consumption and all-cause, cardiovascular, and cancer mortalities: a systematic review and meta-analysis of cohort studies.",
+    "abstract": "The present meta-analysis aimed to investigate fiber consumption and all-cause mortality, and cause-specific mortality. MEDLINE and web of science database were searched for cohort studies published from inception to August 2014. Studies were included if they provided a hazard ratio (HR) and corresponding 95% CI for mortality in relation to fiber consumption.We found that, compared with those who consumed lowest fiber, for individuals who ate highest fiber, mortality rate was lower by 23% (HR, 0.77; 95% CI, 0.72-0.81) for CVD, by 17% (HR, 0.83; 95% CI, 0.74-0.91) for cancer, by 23% (HR, 0.77; 95% CI, 0.73-0.81) for all-cause mortality. For each 10 g/day increase in fiber intake, the pooled HR was estimated to be 0.89 (95% CI, 0.86-0.93) for all-cause mortality, 0.80 (95% CI, 0.72-0.88) for CHD mortality, and 0.66 (95% CI, 0.40-0.92) for IHD mortality, 0.91 (95% CI, 0.88-0.94) for cancer. Dietary fiber and CVD mortality showed a strong dose-response relation. Apparently, fiber consumption is inversely associated with all-cause mortality and CVD, IHD, cancer mortality.",
+    "journal": "Molecular nutrition & food research",
+    "year": "2015",
+    "authors": [
+      "Liu L",
+      "Wang S",
+      "Liu J"
+    ],
+    "doi": "10.1002/mnfr.201400449",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Cardiovascular Diseases",
+      "Databases, Factual",
+      "Dietary Fiber",
+      "Humans",
+      "Neoplasms",
+      "Observational Studies as Topic",
+      "Risk Factors"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25382817/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "32278608",
+    "title": "Carbohydrate quality, glycemic index, glycemic load and cardiometabolic risks in the US, Europe and Asia: A dose-response meta-analysis.",
+    "abstract": "BACKGROUND AND AIMS: Despite the proven evidence of high glycemic index (GI) and glycemic load (GL) diets to increase cardiometabolic risks, knowledge about the meta-evidence for carbohydrate quality within world geographic regions is limited. We conducted a meta-analysis to synthesize the evidence of GI/GL studies and carbohydrate quality, gathering additional exposures for carbohydrate, high glycemic carbohydrate, total dietary fiber, and cereal fiber and risks for type 2 diabetes (T2DM), coronary heart disease (CHD), stroke, and mortality, grouped into the US, Europe, and Asia. Secondary aims examined cardiometabolic risks in overweight/obese individuals, by sex, and dose-response dietary variable trends.\nMETHODS AND RESULTS: 40-prospective observational studies from 4-Medline bibliographical databases (Ovid, PubMed, EBSCOhost, CINAHL) were search up to November 2019. Random-effects hazard ratios (HR) and 95% confidence intervals (CI) for highest vs. lowest categories and continuous form combined were reported. Heterogeneity (I2>50%) was frequent in US GI/GL studies due to differing study characteristics. Increased risks ((HRGI,T2DM,US=1.14;CI:1.06,1.21), HRGL,T2DM,US=1.02 (1.01, 1.03)), HRGI,T2DM,Asia=1.25;1.02,1.53), and HRGL,T2DM,Asia=1.37 (1.17, 1.60)) were associated with cardiometabolic diseases. GI/GL in overweight/obese females had the strongest magnitude of risks in US-and Asian studies. Total dietary fiber (HRT2DM,US = 0.92;0.88,0.96) and cereal fiber (HRT2DM,US = 0.83;0.77,0.90) decreased risk of developing T2DM. Among females, we found protective dose-response risks for total dietary fiber (HR5g-total-dietary-fiber,T2DM,US = 0.94;0.92,0.97), but cereal fiber showed better ability to lower T2DM risk (HR5g-cereal-fiber,T2DM,US = 0.67;0.60,0.74). Total dietary-and cereal fibers' dose-response effects were nullified by GL, but not so for cereal fiber with GI.\nCONCLUSIONS: Overweight/obese females could shift their carbohydrate intake for higher cereal fiber to decrease T2DM risk, but higher GL may cancel-out this effect.",
+    "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+    "year": "2020",
+    "authors": [
+      "Hardy DS",
+      "Garvin JT",
+      "Xu H"
+    ],
+    "doi": "10.1016/j.numecd.2019.12.050",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Research Support, N.I.H., Extramural",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Adult",
+      "Aged",
+      "Aged, 80 and over",
+      "Asia",
+      "Biomarkers",
+      "Blood Glucose",
+      "Coronary Disease",
+      "Diabetes Mellitus, Type 2",
+      "Dietary Carbohydrates",
+      "Europe",
+      "Female",
+      "Glycemic Index",
+      "Glycemic Load",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Obesity",
+      "Observational Studies as Topic",
+      "Prognosis",
+      "Risk Assessment",
+      "Risk Factors",
+      "Sex Factors",
+      "Stroke",
+      "United States",
+      "Young Adult"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32278608/",
+    "topic": "fibre_gut_health",
+    "source": "PubMed"
+  }
+]

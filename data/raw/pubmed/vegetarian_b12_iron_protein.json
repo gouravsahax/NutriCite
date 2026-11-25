@@ -1,0 +1,1480 @@
+[
+  {
+    "pmid": "34796367",
+    "title": "Diets for weight management in adults with type 2 diabetes: an umbrella review of published meta-analyses and systematic review of trials of diets for diabetes remission.",
+    "abstract": "AIMS/HYPOTHESIS: Weight reduction is fundamental for type 2 diabetes management and remission, but uncertainty exists over which diet type is best to achieve and maintain weight loss. We evaluated dietary approaches for weight loss, and remission, in people with type 2 diabetes to inform practice and clinical guidelines.\nMETHODS: First, we conducted a systematic review of published meta-analyses of RCTs of weight-loss diets. We searched MEDLINE (Ovid), PubMed, Web of Science and Cochrane Database of Systematic Reviews, up to 7 May 2021. We synthesised weight loss findings stratified by diet types and assessed meta-analyses quality with A Measurement Tool to Assess Systematic Reviews (AMSTAR) 2. We assessed certainty of pooled results of each meta-analysis using Grading of Recommendations, Assessment, Development and Evaluations (GRADE) (PROSPERO CRD42020169258). Second, we conducted a systematic review of any intervention studies reporting type 2 diabetes remission with weight-loss diets, in MEDLINE (via PubMed), Embase and Cochrane Central Register of Controlled Trials, up to 10 May 2021. Findings were synthesised by diet type and study quality (Cochrane Risk of Bias tool 2.0 and Risk Of Bias In Non-randomised Studies - of Interventions [ROBINS-I]), with GRADE applied (PROSPERO CRD42020208878).\nRESULTS: We identified 19 meta-analyses of weight-loss diets, involving 2-23 primary trials (n = 100-1587), published 2013-2021. Twelve were 'critically low' or 'low' AMSTAR 2 quality, with seven 'high' quality. Greatest weight loss was reported with very low energy diets, 1.7-2.1 MJ/day (400-500 kcal) for 8-12 weeks (high-quality meta-analysis, GRADE low), achieving 6.6 kg (95% CI -9.5, -3.7) greater weight loss than low-energy diets (4.2-6.3 MJ/day [1000-1500 kcal]). Formula meal replacements (high quality, GRADE moderate) achieved 2.4 kg (95% CI -3.3, -1.4) greater weight loss over 12-52 weeks. Low-carbohydrate diets were no better for weight loss than higher-carbohydrate/low-fat diets (high quality, GRADE high). High-protein, Mediterranean, high-monounsaturated-fatty-acid, vegetarian and low-glycaemic-index diets all achieved minimal (0.3-2 kg) or no difference from control diets (low to critically low quality, GRADE very low/moderate). For type 2 diabetes remission, of 373 records, 16 met inclusion criteria. Remissions at 1 year were reported for a median 54% of participants in RCTs including initial low-energy total diet replacement (low-risk-of-bias study, GRADE high), and 11% and 15% for meal replacements and Mediterranean diets, respectively (some concerns for risk of bias in studies, GRADE moderate/low). For ketogenic/very low-carbohydrate and very low-energy food-based diets, the evidence for remission (20% and 22%, respectively) has serious and critical risk of bias, and GRADE certainty is very low.\nCONCLUSIONS/INTERPRETATION: Published meta-analyses of hypocaloric diets for weight management in people with type 2 diabetes do not support any particular macronutrient profile or style over others. Very low energy diets and formula meal replacement appear the most effective approaches, generally providing less energy than self-administered food-based diets. Programmes including a hypocaloric formula 'total diet replacement' induction phase were most effective for type 2 diabetes remission. Most of the evidence is restricted to 1 year or less. Well-conducted research is needed to assess longer-term impacts on weight, glycaemic control, clinical outcomes and diabetes complications.",
+    "journal": "Diabetologia",
+    "year": "2022",
+    "authors": [
+      "Churuangsuk C",
+      "Hall J",
+      "Reynolds A",
+      "Griffin SJ",
+      "Combet E",
+      "Lean MEJ"
+    ],
+    "doi": "10.1007/s00125-021-05577-2",
+    "pmcid": "PMC8660762",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Adult",
+      "Clinical Trials as Topic",
+      "Diabetes Mellitus, Type 2",
+      "Diet, Carbohydrate-Restricted",
+      "Diet, Fat-Restricted",
+      "Humans",
+      "Meta-Analysis as Topic",
+      "Systematic Reviews as Topic",
+      "Weight Loss"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34796367/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "35010904",
+    "title": "Nutrient Intake and Status in Adults Consuming Plant-Based Diets Compared to Meat-Eaters: A Systematic Review.",
+    "abstract": "Health authorities increasingly recommend a more plant-based diet, rich in fruits, vegetables, pulses, whole grains and nuts, low in red meat and moderate in dairy, eggs, poultry and fish which will be beneficial for both health and the environment. A systematic review of observational and intervention studies published between 2000 and January 2020 was conducted to assess nutrient intake and status in adult populations consuming plant-based diets (mainly vegetarian and vegan) with that of meat-eaters. Mean intake of nutrients were calculated and benchmarked to dietary reference values. For micronutrient status, mean concentrations of biomarkers were calculated and compared across diet groups. A total of 141 studies were included, mostly from Europe, South/East Asia, and North America. Protein intake was lower in people following plant-based diets compared to meat-eaters, but well within recommended intake levels. While fiber, polyunsaturated fatty acids (PUFA), folate, vitamin C, E and magnesium intake was higher, eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) intake was lower in vegetarians and vegans as compared to meat-eaters. Intake and status of vitamin B12, vitamin D, iron, zinc, iodine, calcium and bone turnover markers were generally lower in plant-based dietary patterns compared to meat-eaters. Vegans had the lowest vitamin B12, calcium and iodine intake, and also lower iodine status and lower bone mineral density. Meat-eaters were at risk of inadequate intakes of fiber, PUFA, α-linolenic acid (ALA), folate, vitamin D, E, calcium and magnesium. There were nutrient inadequacies across all dietary patterns, including vegan, vegetarian and meat-based diets. As plant-based diets are generally better for health and the environment, public health strategies should facilitate the transition to a balanced diet with more diverse nutrient-dense plant foods through consumer education, food fortification and possibly supplementation.",
+    "journal": "Nutrients",
+    "year": "2021",
+    "authors": [
+      "Neufingerl N",
+      "Eilander A"
+    ],
+    "doi": "10.3390/nu14010029",
+    "pmcid": "PMC8746448",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Adult",
+      "Aged",
+      "Aged, 80 and over",
+      "Animals",
+      "Asia",
+      "Diet, Vegan",
+      "Diet, Vegetarian",
+      "Dietary Fiber",
+      "Dietary Proteins",
+      "Eating",
+      "Energy Intake",
+      "Europe",
+      "Feeding Behavior",
+      "Female",
+      "Humans",
+      "Male",
+      "Meat",
+      "Micronutrients",
+      "Middle Aged",
+      "North America",
+      "Nutrients",
+      "Nutritional Status",
+      "Vitamins"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35010904/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "38276922",
+    "title": "AGA Clinical Practice Update on Diet and Nutritional Therapies in Patients With Inflammatory Bowel Disease: Expert Review.",
+    "abstract": "DESCRIPTION: Diet plays a critical role in human health, but especially for patients with inflammatory bowel disease (IBD). Guidance about diet for patients with IBD are often controversial and a source of uncertainty for many physicians and patients. The role of diet has been investigated as a risk factor for IBD etiopathogenesis and as a therapy for active disease. Dietary restrictions, along with the clinical complications of IBD, can result in malnutrition, an underrecognized condition among this patient population. The aim of this American Gastroenterological Association (AGA) Clinical Practice Update (CPU) is to provide best practice advice statements, primarily to clinical gastroenterologists, covering the topics of diet and nutritional therapies in the management of IBD, while emphasizing identification and treatment of malnutrition in these patients. We provide guidance for tailored dietary approaches during IBD remission, active disease, and intestinal failure. A healthy Mediterranean diet will benefit patients with IBD, but may require accommodations for food texture in the setting of intestinal strictures or obstructions. New data in Crohn's disease supports the use of enteral liquid nutrition to help induce remission and correct malnutrition in patients heading for surgery. Parenteral nutrition plays a critical role in patients with IBD facing acute and/or chronic intestinal failure. Registered dietitians are an essential part of the interdisciplinary team approach for optimal nutrition assessment and management in the patient population with IBD.\nMETHODS: This expert review was commissioned and approved by the AGA Clinical Practice Updates Committee and the AGA Governing Board to provide timely guidance on a topic of high clinical importance to the AGA membership and underwent internal peer review by the CPU Committee and external peer review through standard procedures of Gastroenterology. The best practice advice statements were drawn from reviewing existing literature combined with expert opinion to provide practical advice on the role of diet and nutritional therapies in patients with IBD. Because this was not a systematic review, formal rating of the quality of evidence or strength of the presented considerations was not performed. Best Practice Advice Statements BEST PRACTICE ADVICE 1: Unless there is a contraindication, all patients with IBD should be advised to follow a Mediterranean diet rich in a variety of fresh fruits and vegetables, monounsaturated fats, complex carbohydrates, and lean proteins and low in ultraprocessed foods, added sugar, and salt for their overall health and general well-being. No diet has consistently been found to decrease the rate of flares in adults with IBD. A diet low in red and processed meat may reduce ulcerative colitis flares, but has not been found to reduce relapse in Crohn's disease. BEST PRACTICE ADVICE 2: Patients with IBD who have symptomatic intestinal strictures may not tolerate fibrous, plant-based foods (ie, raw fruits and vegetables) due to their texture. An emphasis on careful chewing and cooking and processing of fruits and vegetables to a soft, less fibrinous consistency may help patients with IBD who have concomitant intestinal strictures incorporate a wider variety of plant-based foods and fiber in their diets. BEST PRACTICE ADVICE 3: Exclusive enteral nutrition using liquid nutrition formulations is an effective therapy for induction of clinical remission and endoscopic response in Crohn's disease, with stronger evidence in children than adults. Exclusive enteral nutrition may be considered as a steroid-sparing bridge therapy for patients with Crohn's disease. BEST PRACTICE ADVICE 4: Crohn's disease exclusion diet, a type of partial enteral nutrition therapy, may be an effective therapy for induction of clinical remission and endoscopic response in mild to moderate Crohn's disease of relatively short duration. BEST PRACTICE ADVICE 5: Exclusive enteral nutrition may be an effective therapy in malnourished patients before undergoing elective surgery for Crohn's disease to optimize nutritional status and reduce postoperative complications. BEST PRACTICE ADVICE 6: In patients with IBD who have an intra-abdominal abscess and/or phlegmonous inflammation that limits ability to achieve optimal nutrition via the digestive tract, short-term parenteral nutrition may be used to provide bowel rest in the preoperative phase to decrease infection and inflammation as a bridge to definitive surgical management and to optimize surgical outcomes. BEST PRACTICE ADVICE 7: We suggest the use of parenteral nutrition for high-output gastrointestinal fistula, prolonged ileus, short bowel syndrome, and for patients with IBD with severe malnutrition when oral and enteral nutrition has been trialed and failed or when enteral access is not feasible or contraindicated. BEST PRACTICE ADVICE 8: In patients with IBD and short bowel syndrome, long-term parenteral nutrition should be transitioned to customized hydration management (ie, intravenous electrolyte support and/or oral rehydration solutions) and oral intake whenever possible to decrease the risk of developing long-term complications. Treatment with glucagon-like peptide-2 agonists can facilitate this transition. BEST PRACTICE ADVICE 9: All patients with IBD warrant regular screening for malnutrition by their provider by means of assessing signs and symptoms, including unintended weight loss, edema and fluid retention, and fat and muscle mass loss. When observed, more complete evaluation for malnutrition by a registered dietitian is indicated. Serum proteins are no longer recommended for the identification and diagnosis of malnutrition due to their lack of specificity for nutritional status and high sensitivity to inflammation. BEST PRACTICE ADVICE 10: All patients with IBD should be monitored for vitamin D and iron deficiency. Patients with extensive ileal disease or prior ileal surgery (resection or ileal pouch) should be monitored for vitamin B12 deficiency. BEST PRACTICE ADVICE 11: All outpatients and inpatients with complicated IBD warrant co-management with a registered dietitian, especially those who have malnutrition, short bowel syndrome, enterocutaneous fistula, and/or are requiring more complex nutrition therapies (eg, parenteral nutrition, enteral nutrition, or exclusive enteral nutrition), or those on a Crohn's disease exclusion diet. We suggest that all newly diagnosed patients with IBD have access to a registered dietitian. BEST PRACTICE ADVICE 12: Breastfeeding is associated with a lower risk for diagnosis of IBD during childhood. A healthy, balanced, Mediterranean diet rich in a variety of fruits and vegetables and decreased intake of ultraprocessed foods have been associated with a lower risk of developing IBD.",
+    "journal": "Gastroenterology",
+    "year": "2024",
+    "authors": [
+      "Hashash JG",
+      "Elkins J",
+      "Lewis JD",
+      "Binion DG"
+    ],
+    "doi": "10.1053/j.gastro.2023.11.303",
+    "pmcid": "",
+    "pub_types": [
+      "Practice Guideline",
+      "Journal Article"
+    ],
+    "mesh": [
+      "Child",
+      "Humans",
+      "Crohn Disease",
+      "Constriction, Pathologic",
+      "Intestinal Failure",
+      "Short Bowel Syndrome",
+      "Inflammatory Bowel Diseases",
+      "Diet",
+      "Enteral Nutrition",
+      "Malnutrition",
+      "Inflammation"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38276922/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "33341313",
+    "title": "Intake and adequacy of the vegan diet. A systematic review of the evidence.",
+    "abstract": "BACKGROUND: Vegan diets, where animal- and all their by-products are excluded from the diet, have gained popularity, especially in the last decade. However, the evaluation of this type of diet has not been well addressed in the scientific literature. This study aimed to investigate the adequacy of vegan diets in European populations and of their macro- and micronutrient intakes compared to World Health Organization recommendations.\nMETHODS: A systematic search in PubMed, Web of Science, IBSS, Cochrane library and Google Scholar was conducted and 48 studies (12 cohorts and 36 cross-sectional) were included.\nRESULTS: Regarding macronutrients, vegan diets are lower in protein intake compared with all other diet types. Veganism is also associated with low intake of vitamins B2, Niacin (B3), B12, D, iodine, zinc, calcium, potassium, selenium. Vitamin B12 intake among vegans is significantly lower (0.24-0.49 μg, recommendations are 2.4 μg) and calcium intake in the majority of vegans was below recommendations (750 mg/d). No significant differences in fat intake were observed. Vegan diets are not related to deficiencies in vitamins A, B1, Β6, C, E, iron, phosphorus, magnesium, copper and folate and have a low glycemic load.\nCONCLUSIONS: Following a vegan diet may result in deficiencies in micronutrients (vitamin B12, zinc, calcium and selenium) which should not be disregarded. However, low micro- and macronutrient intakes are not always associated with health impairments. Individuals who consume a vegan diet should be aware of the risk of potential dietary deficiencies.",
+    "journal": "Clinical nutrition (Edinburgh, Scotland)",
+    "year": "2021",
+    "authors": [
+      "Bakaloudi DR",
+      "Halloran A",
+      "Rippin HL",
+      "Oikonomidou AC",
+      "Dardavesis TI",
+      "Williams J"
+    ],
+    "doi": "10.1016/j.clnu.2020.11.035",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Adolescent",
+      "Adult",
+      "Aged",
+      "Diet, Vegan",
+      "Europe",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Nutrients",
+      "Nutritive Value",
+      "Vitamins",
+      "Young Adult"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33341313/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "35311615",
+    "title": "Clinician guidelines for the treatment of psychiatric disorders with nutraceuticals and phytoceuticals: The World Federation of Societies of Biological Psychiatry (WFSBP) and Canadian Network for Mood and Anxiety Treatments (CANMAT) Taskforce.",
+    "abstract": "OBJECTIVES: The therapeutic use of nutrient-based 'nutraceuticals' and plant-based 'phytoceuticals' for the treatment of mental disorders is common; however, despite recent research progress, there have not been any updated global clinical guidelines since 2015. To address this, the World Federation of Societies of Biological Psychiatry (WFSBP) and the Canadian Network for Mood and Anxiety Disorders (CANMAT) convened an international taskforce involving 31 leading academics and clinicians from 15 countries, between 2019 and 2021. These guidelines are aimed at providing a definitive evidence-informed approach to assist clinicians in making decisions around the use of such agents for major psychiatric disorders. We also provide detail on safety and tolerability, and clinical advice regarding prescription (e.g. indications, dosage), in addition to consideration for use in specialised populations.\nMETHODS: The methodology was based on the WFSBP guidelines development process. Evidence was assessed based on the WFSBP grading of evidence (and was modified to focus on Grade A level evidence - meta-analysis or two or more RCTs - due to the breadth of data available across all nutraceuticals and phytoceuticals across major psychiatric disorders). The taskforce assessed both the 'level of evidence' (LoE) (i.e. meta-analyses or RCTs) and the assessment of the direction of the evidence, to determine whether the intervention was 'Recommended' (+++), 'Provisionally Recommended' (++), 'Weakly Recommended' (+), 'Not Currently Recommended' (+/-), or 'Not Recommended' (-) for a particular condition. Due to the number of clinical trials now available in the field, we firstly examined the data from our two meta-reviews of meta-analyses (nutraceuticals conducted in 2019, and phytoceuticals in 2020). We then performed a search of additional relevant RCTs and reported on both these data as the primary drivers supporting our clinical recommendations. Lower levels of evidence, including isolated RCTs, open label studies, case studies, preclinical research, and interventions with only traditional or anecdotal use, were not assessed.\nRESULTS: Amongst nutraceuticals with Grade A evidence, positive directionality and varying levels of support (recommended, provisionally recommended, or weakly recommended) was found for adjunctive omega-3 fatty acids (+++), vitamin D (+), adjunctive probiotics (++), adjunctive zinc (++), methylfolate (+), and adjunctive s-adenosyl methionine (SAMe) (+) in the treatment of unipolar depression. Monotherapy omega-3 (+/-), folic acid (-), vitamin C (-), tryptophan (+/-), creatine (+/-), inositol (-), magnesium (-), and n-acetyl cysteine (NAC) (+/-) and SAMe (+/-) were not supported for this use. In bipolar disorder, omega-3 had weak support for bipolar depression (+), while NAC was not currently recommended (+/-). NAC was weakly recommended (+) in the treatment of OCD-related disorders; however, no other nutraceutical had sufficient evidence in any anxiety-related disorder. Vitamin D (+), NAC (++), methylfolate (++) were recommended to varying degrees in the treatment of the negative symptoms in schizophrenia, while omega-3 fatty acids were not, although evidence suggests a role for prevention of transition to psychosis in high-risk youth, with potential pre-existing fatty acid deficiency. Micronutrients (+) and vitamin D (+) were weakly supported in the treatment of ADHD, while omega-3 (+/-) and omega-9 fatty acids (-), acetyl L carnitine (-), and zinc (+/-) were not supported. Phytoceuticals with supporting Grade A evidence and positive directionality included St John's wort (+++), saffron (++), curcumin (++), and lavender (+) in the treatment of unipolar depression, while rhodiola use was not supported for use in mood disorders. Ashwagandha (++), galphimia (+), and lavender (++) were modestly supported in the treatment of anxiety disorders, while kava (-) and chamomile (+/-) were not recommended for generalised anxiety disorder. Ginkgo was weakly supported in the adjunctive treatment of negative symptoms of schizophrenia (+), but not supported in the treatment of ADHD (+/-). With respect to safety and tolerability, all interventions were deemed to have varying acceptable levels of safety and tolerability for low-risk over-the-counter use in most circumstances. Quality and standardisation of phytoceuticals was also raised by the taskforce as a key limiting issue for firmer confidence in these agents. Finally, the taskforce noted that such use of nutraceuticals or phytoceuticals be primarily recommended (where supportive evidence exists) adjunctively within a standard medical/health professional care model, especially in cases of more severe mental illness. Some meta-analyses reviewed contained data from heterogenous studies involving poor methodology. Isolated RCTs and other data such as open label or case series were not included, and it is recognised that an absence of data does not imply lack of efficacy.\nCONCLUSIONS: Based on the current data and clinician input, a range of nutraceuticals and phytoceuticals were given either a supportive recommendation or a provisional recommendation across a range of various psychiatric disorders. However several had only a weak endorsement for potential use; for a few it was not possible to reach a clear recommendation direction, largely due to mixed study findings; while some other agents showed no obvious therapeutic benefit and were clearly not recommended for use. It is the intention of these guidelines to inform psychiatric/medical, and health professional practice globally.",
+    "journal": "The world journal of biological psychiatry : the official journal of the World Federation of Societies of Biological Psychiatry",
+    "year": "2022",
+    "authors": [
+      "Sarris J",
+      "Ravindran A",
+      "Yatham LN",
+      "Marx W",
+      "Rucklidge JJ",
+      "McIntyre RS"
+    ],
+    "doi": "10.1080/15622975.2021.2013041",
+    "pmcid": "",
+    "pub_types": [
+      "Meta-Analysis",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "mesh": [
+      "Adolescent",
+      "Humans",
+      "Biological Psychiatry",
+      "Canada",
+      "Mental Disorders",
+      "Anxiety",
+      "Dietary Supplements",
+      "Fatty Acids, Omega-3",
+      "Vitamin D",
+      "Zinc"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35311615/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "38345088",
+    "title": "Nutritional interventions for preventing and treating pressure ulcers.",
+    "abstract": "BACKGROUND: Pressure ulcers are localized injuries to the skin or the underlying tissue, or both, and are common in older and immobile people, people with diabetes, vascular disease, or malnutrition, as well as those who require intensive or palliative care. People with pressure ulcers often suffer from severe pain and exhibit social avoidance behaviours. The prevention and treatment of pressure ulcers involves strategies to optimize hydration, circulation, and nutrition. Adequate nutrient intake can reduce the risk factor of malnutrition and promote wound healing in existing pressure ulcers. However, it is unclear which nutrients help prevent and treat pressure ulcers. This is an update of an earlier Cochrane Review.\nOBJECTIVES: To evaluate the benefits and harms of nutritional interventions (special diets, supplements) for preventing and treating pressure ulcers in people with or without existing pressure ulcers compared to standard diet or other nutritional interventions.\nSEARCH METHODS: We used extensive Cochrane search methods. The latest search was in May 2022.\nSELECTION CRITERIA: We included randomized controlled trials (RCTs) in people with or without existing pressure ulcers, that compared nutritional interventions aimed at preventing or treating pressure ulcers with standard diet or other types of nutritional interventions.\nDATA COLLECTION AND ANALYSIS: We used standard Cochrane methods. Our primary outcome for prevention studies was the proportion of participants who developed new (incident) pressure ulcers. For treatment studies, our primary outcomes were time to complete pressure ulcer healing, number of people with healed pressure ulcers, size and depth of pressure ulcers, and rate of pressure ulcer healing. Secondary outcomes were side effects, costs, health-related quality of life and acceptability. We used GRADE to assess certainty of evidence for each outcome.\nMAIN RESULTS: We included 33 RCTs with 7920 participants. Data for meta-analysis were available from 6993 participants. Pressure ulcer prevention Eleven studies (with 12 arms) compared six types of nutritional interventions for the prevention of pressure ulcers. Compared to standard diet, energy, protein and micronutrient supplements may result in little to no difference in the proportion of participants developing a pressure ulcer (energy, protein and micronutrient supplements 248 per 1000, standard diet 269 per 1000; RR 0.92, 95% CI 0.71 to 1.19; 3 studies, 1634 participants; low-certainty evidence). Compared to standard diet, protein supplements may result in little to no difference in pressure ulcer incidence (protein 21 per 1000, standard diet 28 per 1000; RR 0.75, 95% CI 0.49 to 1.14; 4 studies, 4264 participants; low-certainty evidence). The evidence is very uncertain about the gastrointestinal side effects of these supplements (protein 109 per 1000, standard diet 155 per 1000; RR 0.70, 95% CI 0.06 to 7.96; 2 studies, 140 participants, very low-certainty evidence). The evidence is very uncertain about the effects of protein, arginine, zinc and antioxidants; L-carnitine, L-leucine, calcium, magnesium and vitamin D; EPA, GLA and antioxidants; disease-specific supplements on pressure ulcer incidence when compared to standard diet (1 study each; very low-certainty evidence for all comparisons). Pressure ulcer treatment Twenty-four studies (with 27 arms) compared 10 types of nutritional interventions or supplements for treatment of pressure ulcers. Compared to standard diet, energy, protein and micronutrient supplements may slightly increase the number of healed pressure ulcers (energy, protein and micronutrients 366 per 1000, standard diet 253 per 1000; RR 1.45, 95% CI 1.14 to 1.85; 3 studies, 577 participants, low-certainty evidence). The evidence is very uncertain about the effect of these supplements on gastrointestinal side effects. Compared to standard diet, the evidence is very uncertain about the effect of protein, arginine, zinc and antioxidant supplements on pressure ulcer healing (pressure ulcer area: mean difference (MD) 2 cm² smaller, 95% CI 4.54 smaller to 0.53 larger; 2 studies, 71 participants, very low-certainty evidence). The evidence on side effects of these supplements is very uncertain. Compared to standard diet, supplements with arginine and micronutrients may not increase the number of healed pressure ulcers, but the evidence suggests a slight reduction in pressure ulcer area (MD 15.8% lower, 95% CI 25.11 lower to 6.48 lower; 2 studies, 231 participants, low-certainty evidence). The evidence is very uncertain about changes in pressure ulcer scores, acceptability, and side effects of these supplements. Compared to placebo, collagen supplements probably improve the mean change in pressure ulcer area (MD 1.81 cm² smaller, 95% CI 3.36 smaller to 0.26 smaller; 1 study, 74 participants, moderate-certainty evidence). The evidence is very uncertain about the effect of these supplements on side effects. The evidence is very uncertain about the effects of vitamin C, different doses of arginine; EPA, GLA (special dietary fatty acids) and antioxidants; protein; a specialized amino acid mixture; ornithine alpha-ketoglutarate and zinc supplements on pressure ulcer healing (1 or 2 studies each; very low-certainty evidence).\nAUTHORS' CONCLUSIONS: The benefits of nutritional interventions with various compositions for pressure ulcer prevention and treatment are uncertain. There may be little or no difference compared to standard nutrition or placebo. Nutritional supplements may not increase gastrointestinal side effects, but the evidence is very uncertain. Larger studies with similar nutrient compositions would reduce these uncertainties. No study investigated the effects of special diets (e.g. protein-enriched diet, vegetarian diet) on pressure ulcer incidence and healing.",
+    "journal": "The Cochrane database of systematic reviews",
+    "year": "2024",
+    "authors": [
+      "Langer G",
+      "Wan CS",
+      "Fink A",
+      "Schwingshackl L",
+      "Schoberer D"
+    ],
+    "doi": "10.1002/14651858.CD003216.pub3",
+    "pmcid": "PMC10860148",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Dietary Proteins",
+      "Dietary Supplements",
+      "Pressure Ulcer",
+      "Quality of Life",
+      "Randomized Controlled Trials as Topic",
+      "Wound Healing"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38345088/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "34959772",
+    "title": "Effect of Anti-Inflammatory Diets on Pain in Rheumatoid Arthritis: A Systematic Review and Meta-Analysis.",
+    "abstract": "Various nutritional therapies have been proposed in rheumatoid arthritis, particularly diets rich in ω-3 fatty acids, which may lead to eicosanoid reduction. Our aim was to investigate the effect of potentially anti-inflammatory diets (Mediterranean, vegetarian, vegan, ketogenic) on pain. The primary outcome was pain on a 10 cm visual analogue scale. Secondary outcomes were C-reactive protein levels, erythrocyte sedimentation rate, health assessment questionnaire, disease activity score 28, tender/swollen joint counts, weight, and body mass index. We searched MEDLINE (OVID), Embase (Elsevier), and CINAHL for studies published from database inception to 12 November 2021. Two authors independently assessed studies for inclusion, extracted study data, and assessed the risk of bias. We performed a meta-analysis with all eligible randomized controlled trials using RevMan 5. We used mean differences or standardized mean differences and the inverse variance method of pooling using a random-effects model. The search retrieved 564 unique publications, of which we included 12 in the systematic review and 7 in the meta-analysis. All studies had a high risk of bias and the evidence was very low. The main conclusion is that anti-inflammatory diets resulted in significantly lower pain than ordinary diets (-9.22 mm; 95% CI -14.15 to -4.29; p = 0.0002; 7 RCTs, 326 participants).",
+    "journal": "Nutrients",
+    "year": "2021",
+    "authors": [
+      "Schönenberger KA",
+      "Schüpfer AC",
+      "Gloy VL",
+      "Hasler P",
+      "Stanga Z",
+      "Kaegi-Braun N"
+    ],
+    "doi": "10.3390/nu13124221",
+    "pmcid": "PMC8706441",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Adult",
+      "Anti-Inflammatory Agents, Non-Steroidal",
+      "Arthralgia",
+      "Arthritis, Rheumatoid",
+      "Clinical Trials as Topic",
+      "Diet, Healthy",
+      "Diet, Ketogenic",
+      "Diet, Mediterranean",
+      "Diet, Vegan",
+      "Diet, Vegetarian",
+      "Female",
+      "Humans",
+      "Inflammation",
+      "Male",
+      "Middle Aged",
+      "Observational Studies as Topic",
+      "Pain Management",
+      "Treatment Outcome"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34959772/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "30122560",
+    "title": "Dietary carbohydrate intake and mortality: a prospective cohort study and meta-analysis.",
+    "abstract": "BACKGROUND: Low carbohydrate diets, which restrict carbohydrate in favour of increased protein or fat intake, or both, are a popular weight-loss strategy. However, the long-term effect of carbohydrate restriction on mortality is controversial and could depend on whether dietary carbohydrate is replaced by plant-based or animal-based fat and protein. We aimed to investigate the association between carbohydrate intake and mortality.\nMETHODS: We studied 15 428 adults aged 45-64 years, in four US communities, who completed a dietary questionnaire at enrolment in the Atherosclerosis Risk in Communities (ARIC) study (between 1987 and 1989), and who did not report extreme caloric intake (<600 kcal or >4200 kcal per day for men and <500 kcal or >3600 kcal per day for women). The primary outcome was all-cause mortality. We investigated the association between the percentage of energy from carbohydrate intake and all-cause mortality, accounting for possible non-linear relationships in this cohort. We further examined this association, combining ARIC data with data for carbohydrate intake reported from seven multinational prospective studies in a meta-analysis. Finally, we assessed whether the substitution of animal or plant sources of fat and protein for carbohydrate affected mortality.\nFINDINGS: During a median follow-up of 25 years there were 6283 deaths in the ARIC cohort, and there were 40 181 deaths across all cohort studies. In the ARIC cohort, after multivariable adjustment, there was a U-shaped association between the percentage of energy consumed from carbohydrate (mean 48·9%, SD 9·4) and mortality: a percentage of 50-55% energy from carbohydrate was associated with the lowest risk of mortality. In the meta-analysis of all cohorts (432 179 participants), both low carbohydrate consumption (<40%) and high carbohydrate consumption (>70%) conferred greater mortality risk than did moderate intake, which was consistent with a U-shaped association (pooled hazard ratio 1·20, 95% CI 1·09-1·32 for low carbohydrate consumption; 1·23, 1·11-1·36 for high carbohydrate consumption). However, results varied by the source of macronutrients: mortality increased when carbohydrates were exchanged for animal-derived fat or protein (1·18, 1·08-1·29) and mortality decreased when the substitutions were plant-based (0·82, 0·78-0·87).\nINTERPRETATION: Both high and low percentages of carbohydrate diets were associated with increased mortality, with minimal risk observed at 50-55% carbohydrate intake. Low carbohydrate dietary patterns favouring animal-derived protein and fat sources, from sources such as lamb, beef, pork, and chicken, were associated with higher mortality, whereas those that favoured plant-derived protein and fat intake, from sources such as vegetables, nuts, peanut butter, and whole-grain breads, were associated with lower mortality, suggesting that the source of food notably modifies the association between carbohydrate intake and mortality.\nFUNDING: National Institutes of Health.",
+    "journal": "The Lancet. Public health",
+    "year": "2018",
+    "authors": [
+      "Seidelmann SB",
+      "Claggett B",
+      "Cheng S",
+      "Henglin M",
+      "Shah A",
+      "Steffen LM"
+    ],
+    "doi": "10.1016/S2468-2667(18)30135-X",
+    "pmcid": "PMC6339822",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Research Support, N.I.H., Extramural"
+    ],
+    "mesh": [
+      "Diet Surveys",
+      "Dietary Carbohydrates",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Mortality",
+      "Prospective Studies",
+      "United States"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30122560/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "40819279",
+    "title": "Vegan diet and nutritional status in infants, children and adolescents: A position paper based on a systematic search by the ESPGHAN Nutrition Committee.",
+    "abstract": "Vegan and other plant-based diets are becoming increasingly popular in the paediatric age group. There is limited evidence in the current medical literature to determine whether a vegan diet is adequate for children, since the currently available society position papers are based on narrative reviews and expert opinion. Updated evidence-based recommendations are needed to guide clinical practice. This position paper presents findings from a literature review performed using a systematic search strategy, following the Preferred Reporting Items for Systematic Reviews and Meta-Analysis guidelines. We analyzed the current evidence on the effect of vegan diet compared to omnivorous diet on body growth, nutritional adequacy and laboratory biomarkers in infants, children and adolescents. Observational studies, cohort studies and clinical trials published over the last 15 years in MEDLINE/PubMed, EMBASE and Cochrane Library were retrieved. Our position paper aims to update the evidence for or against the adequacy of a vegan diet in infants, children and adolescents and to provide evidence-based recommendations. A total of 10 articles were accepted and included in the final review, providing information on approximately 1500 children following a vegan diet. Several articles assessed more than one outcome: seven addressed body growth, five evaluated nutritional adequacy and five examined laboratory biomarkers. To complement the primary data, three systematic reviews and meta-analyses were also included. Current evidence is inconclusive to determine whether a strictly vegan diet supports normal childhood growth, although no significant differences in height or body mass index z-scores were observed compared to omnivorous peers. We recommend that dietary intake, growth and nutritional status should be regularly monitored in vegan children. Focusing on dietary intakes (e.g., protein, omega-3, calcium and iron) and ensuring supplementation with specific micronutrients, including vitamin B12, is essential during paediatric age when following a strict vegan diet. Clinical research, well-designed prospective studies and high-quality trials are required to address current research gaps.",
+    "journal": "Journal of pediatric gastroenterology and nutrition",
+    "year": "2025",
+    "authors": [
+      "Verduci E",
+      "Kӧglmeier J",
+      "Haiden N",
+      "Kivelä L",
+      "de Koning B",
+      "Hill S"
+    ],
+    "doi": "10.1002/jpn3.70182",
+    "pmcid": "PMC12580465",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Consensus Statement"
+    ],
+    "mesh": [
+      "Adolescent",
+      "Child",
+      "Child, Preschool",
+      "Humans",
+      "Infant",
+      "Child Nutritional Physiological Phenomena",
+      "Diet, Vegan",
+      "Nutritional Status"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40819279/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "39813010",
+    "title": "Effect of Plant Versus Animal Protein on Muscle Mass, Strength, Physical Performance, and Sarcopenia: A Systematic Review and Meta-analysis of Randomized Controlled Trials.",
+    "abstract": "CONTEXT: Dietary protein is recommended for sarcopenia-a debilitating condition of age-related loss of muscle mass and strength that affects 27% of older adults. The effects of protein on muscle health may depend on protein quality.\nOBJECTIVE: The aim was to synthesize randomized controlled trial (RCT) data comparing plant with animal protein for muscle health.\nDATA SOURCES: Forty-three eligible RCTs were sourced from Medline, Embase, Scopus, Web of Science, and CENTRAL databases.\nDATA EXTRACTION: Four reviewers (R.J.R.-M., S.F.B., N.A.W., D.L.) extracted data from RCTs (study setting, population, intervention characteristics, outcomes, summary statistics) and conducted quality assessment using the Cochrane Risk of Bias 2.0.\nDATA ANALYSIS: Standardized mean differences (SMDs) (95% CIs) were combined using a random-effects meta-analysis and forest plots were generated. I2 statistics were calculated to test for statistical heterogeneity.\nCONCLUSION: Thirty RCTs (70%) were eligible for meta-analysis and all examined muscle mass outcomes. Compared with animal protein, plant protein resulted in lower muscle mass following the intervention (SMD = -0.20; 95% CI: -0.37, -0.03; P = .02), with stronger effects in younger (<60 years; SMD = -0.20; 95% CI: -0.37, -0.03; P = .02) than in older (≥60 years; SMD = -0.05; 95% CI: -0.32, 0.23; P = .74) adults. There was no pooled effect difference between soy and milk protein for muscle mass (SMD = -0.02; 95% CI: -0.20, 0.16; P = .80) (n = 17 RCTs), yet animal protein improved muscle mass compared with non-soy plant proteins (rice, chia, oat, and potato; SMD = -0.58; 95% CI: -1.06, -0.09; P = .02) (n = 5 RCTs) and plant-based diets (SMD = -0.51; 95% CI: -0.91, -0.11; P = .01) (n = 7 RCTs). No significant difference was found between plant or animal protein for muscle strength (n = 14 RCTs) or physical performance (n = 5 RCTs). No trials examined sarcopenia as an outcome. Animal protein may have a small beneficial effect over non-soy plant protein for muscle mass; however, research into a wider range of plant proteins and diets is needed.\nSYSTEMATIC REVIEW REGISTRATION: PROSPERO registration no. CRD42020188658.",
+    "journal": "Nutrition reviews",
+    "year": "2025",
+    "authors": [
+      "Reid-McCann RJ",
+      "Brennan SF",
+      "Ward NA",
+      "Logan D",
+      "McKinley MC",
+      "McEvoy CT"
+    ],
+    "doi": "10.1093/nutrit/nuae200",
+    "pmcid": "PMC12166177",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "mesh": [
+      "Sarcopenia",
+      "Humans",
+      "Randomized Controlled Trials as Topic",
+      "Muscle, Skeletal",
+      "Muscle Strength",
+      "Animal Proteins, Dietary",
+      "Physical Functional Performance",
+      "Dietary Proteins",
+      "Animals",
+      "Aged",
+      "Plant Proteins, Dietary"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39813010/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "37513574",
+    "title": "Effect of Dietary Approaches on Glycemic Control in Patients with Type 2 Diabetes: A Systematic Review with Network Meta-Analysis of Randomized Trials.",
+    "abstract": "BACKGROUND: Dietary patterns play a critical role in diabetes management, while the best dietary pattern for Type 2 diabetes (T2DM) patients is still unclear. The aim of this network meta-analysis was to compare the impacts of various dietary approaches on the glycemic control of T2DM patients.\nMETHODS: Relevant studies were retrieved from PubMed, Embase, Web of Knowledge, Cochrane Central Register of Controlled Trials (CENTRAL), and other additional records (1949 to 31 July 2022). Eligible RCTs were those comparing different dietary approaches against each other or a control diet in individuals with T2DM for at least 6 months. We assessed the risk of bias of included studies with the Cochrane risk of bias tool and confidence of estimates with the Grading of Recommendations Assessment, Development, and Evaluation approach for network meta-analyses. In order to determine the pooled effect of each dietary approach relative to each other, we performed a network meta-analysis (NMA) for interventions for both HbA1c and fasting glucose, which enabled us to estimate the relative intervention effects by combing both direct and indirect trial evidence.\nRESULTS: Forty-two RCTs comprising 4809 patients with T2DM were included in the NMA, comparing 10 dietary approaches (low-carbohydrate, moderate-carbohydrate, ketogenic, low-fat, high-protein, Mediterranean, Vegetarian/Vegan, low glycemic index, recommended, and control diets). In total, 83.3% of the studies were at a lower risk of bias or had some concerns. Findings of the NMA revealed that the ketogenic, low-carbohydrate, and low-fat diets were significantly effective in reducing HbA1c (viz., -0.73 (-1.19, -0.28), -0.69 (-1.32, -0.06), and -1.82 (-2.93, -0.71)), while moderate-carbohydrate, low glycemic index, Mediterranean, high-protein, and low-fat diets were significantly effective in reducing fasting glucose (viz., -1.30 (-1.92, -0.67), -1.26 (-2.26, -0.27), -0.95 (-1.51, -0.38), -0.89 (-1.60, -0.18) and -0.75 (-1.24, -0.27)) compared to a control diet. The clustered ranking plot for combined outcomes indicated the ketogenic, Mediterranean, moderate-carbohydrate, and low glycemic index diets had promising effects for controlling HbA1c and fasting glucose. The univariate meta-regressions showed that the mean reductions of HbA1c and fasting glucose were only significantly related to the mean weight change of the subjects.\nCONCLUSIONS: For glycemic control in T2DM patients, the ketogenic diet, Mediterranean diet, moderate-carbohydrate diet, and low glycemic index diet were effective options. Although this study found the ketogenic diet superior, further high-quality and long-term studies are needed to strengthen its credibility.",
+    "journal": "Nutrients",
+    "year": "2023",
+    "authors": [
+      "Jing T",
+      "Zhang S",
+      "Bai M",
+      "Chen Z",
+      "Gao S",
+      "Li S"
+    ],
+    "doi": "10.3390/nu15143156",
+    "pmcid": "PMC10384204",
+    "pub_types": [
+      "Systematic Review",
+      "Journal Article",
+      "Network Meta-Analysis"
+    ],
+    "mesh": [
+      "Humans",
+      "Diabetes Mellitus, Type 2",
+      "Glycated Hemoglobin",
+      "Blood Glucose",
+      "Glycemic Control",
+      "Randomized Controlled Trials as Topic",
+      "Diet, Mediterranean"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37513574/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "40081608",
+    "title": "Plant-Based Diet and Chronic Kidney Disease: A Systematic Review and Meta-Analysis.",
+    "abstract": "OBJECTIVE: We aimed to perform a systematic review and meta-analyses to evaluate the impact of plant-based diet (PBD) on chronic kidney disease (CKD).\nMETHODS: A systematic search of PubMed and Embase was conducted from inception to August 2023 to evaluate the association between adopting a PBD and the incidence, progression, and mortality of CKD. Odds ratios (ORs) and 95% confidence intervals (CIs) were estimated using a random effects model. This meta-analysis was preregistered in the PROSPERO.\nRESULTS: A total of 121,927 participants were included, aged between 18 and 74 years, and were followed up for a weighted average of 11.2 years. Adopting PBD is associated with a significantly reduced risk of developing CKD OR = 0.75, 95% CI (0.65-0.86), P < .0001] across 93,857 participants. Similar results were observed in subgroup analyses that examined higher quintiles/quartiles (Q2-Q5) and tertiles (T2-T3) of PBD versus Q1/T1, with overall effect measures of 0.92 (95% CI; 0.86-0.98) and 0.88 (95% CI; 0.82-0.93), respectively. When adjusting for CKD-related comorbidities in patients following PBD (adjusted models M1, M2, and M3), significant findings were also observed, with an overall OR of 0.86 (95% CI; 0.79-0.93).\nCONCLUSION: Adopting PBD was significantly associated with 26% lower incidences of CKD. Higher intake of PBD showed a dose-dependent relationship with lower risk of CKD incidence and slower CKD progression. Unhealthy PBD may not confer renal protective effects compared to healthy PBD.",
+    "journal": "Journal of renal nutrition : the official journal of the Council on Renal Nutrition of the National Kidney Foundation",
+    "year": "2025",
+    "authors": [
+      "Dang Z",
+      "He Y",
+      "Xie R",
+      "Chen P",
+      "Dong F"
+    ],
+    "doi": "10.1053/j.jrn.2025.03.002",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "mesh": [
+      "Humans",
+      "Renal Insufficiency, Chronic",
+      "Diet, Vegetarian",
+      "Adult",
+      "Middle Aged",
+      "Aged",
+      "Incidence",
+      "Disease Progression",
+      "Diet, Plant-Based"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40081608/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "38913935",
+    "title": "The Impact Plant-Based Diets Have on Athletic Performance and Body Composition: A Systematic Review.",
+    "abstract": "Plant-based diets have gained popularity among athletes in recent years. Some believe that plant-based diets will improve performance owing to higher intakes of carbohydrates and antioxidants. Some believe it that will harm performance due to lower intakes of complete protein and creatine. This systemic review was conducted using Covidence software. A literature search of PubMed, Embase (Elsevier), CINAHL Plus (EBSCO), and Web of Science was completed on 22 March 2022. Following the development of clear objectives and a research question that identified the population, intervention, comparison, and outcomes, initial search criteria and keywords were identified. Extracted results totaled 2249, including 797 duplicates. The initial screening resulted in 1437 articles being excluded. The remaining 15 articles proceeded to full-text screening. A final 8 articles were included in the review, with 7 excluded. This paper will review the impact plant-based diets have on athletic performance and body composition in healthy young adults aged 18 to 45 years.",
+    "journal": "Journal of the American Nutrition Association",
+    "year": "2024",
+    "authors": [
+      "Presti N",
+      "Mansouri T",
+      "Maloney MK",
+      "Hostler D"
+    ],
+    "doi": "10.1080/27697061.2024.2365755",
+    "pmcid": "",
+    "pub_types": [
+      "Systematic Review",
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Athletic Performance",
+      "Body Composition",
+      "Diet, Vegetarian",
+      "Adult",
+      "Young Adult",
+      "Adolescent",
+      "Male",
+      "Middle Aged",
+      "Female",
+      "Diet, Plant-Based"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38913935/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "37811643",
+    "title": "Health aspects of vegan diets among children and adolescents: a systematic review and meta-analyses.",
+    "abstract": "Health effects of vegan diets among children and adolescents are a controversial public health topic. Thus, the aim of the present systematic review is to evaluate a broad range of health outcomes among vegan children and adolescents aged 0 to 18 years. 18 studies met the inclusion criteria (17 cross-sectional, 1 RCT). Meta-analyses showed lower protein, calcium, vitamin B2, saturated fatty acid, and cholesterol intakes, and lower ferritin, HDL and LDL levels as well as height in vegan compared to omnivorous children/adolescents. Higher intakes of carbohydrates, polyunsaturated fatty acids, fiber, folate, vitamins C and E, magnesium, iron, and potassium were observed in vegans. Blood levels of vitamin B12 were higher among vegan children due to supplement use. Single study results suggested further differences between vegan and non-vegan children, such as lower bone mineral content or urinary iodine among vegan children. Risk of Bias was rated as high or very high in 7 out of 18 studies. The certainty of evidence for the meta-analyses was low (n = 2) or very low (n = 46). Overall, the available evidence points to both risks and benefits associated with a vegan diet among children, although more and better designed studies are needed.",
+    "journal": "Critical reviews in food science and nutrition",
+    "year": "2024",
+    "authors": [
+      "Koller A",
+      "Rohrmann S",
+      "Wakolbinger M",
+      "Gojda J",
+      "Selinger E",
+      "Cahova M"
+    ],
+    "doi": "10.1080/10408398.2023.2263574",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "mesh": [
+      "Humans",
+      "Child",
+      "Adolescent",
+      "Diet, Vegan",
+      "Child, Preschool",
+      "Infant",
+      "Child Nutritional Physiological Phenomena",
+      "Nutritional Status",
+      "Dietary Supplements"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37811643/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "32319307",
+    "title": "Vegan or vegetarian diet and breast milk composition - a systematic review.",
+    "abstract": "It is known that nutritional composition of breast milk is, to a certain extent, related to maternal diet. The question of nutritional adequacy of mothers' milk is often raised whenever a vegetarian or vegan diet during the lactation process is concerned. For this reason, in some countries, the recruitment of vegan lactating women as milk donors is excluded by milk banks. The purpose of this systematic review is to summarize existing knowledge on variability of specific nutrients in breastmilk of mothers adhering to a plant-based diet. The databases, including MEDLINE (Pubmed) and Scopus, were used to identify relevant publications. Data extraction and analysis were conducted following a PRISMA protocol. Thirteen publications concerning the impact of dietary pattern and levels of animal-origin food intake on breast milk composition were included. The systematic review has shown that all non-vegetarian, vegetarian and vegan mothers produce breast milk of comparable nutritional value. Several differences are primarily attributed to fatty acids and some micro-components, primarily vitamin B12. Regardless of dietary choices, nourishment and adequate nutrition have a significant impact on human milk composition - on the basis of the current evidence, vegetarian and vegan mothers are capable of producing nutritionally valuable milk for their infants, as far as the appropriate supplementation compensating for breastfeeding mother's nutritional requirements is provided. Dietary choices should not be a permanent exclusion criterion for donor candidates in human milk banks.",
+    "journal": "Critical reviews in food science and nutrition",
+    "year": "2021",
+    "authors": [
+      "Karcz K",
+      "Królak-Olejnik B"
+    ],
+    "doi": "10.1080/10408398.2020.1753650",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Animals",
+      "Breast Feeding",
+      "Diet",
+      "Diet, Vegan",
+      "Diet, Vegetarian",
+      "Female",
+      "Humans",
+      "Infant",
+      "Lactation",
+      "Milk, Human",
+      "Vegans"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32319307/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "39373282",
+    "title": "A systematic review and meta-analysis of functional vitamin B12 status among adult vegans.",
+    "abstract": "The dietary intake of vitamin B12 among unsupplemented vegans is notably lower compared to both vegetarians and omnivores. Prolonged low intakes of vitamin B12, such as seen in those adhering to a vegan diet, lead to physiological deficiency of vitamin B12 and an elevated risk of B12-related morbidity. However, while serum B12 serves as a conventional biomarker for assessing B12 status, its utility is limited given its sensitivity and specificity in ascribing physiological deficiency of B12 and the functional vitamin B12 status of those adhering to vegan diets is unclear. We conducted a systematic review and meta-analysis using data based on the full panel of biomarkers of vitamin B12 status to test whether adherence to a vegan diet is associated with an elevated risk of functional vitamin B12 deficiency compared to vegetarian or omnivorous diets. In addition, subgroup analysis was carried out to look at the effect of vitamin B12 supplement use on B12 status among vegans. Our search identified 4002 records, of which 19 studies met the inclusion criteria for the systematic review and 17 studies were taken forward for the meta-analysis. Meta-analysis results revealed significantly lower serum B12, pmol/ (-0.72 [-1.26, -0.18]; p = 0.01) and elevated total homocysteine, μmol/L (tHcy) (0.57 [0.26, 0.89]; p < 0.001) concentrations, alongside elevated methylmalonic acid, nmol/L (MMA) (0.28 [-0.01, 0.57]; p = 0.06) and lower holotranscobalamin, pmol/ (HoloTC) (-0.42 [-0.91, 0.07]; p = 0.09) levels among vegan adults compared to omnivores, indicating increased functional B12 deficiency in addition to low vitamin B12 status in vegan adults. There were no differences between vegans and vegetarians in HoloTC (0.04 [-0.28, 0.35]; p = 0.814) or MMA (-0.05 [-0.29, 0.20]; p = 0.708), but differences were found in serum B12 (-0.25 [-0.40, -0.10]; p = 0.001) and for tHcy (0.24 [0.09, 0.39]; p = 0.002) concentrations. Subgroup analyses indicated that the use of vitamin B12 supplements among vegans contributes to significant improvements in all biomarker concentrations compared to their unsupplemented counterparts. Our findings underscore the need for improved strategies to redress poor vitamin B12 status with appropriate B12 supplementation use among those adhering to vegetarian and vegan diets.",
+    "journal": "Nutrition bulletin",
+    "year": "2024",
+    "authors": [
+      "Niklewicz A",
+      "Hannibal L",
+      "Warren M",
+      "Ahmadi KR"
+    ],
+    "doi": "10.1111/nbu.12712",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "mesh": [
+      "Adult",
+      "Humans",
+      "Biomarkers",
+      "Diet, Vegan",
+      "Dietary Supplements",
+      "Homocysteine",
+      "Nutritional Status",
+      "Vegans",
+      "Vitamin B 12",
+      "Vitamin B 12 Deficiency"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39373282/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "37892416",
+    "title": "Nutrient Intake and Status in Children and Adolescents Consuming Plant-Based Diets Compared to Meat-Eaters: A Systematic Review.",
+    "abstract": "Health authorities increasingly recommend sustainable and healthy diets rich in plant foods and with moderate amounts of animal foods. However, there are concerns about whether such diets can meet all nutrient requirements, especially in children and adolescents, who have relatively high nutrient needs for growth and development. Therefore, we aimed to evaluate the nutrient intake and status of children and adolescents (2-18 y) consuming plant-based (i.e., vegetarian and vegan) diets compared to those of meat-eating children following a systematic literature review of studies published between 2000 and 2022. Mean intake and status data of nutrients were calculated across studies and benchmarked to dietary reference values and cut-off values for nutrient deficiencies. A total of 30 studies were included (15 in children 2-5 y, 24 in children 6-12 y, and 11 in adolescents 13-18 y). In all diets, there were risks of inadequate intakes of vitamin D and calcium. Children consuming meat had a risk of inadequate folate and vitamin E intake; and mean fiber, SAFA, and PUFA intakes were not in line with the recommendations. Children consuming plant-based diets risked inadequate vitamin B12, iron, and zinc intakes. In contrast to vegans, vegetarian children may not meet the recommended intakes of fiber, SAFA, and possibly PUFA, but their mean intakes were more favorable than in meat-eating children. Although the data are limited and need further validation, our findings indicate that there are risks of nutritional inadequacies in all diet groups. Therefore, increasing consumption of a variety of plant-based foods, in combination with food fortification and supplementation where needed, is recommended for children and adolescents to have sustainable and nutritionally adequate diets.",
+    "journal": "Nutrients",
+    "year": "2023",
+    "authors": [
+      "Neufingerl N",
+      "Eilander A"
+    ],
+    "doi": "10.3390/nu15204341",
+    "pmcid": "PMC10609337",
+    "pub_types": [
+      "Systematic Review",
+      "Journal Article"
+    ],
+    "mesh": [
+      "Animals",
+      "Humans",
+      "Child",
+      "Adolescent",
+      "Diet",
+      "Energy Intake",
+      "Meat",
+      "Eating",
+      "Diet, Vegan",
+      "Diet, Vegetarian"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37892416/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "29174030",
+    "title": "Position paper on vegetarian diets from the working group of the Italian Society of Human Nutrition.",
+    "abstract": "BACKGROUND: Interest in vegetarian diets is growing in Italy and elsewhere, as government agencies and health/nutrition organizations are emphasizing that regular consumption of plant foods may provide health benefits and help prevent certain diseases.\nMETHODS AND RESULTS: We conducted a Pubmed search, up to September, 2015, for studies on key nutrients (proteins, vitamin B12, iron, zinc, calcium, vitamin D, and n-3 fatty acids) in vegetarian diets. From 295 eligible publications the following emerged: Vegetarians should be encouraged to supplement their diets with a reliable source of vitamin B12 (vitamin-fortified foods or supplements). Since the plant protein digestibility is lower than that of animal proteins it may be appropriate for vegetarians to consume more proteins than recommended for the general population. Vegetarians should also be encouraged to habitually consume good sources of calcium, iron and zinc - particularly vegetables that are low in oxalate and phytate (e.g. Brassicaceae), nuts and seeds, and calcium-rich mineral water. Calcium, iron, and zinc bioavailability can be improved by soaking, germination, and sour-dough leavening that lower the phytate content of pulses and cereals. Vegetarians can ensure good n-3 fatty acid status by habitually consuming good sources of a-linolenic acid (walnuts, flaxseeds, chia seeds, and their oils) and limiting linoleic acid intake (corn and sunflower oils).\nCONCLUSIONS: Well-planned vegetarian diets that include a wide variety of plant foods, and a reliable source of vitamin B12, provide adequate nutrient intake. Government agencies and health/nutrition organizations should provide more educational resources to help Italians consume nutritionally adequate vegetarian diets.",
+    "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+    "year": "2017",
+    "authors": [
+      "Agnoli C",
+      "Baroni L",
+      "Bertini I",
+      "Ciappellano S",
+      "Fabbri A",
+      "Papa M"
+    ],
+    "doi": "10.1016/j.numecd.2017.10.020",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Practice Guideline",
+      "Review"
+    ],
+    "mesh": [
+      "Adolescent",
+      "Adult",
+      "Age Factors",
+      "Aged",
+      "Child",
+      "Child, Preschool",
+      "Diet, Healthy",
+      "Diet, Vegan",
+      "Diet, Vegetarian",
+      "Dietary Supplements",
+      "Female",
+      "Humans",
+      "Infant",
+      "Infant, Newborn",
+      "Italy",
+      "Male",
+      "Middle Aged",
+      "Nutrition Assessment",
+      "Nutritional Sciences",
+      "Nutritional Status",
+      "Nutritive Value",
+      "Pregnancy",
+      "Recommended Dietary Allowances",
+      "Societies, Medical",
+      "Young Adult"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29174030/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "32825400",
+    "title": "Nutritional Interventions in the Management of Fibromyalgia Syndrome.",
+    "abstract": "Fibromyalgia (FM) is a multifactorial syndrome of unknown etiology, characterized by widespread chronic pain and various somatic and psychological manifestations. The management of FM requires a multidisciplinary approach combining both pharmacological and nonpharmacological strategies. Among nonpharmacological strategies, growing evidence suggests a potential beneficial role for nutrition. This review summarizes the possible relationship between FM and nutrition, exploring the available evidence on the effect of dietary supplements and dietary interventions in these patients. Analysis of the literature has shown that the role of dietary supplements remains controversial, although clinical trials with vitamin D, magnesium, iron and probiotics' supplementation show promising results. With regard to dietary interventions, the administration of olive oil, the replacement diet with ancient grains, low-calorie diets, the low FODMAPs diet, the gluten-free diet, the monosodium glutamate and aspartame-free diet, vegetarian diets as well as the Mediterranean diet all appear to be effective in reducing the FM symptoms. These results may suggest that weight loss, together with the psychosomatic component of the disease, should be taken into account. Therefore, although dietary aspects appear to be a promising complementary approach to the treatment of FM, further research is needed to provide the most effective strategies for the management of FM.",
+    "journal": "Nutrients",
+    "year": "2020",
+    "authors": [
+      "Pagliai G",
+      "Giangrandi I",
+      "Dinu M",
+      "Sofi F",
+      "Colombini B"
+    ],
+    "doi": "10.3390/nu12092525",
+    "pmcid": "PMC7551285",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Acetylcarnitine",
+      "Ascorbic Acid",
+      "Chlorella",
+      "Diet, Vegan",
+      "Dietary Supplements",
+      "Fibromyalgia",
+      "Nutrition Therapy",
+      "Nutritional Physiological Phenomena",
+      "Syndrome",
+      "Ubiquinone",
+      "Vitamin E"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32825400/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "29807048",
+    "title": "Portfolio Dietary Pattern and Cardiovascular Disease: A Systematic Review and Meta-analysis of Controlled Trials.",
+    "abstract": "BACKGROUND: The evidence for the Portfolio dietary pattern, a plant-based dietary pattern that combines recognized cholesterol-lowering foods (nuts, plant protein, viscous fibre, plant sterols), has not been summarized.\nOBJECTIVE: To update the European Association for the Study of Diabetes clinical practice guidelines for nutrition therapy, we conducted a systematic review and meta-analysis of controlled trials using GRADE of the effect of the Portfolio dietary pattern on the primary therapeutic lipid target for cardiovascular disease prevention, low-density lipoprotein cholesterol (LDL-C), and other established cardiometabolic risk factors.\nMETHODS: We searched MEDLINE, EMBASE, and The Cochrane Library through April 19, 2018. We included controlled trials ≥ 3-weeks assessing the effect of the Portfolio dietary pattern on cardiometabolic risk factors compared with an energy-matched control diet free of Portfolio dietary pattern components. Two independent reviewers extracted data and assessed risk of bias. The primary outcome was LDL-C. Data were pooled using the generic inverse-variance method and expressed as mean differences (MDs) with 95% confidence intervals (CIs). Heterogeneity was assessed (Cochran Q statistic) and quantified (I2-statistic). GRADE assessed the certainty of the evidence.\nRESULTS: Eligibility criteria were met by 7 trial comparisons in 439 participants with hyperlipidemia, in which the Portfolio dietary pattern was given on a background of a National Cholesterol Education Program (NCEP) Step II diet. The combination of a portfolio dietary pattern and NCEP Step II diet significantly reduced the primary outcome LDL-C by ~17% (MD, -0.73 mmol/L, [95% CI, -0.89 to -0.56 mmol/L]) as well as non-high-density lipoprotein cholesterol, apolipoprotein B, total cholesterol, triglycerides, systolic and diastolic blood pressure, C-reactive protein, and estimated 10-year coronary heart disease (CHD) risk, compared with an NCEP Step 2 diet alone (p < 0.05). There was no effect on high-density lipoprotein cholesterol or body weight. The certainty of the evidence was high for LDL-cholesterol and most lipid outcomes and moderate for all others outcomes.\nCONCLUSIONS: Current evidence demonstrates that the Portfolio dietary pattern leads to clinically meaningful improvements in LDL-C as well as other established cardiometabolic risk factors and estimated 10-year CHD risk.",
+    "journal": "Progress in cardiovascular diseases",
+    "year": "2018",
+    "authors": [
+      "Chiavaroli L",
+      "Nishi SK",
+      "Khan TA",
+      "Braunstein CR",
+      "Glenn AJ",
+      "Mejia SB"
+    ],
+    "doi": "10.1016/j.pcad.2018.05.004",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Research Support, Non-U.S. Gov't",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Blood Pressure",
+      "Body Weight",
+      "Cardiovascular Diseases",
+      "Diet, Healthy",
+      "Diet, Vegetarian",
+      "Evidence-Based Medicine",
+      "Feeding Behavior",
+      "Humans",
+      "Inflammation Mediators",
+      "Lipids",
+      "Nutritional Status",
+      "Nutritive Value",
+      "Prognosis",
+      "Protective Factors",
+      "Randomized Controlled Trials as Topic",
+      "Risk Factors",
+      "Risk Reduction Behavior"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29807048/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "32204974",
+    "title": "Health outcomes associated with vegetarian diets: An umbrella review of systematic reviews and meta-analyses.",
+    "abstract": "BACKGROUND: Several meta-analyses evaluated the association between vegetarian diets and health outcomes. To integrate the large amount of the available evidence, we performed an umbrella review of published meta-analyses that investigated the association between vegetarian diets and health outcomes.\nMETHODS: We performed an umbrella review of the evidence across meta-analyses of observational and interventional studies. PubMed, Embase, Cochrane Database of Systematic Reviews, and ISI Web of Knowledge. Additional articles were retrieved from primary search references. Meta-analyses of observational or interventional studies that assessed at least one health outcome in association with vegetarian diets. We estimated pooled effect sizes (ESs) using four different random-effect models: DerSimonian and Laird, maximum likelihood, empirical Bayes, and restricted maximum likelihood. We assessed heterogeneity using I2 statistics and publication bias using funnel plots, radial plots, normal Q-Q plots, and the Rosenthal's fail-safe N test.\nRESULTS: The umbrella review identified 20 meta-analyses of observational and interventional research with 34 health outcomes. The majority of the meta-analyses (80%) were classified as moderate or high-quality reviews, based on the AMSTAR2 criteria. By comparison with omnivorous diets, vegetarian diets were associated with a significantly lower concentration of blood total cholesterol (pooled ES = -0.549 mmol/L; 95% CI: -0.773 to -0.325; P < 0.001), LDL-cholesterol (pooled ES = -0.467 mmol/L; 95% CI: -0.600 to -0.335); P < 0.001), and HDL-cholesterol (pooled ES = -0.082 mmol/L; 95% CI: -0.095 to -0.069; P < 0.001). In comparison to omnivorous diets, vegetarian diets were associated with a reduced risk of negative health outcomes with a pooled ES of 0.886 (95% CI: 0.848 to 0.926; P < 0.001). In comparison to omnivores, Seventh-day Adventists (SDA) vegetarians had a significantly reduced risk of negative health outcomes with a pooled ES of 0.721 (95% CI: 0.625 to 0.832; P < 0.001). Non-SDA vegetarians had no significant reduction of negative health outcomes when compared to omnivores (pooled ES = 0.973; 95% CI: 0.873 to 1.083; P = 0.51). Vegetarian diets were associated with harmful outcomes on one-carbon metabolism markers (lower concentrations of vitamin B12 and higher concentrations of homocysteine), in comparison to omnivorous diets.\nCONCLUSIONS: Vegetarian diets are associated with beneficial effects on the blood lipid profile and a reduced risk of negative health outcomes, including diabetes, ischemic heart disease, and cancer risk. Among vegetarians, SDA vegetarians could represent a subgroup with a further reduced risk of negative health outcomes. Vegetarian diets have adverse outcomes on one-carbon metabolism. The effect of vegetarian diets among pregnant and lactating women requires specific attention. Well-designed prospective studies are warranted to evaluate the consequences of the prevalence of vitamin B12 deficiency during pregnancy and infancy on later life and of trace element deficits on cancer risks.\nPROSPERO REGISTRATION NUMBER: CRD42018092470.",
+    "journal": "Clinical nutrition (Edinburgh, Scotland)",
+    "year": "2020",
+    "authors": [
+      "Oussalah A",
+      "Levy J",
+      "Berthezène C",
+      "Alpers DH",
+      "Guéant JL"
+    ],
+    "doi": "10.1016/j.clnu.2020.02.037",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Adolescent",
+      "Adult",
+      "Diet, Vegetarian",
+      "Female",
+      "Humans",
+      "Male",
+      "Meta-Analysis as Topic",
+      "Middle Aged",
+      "Outcome Assessment, Health Care",
+      "Pregnancy",
+      "Systematic Reviews as Topic",
+      "Young Adult"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32204974/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "27880062",
+    "title": "The effect of vegetarian diets on iron status in adults: A systematic review and meta-analysis.",
+    "abstract": "BACKGROUND: Vegetarian diets exclude meat, seafood, and products containing these foods. Although the vegetarian lifestyle could lead to a better health status in adults, it may also bear risks for certain nutritional deficiencies. Cross-sectional studies and narrative reviews have shown that the iron status of vegetarians is compromised by the absence of highly bioavailable haem-iron in meatless diets and the inhibiting effect of certain components present in plant foods on non-haem iron bioavailability.\nMETHODS: The databases Pubmed, Scopus, Embase, and Cochrane CentralRegister of Controlled Trials were searched for studies comparing serum ferritin, as the major laboratory parameter for iron status of adult vegetarians with non-vegetarian control groups. A qualitative review was conducted as well as an inverse-variance random-effects meta-analysis to pool available data. In addition the effect of vegetarian diets according to gender was investigated with a subgroup analysis. The results were validated using a sensitivity analysis.\nRESULTS: A total of 27 cross-sectional studies and three interventional studies were selected for the systematic review. The meta-analysis which combined data of 24 cross-sectional studies showed that adult vegetarians have significantly lower serum ferritin levels than their non-vegetarian controls (-29.71 µg/L, 95% CI [-39.69, -19.73], p < 0.01). Inclusion of semi-vegetarian diets did not change the results considerably (-23.27 µg/L, 95% CI [-29.77, -16.76], p < 0.01). The effects were more pronounced in men (-61.88 µg/L, 95% CI [-85.59, -38.17], p < 0.01) than in both premenopausal women (-17.70 μg/L, 95% CI [-29.80, -5.60], p < 0.01) and all women (-13.50 μg/L, 95% CI [-22.96, -4.04], p < 0.01), respectively.\nCONCLUSIONS: In conclusion our results showed that vegetarians are more likely to have lower iron stores compared with non-vegetarians. However, since high iron stores are also a risk factor for certain non-communicable diseases, such as type 2 diabetes, it is recommended that not only vegetarians but also non-vegetarians should regularly control their iron status and improve their diet regarding the content and bioavailability of iron by consuming more plants and less meat.",
+    "journal": "Critical reviews in food science and nutrition",
+    "year": "2018",
+    "authors": [
+      "Haider LM",
+      "Schwingshackl L",
+      "Hoffmann G",
+      "Ekmekcioglu C"
+    ],
+    "doi": "10.1080/10408398.2016.1259210",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Adult",
+      "Diet, Vegetarian",
+      "Ferritins",
+      "Humans",
+      "Iron",
+      "Risk Factors"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27880062/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "40077754",
+    "title": "Impact of Vegan and Vegetarian Diets on Neurological Health: A Critical Review.",
+    "abstract": "BACKGROUND/OBJECTIVES: The global shift towards vegan and vegetarian diets has garnered attention for their ethical, environmental, and potential health benefits. These diets are often rich in phytonutrients and antioxidants, which have been associated with lower levels of inflammatory markers, such as C-reactive protein (CRP) and interleukin-6 (IL-6), suggesting a potential protective effect against systemic inflammation and oxidative stress. However, despite these benefits, concerns remain regarding their impact on neurological health due to the possible deficiencies of critical nutrients such as vitamin B12, DHA, EPA, and iron. This review critically evaluates the influence of these dietary patterns on neurological outcomes, emphasizing their nutritional composition, potential deficiencies, and their interplay with inflammation and oxidative stress.\nMETHODS: A systematic review of the literature published between 2010 and 2023 was conducted, focusing on studies that explore the relationship between vegan and vegetarian diets and neurological health. Key nutrients such as vitamin B12, omega-3 fatty acids, iron, and zinc were analyzed alongside antinutritional factors and their effects on the nervous system.\nRESULTS: Evidence suggests that vegan and vegetarian diets, when well planned, can be rich in phytonutrients and antioxidants, which have been associated with lower levels of inflammatory markers, such as C-reactive protein (CRP) and interleukin-6 (IL-6). These findings indicate a potential role in reducing systemic inflammation and oxidative stress, both of which are linked to neurodegenerative diseases. However, deficiencies in critical nutrients such as vitamin B12, DHA, EPA, and iron have been consistently associated with an increased risk of cognitive decline, mood disturbances, and neurodegenerative disorders. Additionally, the presence of antinutritional factors like phytates and oxalates may further impair nutrient absorption, necessitating careful dietary planning and supplementation.\nCONCLUSIONS: While plant-based diets provide anti-inflammatory and antioxidant benefits, their neurological implications depend on nutrient adequacy. Proper planning, supplementation, and food preparation techniques are essential to mitigate risks and enhance cognitive health. Further research is needed to explore long-term neurological outcomes and optimize dietary strategies.",
+    "journal": "Nutrients",
+    "year": "2025",
+    "authors": [
+      "Clemente-Suárez VJ",
+      "Redondo-Flórez L",
+      "Martín-Rodríguez A",
+      "Curiel-Regueros A",
+      "Rubio-Zarapuz A",
+      "Tornero-Aguilera JF"
+    ],
+    "doi": "10.3390/nu17050884",
+    "pmcid": "PMC11901473",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Diet, Vegetarian",
+      "Diet, Vegan",
+      "Oxidative Stress",
+      "Antioxidants",
+      "Inflammation",
+      "Nervous System"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40077754/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "36678180",
+    "title": "Hospital Services to Improve Nutritional Intake and Reduce Food Waste: A Systematic Review.",
+    "abstract": "BACKGROUND AND AIMS: Patients' nutritional intake is a crucial issue in modern hospitals, where the high prevalence of disease-related malnutrition may worsen clinical outcomes. On the other hand, food waste raises concerns in terms of sustainability and environmental burden. We conducted a systematic review to ascertain which hospital services could overcome both issues.\nMETHODS: A systematic literature search following PRISMA guidelines was conducted across MEDLINE, Web of Science, and Scopus for randomised controlled trials (RCTs) and observational studies comparing the effect of hospital strategies on energy intake, protein intake, and plate/food waste. The quality of included studies was assessed using the Newcastle-Ottawa Scale for cohort studies and the Cochrane Risk of Bias tool from the Cochrane Handbook for Systematic Reviews of Interventions for RCTs.\nRESULTS: Nineteen studies were included, assessing as many hospital strategies such as food service systems-including catering and room service-(n = 9), protected mealtimes and volunteer feeding assistance (n = 4), food presentation strategies (n = 3), nutritional counseling and education (n = 2), plant-based proteins meal (n = 1). Given the heterogeneity of the included studies, the results were narratively analysed.\nCONCLUSIONS: Although the results should be confirmed by prospective and large sample-size studies, the personalisation of the meal and efficient room service may improve nutritional intake while decreasing food waste. Clinical nutritionist staff-especially dietitians-may increase food intake reducing food waste through active monitoring of the patients' nutritional needs.",
+    "journal": "Nutrients",
+    "year": "2023",
+    "authors": [
+      "Rinninella E",
+      "Raoul P",
+      "Maccauro V",
+      "Cintoni M",
+      "Cambieri A",
+      "Fiore A"
+    ],
+    "doi": "10.3390/nu15020310",
+    "pmcid": "PMC9864175",
+    "pub_types": [
+      "Systematic Review",
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Eating",
+      "Energy Intake",
+      "Malnutrition",
+      "Meals",
+      "Hospitals"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36678180/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "40094942",
+    "title": "The protein paradox, carnivore diet & hypertrophy versus longevity. Short term nutrition and hypertrophy versus longevity.",
+    "abstract": "Meat consumption has been a common food selection for humans for millennia. Meat is rich in amino acids, delivers vast amounts of nutrients and assists in short term health and hypertrophy. However, meat consumption can induce the activation of mTOR and IGF-1, accelerated aging, vascular constriction, atherosclerosis, heart disease, increased risk of diabetes, systemic inflammatory effects, cancers (including colorectal and prostate cancers), advanced glycation end products, impaired immune function / increased susceptibility to infection via downstream advanced glycation end product accumulation, polycyclic aromatic hydrocarbon ingestion, increased homocysteine levels among many other pathophysiologies. Research papers showing health benefits of meat consumption versus other papers showing the detriment of meat have led to confusion as many cohorts such as bodybuilding, health and wellness groups, carnivore diet practitioners, online social media longevity groups and more are interested in data that exists across the peer reviewed literature, however, few papers offer a super wide view where meat consumption benefits and pitfalls are taken into account.BackgroundThe need for such a systematic review is high as health enthusiasts incorrectly often quote single data points from papers showing a single benefit from consuming meat. This often leads to a higher consumption of meat. However, not all meat consumption is the same, and not all meat delivers the same benefits or detriments. Therefore, a systematic review of current literature has been performed to extrapolate the data into whether those interested in hypertrophy, short term nutrition and energy, and longevity should consume meat. Aim: The aim of this research is to dispel myths about meat consumption, such as that meat has a one size fits all benefit to all those that consume it regardless of genetics, or that consuming meat-based protein is the same across all meats.MethodsA deep analysis of almost one hundred peer reviewed papers and surveys spanning decades of cohorts having a meat-based diet compared to those consuming a plant based diet has been performed. Further analysis on specific side effects and disease has also been performed.ResultsThe results of our systematic review show clearly that meat is great for hypertrophy, short term nutrition, short term energy requirements, but a very poor choice when it comes to healthy aging and longevity.ConclusionAnimal protein is great for building muscle, short term energy, maintaining high levels of nutrients, but a carnivore diet holds too many adverse long term side effects to be considered a staple for a longevity-based diet. The evidence is very strong, that subjects interested in longevity and aging should shift their protein intake away from red and processed meats, and either toward white meats or plant-based sources if longevity is the goal.",
+    "journal": "Nutrition and health",
+    "year": "2025",
+    "authors": [
+      "Palmer RD"
+    ],
+    "doi": "10.1177/02601060251314575",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Animals",
+      "Humans",
+      "Diet",
+      "Dietary Proteins",
+      "Hypertrophy",
+      "Longevity",
+      "Meat"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40094942/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "41501909",
+    "title": "Dietary interventions and the gut microbiota: a systematic literature review of 80 controlled clinical trials.",
+    "abstract": "BACKGROUND: The gut microbiota are increasingly recognised as key mediators of diet-related health outcomes. This systematic review primarily aimed to comprehensively evaluate associations between dietary interventions and gut microbiota in healthy and clinical adult populations, utilising controlled trials. Secondary outcomes included biological markers measured in blood, faecal, and urine samples. METHODS: A systematic literature search was conducted following the PRISMA guidelines, using the electronic databases PubMed, EMBASE, The Cochrane Central Register of Controlled Trials (CENTRAL), CINAHL (via EBSCOhost), and Scopus to gather controlled trials of dietary interventions that reported within-group changes from baseline for gut microbiota and biomarkers. Study screening, data extraction, and risk-of-bias assessment were conducted by two independent reviewers. RESULTS: Eighty studies met the eligibility criteria, trialling 13 distinct dietary interventions: Mediterranean, Western, Korean, Japanese, Nordic, low fermentable oligosaccharides, disaccharides, monosaccharides and polyols (FODMAP), ketogenic, gluten-free, calorie-restricted, macronutrient altered, animal- and plant-based, as well as diets high in functional nutrients and bioactive compounds. Dietary interventions were associated with within-group changes in taxonomy and particular biological markers; however, they were not consistently associated with changes in the alpha or beta diversity of the gut microbiota. The Mediterranean, Japanese, Korean, calorie-restricted, high-polyphenol, high-fibre, plant-based, low-fat, and low-protein diets were all associated with increased abundances of either short chain fatty acids (SCFA)- or lactic acid-producing bacteria or reduced abundance of opportunistic pathogenic bacteria. Some of these diets were also associated with reduced levels of inflammatory markers. In contrast, Western, animal-based, low FODMAP, ketogenic, and gluten-free diets were associated with a reduced abundance of SCFA-producing bacteria. There was substantial heterogeneity across studies in methodology and reporting. CONCLUSION: This systematic review identifies differential associations between a wide range of dietary interventions and gut microbiota and inflammatory outcomes, both beneficial and adverse.",
+    "journal": "Journal of translational medicine",
+    "year": "2026",
+    "authors": [
+      "Aslam H",
+      "Trakman G",
+      "Dissanayake T",
+      "Todd E",
+      "Harrison P",
+      "Alby C"
+    ],
+    "doi": "10.1186/s12967-025-07428-9",
+    "pmcid": "PMC12781466",
+    "pub_types": [
+      "Systematic Review",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "mesh": [
+      "Humans",
+      "Gastrointestinal Microbiome",
+      "Diet",
+      "Biomarkers",
+      "Clinical Trials as Topic"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41501909/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "36566976",
+    "title": "Dietary recommendations in the prevention and treatment of osteoporosis.",
+    "abstract": "INTRODUCTION: This article presents the initial recommendations of the French Rheumatology Society (Société Française de Rhumatologie - SFR) and the Osteoporosis Research and Information Group (Groupe de Recherche et d'Informations sur les Ostéoporoses - GRIO) on the role of diet in the prevention and treatment of osteoporosis.\nMETHODS: The recommendations were produced by a working group composed of rheumatologists, physician nutrition specialists and a geriatrician. Fifteen (15) questions pertaining to \"daily practices\" were preselected by the working group. For the literature review, the working group focussed mainly on the effects of diet on bone mineral density (BMD) and fractures, and primarily on meta-analyses of longitudinal studies and dietary intervention studies.\nRESULTS: A Mediterranean-type diet and the daily consumption of 2 to 3 dairy products are recommended. Together, these provide the calcium and \"high quality\" protein required to maintain a normal calcium-phosphorus balance and bone metabolism, and are associated with lower fracture risk. Conversely, unbalanced Western diets, vegan diets, weight-loss diets in non-overweight individuals, alcohol consumption and daily consumption of sodas are advised against. In terms of the beneficial effects on bone mineral density and fracture risk, current scientific data are either insufficient or too divergent to recommend increasing or restricting the consumption of tea or coffee, vitamins other than vitamin D, vitamin D-enriched or phytoestrogen-rich foods, calcium-enriched plant-based beverages, oral nutritional supplements, or dietary sources of prebiotics and probiotics.\nCONCLUSIONS: These are the first set of recommendations addressing the role of diet in the prevention and treatment of osteoporosis. More research is necessary to direct and support guidelines.",
+    "journal": "Joint bone spine",
+    "year": "2023",
+    "authors": [
+      "Biver E",
+      "Herrou J",
+      "Larid G",
+      "Legrand MA",
+      "Gonnelli S",
+      "Annweiler C"
+    ],
+    "doi": "10.1016/j.jbspin.2022.105521",
+    "pmcid": "",
+    "pub_types": [
+      "Practice Guideline",
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Calcium",
+      "Osteoporosis",
+      "Bone Density",
+      "Fractures, Bone",
+      "Diet",
+      "Vitamin D"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36566976/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "39408296",
+    "title": "The Association of a Vegan Diet during Pregnancy with Maternal and Child Outcomes: A Systematic Review.",
+    "abstract": "Background: With the increasing prevalence of pregnant women adhering to a vegan diet, gaining insight into their nutritional intake and its association with maternal and fetal outcomes is essential to providing recommendations and developing guidelines for general practice. Methods: Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, a systematic review of the available scientific literature in Medline, Embase, and Cochrane was conducted in January 2024. Results: The titles and abstracts of 2211 unique articles were screened. Only six studies were eligible for inclusion and assessed for methodological quality using the (National Institutes of Health Study Quality (NIHSQ) Assessment Tool. The intake of protein and various micronutrients was significantly lower among vegan pregnant women compared to omnivorous women. Vitamin B12 supplements seemed sufficient in optimizing maternal and umbilical cord vitamin B12 levels amongst vegan mothers. Further, women on a vegan diet less often showed excessive pregnancy weight gain. However, children from women on a vegan diet had a significantly lower birth weight than those from women on an omnivorous diet. Conclusion: So far, only a few studies, with a large diversity of (assessment of) outcomes and insufficient power, have been published on this topic, limiting our ability to make firm conclusions about the effects of a vegan diet during pregnancy on maternal and fetal outcomes.",
+    "journal": "Nutrients",
+    "year": "2024",
+    "authors": [
+      "Meulenbroeks D",
+      "Otten E",
+      "Smeets S",
+      "Groeneveld L",
+      "Jonkers D",
+      "Eussen S"
+    ],
+    "doi": "10.3390/nu16193329",
+    "pmcid": "PMC11478456",
+    "pub_types": [
+      "Systematic Review",
+      "Journal Article"
+    ],
+    "mesh": [
+      "Female",
+      "Humans",
+      "Infant, Newborn",
+      "Pregnancy",
+      "Birth Weight",
+      "Diet, Vegan",
+      "Dietary Supplements",
+      "Maternal Nutritional Physiological Phenomena",
+      "Micronutrients",
+      "Pregnancy Outcome",
+      "Vitamin B 12",
+      "Weight Gain"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39408296/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "40355028",
+    "title": "Associations between Diet and Cognitive Function in Stroke Survivors: A Systematic Review and Meta-analysis.",
+    "abstract": "Poststroke cognitive decline is a major form of disability in stroke survivors. Although dietary interventions have shown potential in improving cognitive outcomes in stroke-free populations, their effects on stroke survivors remain unclear. This review aimed to evaluate associations between diet and cognitive function in stroke survivors. MEDLINE, Embase, Scopus, and CINHAL were searched for studies from inception to 16 December, 2024. Eligible articles were observational and interventional studies on adult stroke survivors that evaluated the association/effect of any nutritional exposure/intervention on cognitive performance and dementia risk. Studies were excluded when an intervention was combined with nonnutritional treatment. Random-effects meta-analysis was used for similar randomized clinical trials. This review included 20 clinical trials and 14 observational studies assessing the intake of energy and proteins and a variety of single nutrients, as well as dietary patterns, single foods, and phytochemicals. Meta-analyses revealed a positive effect of energy-protein supplementation on global cognition [standardized mean difference (SMD): 0.62; 95% confidence interval (CI): 0.15, 1.08; P = 0.009], and a negative effect of B-vitamins (folic acid, vitamin B6, and vitamin B12) (SMD: -0.40; 95% CI: -0.72, -0.08; P = 0.02). Adherence to the Mediterranean-Dietary Approaches to Stop Hypertension (DASH) Intervention for Neurodegenerative Delay and plant-based diets, as well as higher consumption of fruits, milk, coffee, vitamin E, and selenium, were related to better cognitive outcomes; no significant association was observed for adherence to DASH and Mediterranean diets and consumption of vitamins D and C. Butter and sugar intake and calcium supplementation were associated with negative cognitive outcomes. Mixed results were seen for omega (ω)-3, tea, and plant extracts. The available evidence indicates that energy-protein supplementation may benefit cognition after stroke, whereas B-vitamin supplementation has no effect. The substantial heterogeneity among studies hinders conclusions about other dietary strategies. This review was registered with PROSPERO as CRD42024541785.",
+    "journal": "Advances in nutrition (Bethesda, Md.)",
+    "year": "2025",
+    "authors": [
+      "Amanat S",
+      "Dordevic AL",
+      "Brodtmann A",
+      "Cardoso BR"
+    ],
+    "doi": "10.1016/j.advnut.2025.100440",
+    "pmcid": "PMC12164037",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "mesh": [
+      "Humans",
+      "Diet",
+      "Cognition",
+      "Stroke",
+      "Cognitive Dysfunction",
+      "Dietary Supplements",
+      "Survivors",
+      "Female",
+      "Male",
+      "Middle Aged",
+      "Aged",
+      "Dietary Proteins",
+      "Observational Studies as Topic",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40355028/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "41382333",
+    "title": "Lacto-ovo-vegetarian and vegan diets in children and adolescents: a systematic review and meta-analysis of nutritional and health outcomes.",
+    "abstract": "The health implications of lacto-ovo-vegetarian and vegan diets in childhood remain debated. This meta-analysis compares lacto-ovo-vegetarian and vegan diets with omnivorous diets across a wide spectrum of nutrients and health outcomes among children <18 years worldwide without chronic disease. Searches in MEDLINE, Embase, Scopus, and Web of Science up to March 2025 identified 59 studies including 48,626 participants (7,280 lacto-ovo-vegetarians, 1289 vegans, and 40,059 omnivores). Lacto-ovo-vegetarian children consumed less energy, protein, fat, vitamin B12, vitamin D, and zinc, but more fiber, iron, folate, vitamin C, and magnesium. Vegans showed similar patterns, with particularly low calcium intake. Growth and body composition indicated a leaner phenotype: lacto-ovo-vegetarians had lower height, weight, BMI z-scores, fat mass, and bone mineral content, while vegans had shorter stature and lower BMI z-scores. Biomarkers showed lower ferritin and 25(OH)D in lacto-ovo-vegetarians, and lower hemoglobin and ferritin in vegans. Although group averages for most nutrients and biomarkers remained within pediatric reference ranges, increased odds of iron deficiency and anemia were observed in lacto-ovo-vegetarians, and vitamin B12 deficiency in vegans. Both groups showed lower total and LDL cholesterol. These findings underscore the need for careful dietary planning and supplementation in lacto-ovo-vegetarian and vegan children.",
+    "journal": "Critical reviews in food science and nutrition",
+    "year": "2026",
+    "authors": [
+      "Lotti S",
+      "Panizza G",
+      "Martini D",
+      "Marx W",
+      "Beasley JM",
+      "Colombini B"
+    ],
+    "doi": "10.1080/10408398.2025.2572983",
+    "pmcid": "",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "mesh": [
+      "Humans",
+      "Diet, Vegan",
+      "Child",
+      "Diet, Vegetarian",
+      "Adolescent",
+      "Nutritional Status",
+      "Child, Preschool",
+      "Vegans"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41382333/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "39169353",
+    "title": "A systematic review and meta-analysis of randomized trials of substituting soymilk for cow's milk and intermediate cardiometabolic outcomes: understanding the impact of dairy alternatives in the transition to plant-based diets on cardiometabolic health.",
+    "abstract": "BACKGROUND: Dietary guidelines recommend a shift to plant-based diets. Fortified soymilk, a prototypical plant protein food used in the transition to plant-based diets, usually contains added sugars to match the sweetness of cow's milk and is classified as an ultra-processed food. Whether soymilk can replace minimally processed cow's milk without the adverse cardiometabolic effects attributed to added sugars and ultra-processed foods remains unclear. We conducted a systematic review and meta-analysis of randomized controlled trials, to assess the effect of substituting soymilk for cow's milk and its modification by added sugars (sweetened versus unsweetened) on intermediate cardiometabolic outcomes.\nMETHODS: MEDLINE, Embase, and the Cochrane Central Register of Controlled Trials were searched (through June 2024) for randomized controlled trials of ≥ 3 weeks in adults. Outcomes included established markers of blood lipids, glycemic control, blood pressure, inflammation, adiposity, renal disease, uric acid, and non-alcoholic fatty liver disease. Two independent reviewers extracted data and assessed risk of bias. The certainty of evidence was assessed using GRADE (Grading of Recommendations, Assessment, Development, and Evaluation). A sub-study of lactose versus sucrose outside of a dairy-like matrix was conducted to explore the role of sweetened soymilk which followed the same methodology.\nRESULTS: Eligibility criteria were met by 17 trials (n = 504 adults with a range of health statuses), assessing the effect of a median daily dose of 500 mL of soymilk (22 g soy protein and 17.2 g or 6.9 g/250 mL added sugars) in substitution for 500 mL of cow's milk (24 g milk protein and 24 g or 12 g/250 mL total sugars as lactose) on 19 intermediate outcomes. The substitution of soymilk for cow's milk resulted in moderate reductions in non-HDL-C (mean difference, - 0.26 mmol/L [95% confidence interval, - 0.43 to - 0.10]), systolic blood pressure (- 8.00 mmHg [- 14.89 to - 1.11]), and diastolic blood pressure (- 4.74 mmHg [- 9.17 to - 0.31]); small important reductions in LDL-C (- 0.19 mmol/L [- 0.29 to - 0.09]) and c-reactive protein (CRP) (- 0.82 mg/L [- 1.26 to - 0.37]); and trivial increases in HDL-C (0.05 mmol/L [0.00 to 0.09]). No other outcomes showed differences. There was no meaningful effect modification by added sugars across outcomes. The certainty of evidence was high for LDL-C and non-HDL-C; moderate for systolic blood pressure, diastolic blood pressure, CRP, and HDL-C; and generally moderate-to-low for all other outcomes. We could not conduct the sub-study of the effect of lactose versus added sugars, as no eligible trials could be identified.\nCONCLUSIONS: Current evidence provides a good indication that replacing cow's milk with soymilk (including sweetened soymilk) does not adversely affect established cardiometabolic risk factors and may result in advantages for blood lipids, blood pressure, and inflammation in adults with a mix of health statuses. The classification of plant-based dairy alternatives such as soymilk as ultra-processed may be misleading as it relates to their cardiometabolic effects and may need to be reconsidered in the transition to plant-based diets.\nTRIAL REGISTRATION: ClinicalTrials.gov identifier, NCT05637866.",
+    "journal": "BMC medicine",
+    "year": "2024",
+    "authors": [
+      "Erlich MN",
+      "Ghidanac D",
+      "Blanco Mejia S",
+      "Khan TA",
+      "Chiavaroli L",
+      "Zurbau A"
+    ],
+    "doi": "10.1186/s12916-024-03524-7",
+    "pmcid": "PMC11340166",
+    "pub_types": [
+      "Systematic Review",
+      "Journal Article",
+      "Meta-Analysis",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "mesh": [
+      "Humans",
+      "Blood Pressure",
+      "Cardiovascular Diseases",
+      "Diet, Plant-Based",
+      "Milk",
+      "Randomized Controlled Trials as Topic",
+      "Soy Milk",
+      "Adult"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39169353/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "34607347",
+    "title": "Effects of Dietary Patterns on Biomarkers of Inflammation and Immune Responses: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+    "abstract": "Altered immune cell phenotype and chronic inflammation are key features shared by various chronic diseases. Evidence from nutritional interventions aimed at alleviating inflammation could be a promising approach for the prevention of adverse health outcomes. We therefore aimed to conduct a systematic review and meta-analysis of randomized controlled trials (RCTs) to summarize the recent evidence on the effects of dietary patterns on inflammatory and immune-related biomarkers in humans. PubMed, Medline, and Web of Science databases were searched for publications up to October 2020. In total, 22 RCTs were included in the meta-analysis conducted according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. The Mediterranean diet appeared as the dietary pattern that showed the most prominent reductions of inflammatory biomarkers such as IL-6 [mean difference (MD): -1.07 pg/mL (95% CI: -1.94, -0.20); I2: 96%], IL-1β [MD: -0.46 pg/mL (95% CI: -0.66, -0.25); I2: 0%], and C-reactive protein [MD: -1.00 mg/L (95% CI: -2.02, 0.01); I2: 100%]. No substantial effects were observed for the additional dietary patterns studied in intervention research, including the Dietary Adherence to Stop Hypertension diet, and the vegetarian or vegan diets. Future large-scale multifactorial intervention studies are warranted to allow direct comparison of various dietary patterns in relation to a range of biomarkers reflecting multiple inflammatory and immune-related pathways.",
+    "journal": "Advances in nutrition (Bethesda, Md.)",
+    "year": "2022",
+    "authors": [
+      "Koelman L",
+      "Egea Rodrigues C",
+      "Aleksandrova K"
+    ],
+    "doi": "10.1093/advances/nmab086",
+    "pmcid": "PMC8803482",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Biomarkers",
+      "Diet, Mediterranean",
+      "Humans",
+      "Immunity",
+      "Inflammation",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34607347/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "38474851",
+    "title": "Plant-Based Diets in Children: Secular Trends, Health Outcomes, and a Roadmap for Urgent Practice Recommendations and Research-A Systematic Review.",
+    "abstract": "People are increasingly encouraged to reduce animal food consumption and shift towards plant-based diets; however, the implications for children's health are unclear. In this narrative review of research in high-income settings, we summarize evidence on the increasing consumption of plant-based diets in children and update an earlier systematic review regarding their associations with children's health outcomes. The evidence indicates that vegan, but not vegetarian, diets can restrict growth relative to omnivorous children and increase the risk of being stunted and underweight, although the percentage affected is relatively small. Bone mineral content is reduced in vegetarian and, in particular, vegan children, compared to omnivores. Both vegetarian and vegan children who do not use vitamin B12 supplements manifest with B12 deficiency; however, supplementation rectifies this problem. Both vegetarians and vegans have lower concentrations of 25(OH)D if unsupplemented, and lower body iron stores, but usually have normal iron metabolism markers. Both groups are at risk of iodine deficiency, and this might affect thyroid health. Children consuming a vegan diet have a more favorable lipid profile than omnivorous children; however, the results for a vegetarian diet are inconsistent and vary by outcome. Based on the same scientific evidence, national and international dietary recommendations are heterogeneous, with some countries supporting plant-based diets among infants, children, and adolescents, and others discouraging them. We offer a research roadmap, highlighting what is needed to provide adequate evidence to harmonize dietary recommendations for plant-based diets in children. A number of measures should urgently be introduced at international and national levels to improve the safety of their use in children.",
+    "journal": "Nutrients",
+    "year": "2024",
+    "authors": [
+      "Desmond MA",
+      "Fewtrell MS",
+      "Wells JCK"
+    ],
+    "doi": "10.3390/nu16050723",
+    "pmcid": "PMC10934552",
+    "pub_types": [
+      "Systematic Review",
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Diet, Vegetarian",
+      "Child",
+      "Diet, Vegan",
+      "Adolescent",
+      "Child Nutritional Physiological Phenomena",
+      "Nutritional Status",
+      "Dietary Supplements",
+      "Child, Preschool",
+      "Diet, Plant-Based"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38474851/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "37654090",
+    "title": "The role of diet and non-pharmacologic supplements in the treatment of chronic neuropathic pain: A systematic review.",
+    "abstract": "BACKGROUND/IMPORTANCE: Dietary interventions, vitamins, and nutritional supplementation are playing an increasingly important role in the management of neuropathic pain. Current pharmacological treatments are poorly tolerated and ineffective in many cases.\nOBJECTIVE: This systematic review aims to study the efficacy of dietary interventions, vitamins, and nutritional supplementation in the management of chronic neuropathic pain in adults.\nEVIDENCE REVIEW: The review followed PRISMA guidelines and was registered with PROSPERO (#CRD42022300312). Ten databases and gray literature, including Embase.com, MEDLINE and Web of Science, were systematically searched using a combination of keywords and controlled vocabulary related to chronic neuropathic pain and oral non-pharmacological supplements. Studies on adult humans published between 2000 and 2021 were considered for inclusion. The Cochrane Handbook was used to assess risk of bias, and Grading of Recommendations Assessment, Development, and Evaluation was used to determine overall quality of evidence.\nFINDINGS: Forty studies were included in the final review, and results were categorized according to pain type including pain related to chemotherapy-induced peripheral neuropathy (CIPN, 22 studies, including 3 prospective cohorts), diabetic peripheral neuropathy (DPN, 13 studies, including 2 prospective), complex regional pain syndrome (CRPS-I, 3 studies, including 1 prospective), and other (2 studies, both RCT). The CIPN studies used various interventions including goshajinkigan (4 studies), vitamin E (5), vitamin B12 (3), glutamine (3), N-acetyl-cysteine (2), acetyl-l-carnitine (2), guilongtonluofang (1), ninjin'yoeito (1), alpha-lipoic acid (1), l-carnosine (1), magnesium and calcium (1), crocin (1), and antioxidants (1), with some studies involving multiple interventions. All CIPN studies involved varying cancers and/or chemotherapies, advising caution for generalizability of results. Interventions for DPN included alpha-lipoic acid (5 studies), vitamin B12 (3), acetyl-l-carnitine (3), vitamin E (1), vitamin D (2), and a low-fat plant-based diet (1). Vitamin C was studied to treat CRPS-I (3 studies, including 1 prospective). Magnesium (1) and St. John's wort (1) were studied for other or mixed neuropathologies.\nCONCLUSIONS: Based on the review, we cannot recommend any supplement use for the management of CIPN, although further research into N-acetyl-cysteine, l-carnosine, crocin, and magnesium is warranted. Acetyl-l-carnitine was found to be likely ineffective or harmful. Alpha-lipoic acid was not found effective. Studies with goshajinkigan, vitamin B12, vitamin E, and glutamine had conflicting results regarding efficacy, with one goshajinkigan study finding it harmful. Guilongtonluofang, ninjin'yoeito, and antioxidants showed various degrees of potential effectiveness. Regarding DPN, our review supports the use of alpha-lipoic acid, acetyl-l-carnitine, and vitamin D. The early use of vitamin C prophylaxis for the development of CRPS-I also seems promising. Further research is warranted to confirm these findings.",
+    "journal": "Pain practice : the official journal of World Institute of Pain",
+    "year": "2024",
+    "authors": [
+      "Frediani JK",
+      "Lal AA",
+      "Kim E",
+      "Leslie SL",
+      "Boorman DW",
+      "Singh V"
+    ],
+    "doi": "10.1111/papr.13291",
+    "pmcid": "",
+    "pub_types": [
+      "Systematic Review",
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Adult",
+      "Acetylcarnitine",
+      "Magnesium",
+      "Thioctic Acid",
+      "Carnosine",
+      "Glutamine",
+      "Cysteine",
+      "Prospective Studies",
+      "Dietary Supplements",
+      "Vitamins",
+      "Neuralgia",
+      "Vitamin E",
+      "Ascorbic Acid",
+      "Diet",
+      "Antioxidants",
+      "Vitamin B 12",
+      "Complex Regional Pain Syndromes",
+      "Vitamin D",
+      "Carotenoids"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37654090/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "39203884",
+    "title": "The Effect of Plant-Based Protein Ingestion on Athletic Ability in Healthy People-A Bayesian Meta-Analysis with Systematic Review of Randomized Controlled Trials.",
+    "abstract": "Plant-based protein supplements are increasingly popular, yet their efficacy in enhancing athletic performance compared to animal protein, insect protein, or other protein types remains under investigation. This study aimed to assess the effectiveness of plant-based protein on athletic abilities such as muscle strength, endurance performance, and muscle protein synthesis (MPS) rate and compare it to no- or low-protein ingestion and non-plant protein sources. Randomized controlled trials (RCTs) evaluating the beneficial and harmful effects of plant-based protein ingestion on athletic ability in healthy individuals were considered. A systematic search of six databases yielded 2152 studies, which were screened using the Covidence systematic review tool. Thirty-one studies were included for meta-analysis after independent selection, data extraction, and risk of bias assessment by two reviewers. The meta-analysis employed a Bayesian approach using the Markov chain Monte Carlo (MCMC) method through a random-effects model. The results demonstrated that plant-based protein supplements provided greater benefits for athletic performance in healthy individuals compared to the no- or low-protein ingestion group [μ(SMD): 0.281, 95% CI: 0.159 to 0.412; heterogeneity τ: 0.18, 95% CI: 0.017 to 0.362]. However, when compared to other types of protein, plant-based protein ingestion was less effective in enhancing athletic ability [μ(SMD): -0.119, 95% CI: -0.209 to -0.028; heterogeneity τ: 0.076, 95% CI: 0.003 to 0.192]. A subgroup analysis indicated significant improvements in muscle strength and endurance performance in both young and older individuals consuming plant-based protein compared to those with no- or low-protein ingestion. Nonetheless, other protein types showed greater benefits in muscle strength compared to plant-based protein [μ(SMD): -0.133, 95% CI: -0.235 to -0.034; heterogeneity τ: 0.086, 95% CI: 0.004 to 0.214]. In conclusion, while plant-based protein ingestion demonstrates superior efficacy compared to low- or no-protein ingestion, it is not as effective as other protein types such as whey, beef, or milk protein in enhancing athletic performance in healthy individuals. Registration: Registered at the International Prospective Register of Systematic Reviews (PROSPERO) (identification code CRD42024555804).",
+    "journal": "Nutrients",
+    "year": "2024",
+    "authors": [
+      "Zhao S",
+      "Xu Y",
+      "Li J",
+      "Ning Z"
+    ],
+    "doi": "10.3390/nu16162748",
+    "pmcid": "PMC11357476",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Athletic Performance",
+      "Bayes Theorem",
+      "Dietary Supplements",
+      "Muscle Proteins",
+      "Muscle Strength",
+      "Physical Endurance",
+      "Plant Proteins, Dietary",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39203884/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "37778442",
+    "title": "Effect of Alpha-Linolenic Acid Supplementation on Cardiovascular Disease Risk Profile in Individuals with Obesity or Overweight: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+    "abstract": "Overweight and obesity are highly prevalent worldwide and are associated with cardiovascular disease (CVD) risk factors, including systematic inflammation, dyslipidemia, and hypertension. Alpha-linolenic acid (ALA) is a plant-based essential polyunsaturated fatty acid associated with reduced CVD risks. This systematic review and meta-analysis aimed to investigate the effects of supplementation with ALA compared with the placebo on CVD risk factors in people with obesity or overweight (International Prospective Register of Systematic Reviews Registration No. CRD42023429563). This review included studies with adults using oral supplementation or food or combined interventions containing vegetable sources of ALA. All studies were randomly assigned trials with parallel or crossover designs. The Cochrane Collaboration tool was used for assessing the risk of bias (Version 1). PubMed, Web of Science, Embase, and Cochrane library databases were searched from inception to April 2023. Nineteen eligible randomized controlled trials, including 1183 participants, were included in the meta-analysis. Compared with placebo, dietary ALA supplementation significantly reduced C-reactive protein concentration (standardized mean difference [SMD] = -0.38 mg/L; 95% confidence interval [CI]: -0.72, -0.04), tumor necrosis factor-α concentration (SMD = -0.45 pg/mL; 95% CI: -0.73, -0.17), triglyceride in serum (SMD = -4.41 mg/dL; 95% CI: -5.99, -2.82), and systolic blood pressure (SMD = -0.37 mm Hg; 95% CI: -0.66, -0.08); but led to a significant increase in low-density lipoprotein cholesterol concentrations (SMD = 1.32 mg/dL; 95% CI: 0.05, 2.59). ALA supplementation had no significant effect on interleukin-6, diastolic blood pressure, total cholesterol, or high-density lipoprotein cholesterol (all P ≥ 0.05). Subgroup analysis revealed that ALA supplementation at a dose of ≥3 g/d from flaxseed and flaxseed oil had a more prominent effect on improving CVD risk profiles, particularly where the intervention duration was ≥12 wk and where the baseline CVD profile was poor.",
+    "journal": "Advances in nutrition (Bethesda, Md.)",
+    "year": "2023",
+    "authors": [
+      "Yin S",
+      "Xu H",
+      "Xia J",
+      "Lu Y",
+      "Xu D",
+      "Sun J"
+    ],
+    "doi": "10.1016/j.advnut.2023.09.010",
+    "pmcid": "PMC10721518",
+    "pub_types": [
+      "Meta-Analysis",
+      "Systematic Review",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "mesh": [
+      "Adult",
+      "Humans",
+      "Cardiovascular Diseases",
+      "alpha-Linolenic Acid",
+      "Overweight",
+      "Randomized Controlled Trials as Topic",
+      "Cholesterol, HDL",
+      "Obesity",
+      "Dietary Supplements"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37778442/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "38791506",
+    "title": "Plant-Based HSP90 Inhibitors in Breast Cancer Models: A Systematic Review.",
+    "abstract": "Breast cancer, the most invasive cancer in women globally, necessitates novel treatments due to prevailing limitations of therapeutics. Search of news anticancer targets is more necessary than ever to tackle this pathology. Heat-Shock Protein 90 (HSP90), a chaperone protein, is implicated in breast cancer pathogenesis, rendering it an appealing target. Looking for alternative approach such as Plant-based compounds and natural HSP90 inhibitors offer promising prospects for innovative therapeutic strategies. This study aims to identify plant-based compounds with anticancer effects on breast cancer models and elucidate their mechanism of action in inhibiting the HSP90 protein. A systematic review was conducted and completed in January 2024 and included in vitro, in vivo, and in silico studies that investigated the effectiveness of plant-based HSP90 inhibitors tested on breast cancer models. Eleven studies were included in the review. Six plants and 24 compounds from six different classes were identified and proved to be effective against HSP90 in breast cancer models. The studied plant extracts showed a dose- and time-dependent decrease in cell viability. Variable IC50 values showed antiproliferative effects, with the plant Tubocapsicum anomalum demonstrating the lowest value. Withanolides was the most studied class. Fennel, Trianthema portulacastrum, and Spatholobus suberectus extracts were shown to inhibit tumor growth and angiogenesis and modulate HSP90 expression as well as its cochaperone interactions in breast cancer mouse models. The identified plant extracts and compounds were proven effective against HSP90 in breast cancer models, and this inhibition showed promising effects on breast cancer biology. Collectively, these results urge the need of further studies to better understand the mechanism of action of HSP90 inhibitors using comparable methods for preclinical observations.",
+    "journal": "International journal of molecular sciences",
+    "year": "2024",
+    "authors": [
+      "Zarguan I",
+      "Ghoul S",
+      "Belayachi L",
+      "Benjouad A"
+    ],
+    "doi": "10.3390/ijms25105468",
+    "pmcid": "PMC11122155",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Animals",
+      "Female",
+      "Humans",
+      "Antineoplastic Agents, Phytogenic",
+      "Breast Neoplasms",
+      "Cell Line, Tumor",
+      "Cell Proliferation",
+      "Cell Survival",
+      "HSP90 Heat-Shock Proteins",
+      "Plant Extracts",
+      "Neoplasms, Experimental"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38791506/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "41487531",
+    "title": "Efficacy of sublingual and oral vitamin B12 versus intramuscular administration: insights from a systematic review and meta-analysis.",
+    "abstract": "BACKGROUND: Vitamin B12 deficiency is a widespread condition, particularly among elderly individuals, patients with malabsorption syndromes, and those following plant-based diets. This systematic review and meta-analysis aimed to evaluate and compare the effectiveness of sublingual and oral vitamin B12 administration in comparison with intramuscular (IM) injections, both for improving serum cobalamin and reducing homocysteine levels.\nMETHODS: A comprehensive search was conducted across PubMed, Scopus, and Embase up to July 2024. Eligible studies included randomised controlled trials, cohort, and case-control studies assessing B12 supplementation efficacy via oral, sublingual, or IM administration routes. Meta-analyses were performed using random-effects models. Subgroup analyses evaluated four key factors: administration route efficacy, daily dosage, age group and clinical conditions that may affect vitamin B12 metabolism (e.g., underlying pathology). Sixteen studies were included in the quantitative synthesis, comprising a total of 6,098 participants.\nRESULTS: Vitamin B12 supplementation was associated with a significant increase in serum cobalamin levels across all routes of administration (pooled mean difference = +402.6 pg/mL; 95% CI: 293.6 to 511.5; p < 0.001). Homocysteine levels were also significantly reduced across all groups (pooled mean difference = -4.83 μmol/L; 95% CI: -6.55 to -3.11; p < 0.001). No statistically significant differences were observed between oral, sublingual, and intramuscular (IM) routes of administration (p = 0.270 for cobalamin levels and p = 0.485 for homocysteine levels), nor between randomised controlled trials and observational studies (p = 0.268 for cobalamin levels). No dose-response effect was observed (p = 0.485), suggesting that absorption efficiency rather than dosage may be the determining factor. Subgroup analyses by age and clinical conditions (e.g., gastrectomy, unspecified deficiency) revealed comparable efficacy across populations. However, heterogeneity was substantial (I2 > 80% in most comparisons), and Egger's test indicated potential publication bias. Given the high heterogeneity, further studies are needed to confirm the results.\nCONCLUSION: Sublingual and oral B12 supplementation appear to be as effective as intramuscular (IM) injections in improving cobalamin status and reducing homocysteine levels. Given their non-invasive nature, accessibility, and cost-effectiveness of sublingual formulations, they may represent a promising approach for long-term B12 management, particularly in patients with impaired absorption or in resource-limited settings. Further high-quality RCTs are warranted to refine dosing strategies and confirm long-term outcomes.\nSYSTEMATIC REVIEW REGISTRATION: CRD42024554513.",
+    "journal": "Frontiers in pharmacology",
+    "year": "2025",
+    "authors": [
+      "Mazur M",
+      "Ndokaj A",
+      "Salerno C",
+      "Vallone J",
+      "Ardan R",
+      "Bietolini S"
+    ],
+    "doi": "10.3389/fphar.2025.1602976",
+    "pmcid": "PMC12757266",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41487531/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "40657695",
+    "title": "Dietary Patterns Associated With Anti-inflammatory Effects: An Umbrella Review of Systematic Reviews and Meta-analyses.",
+    "abstract": "CONTEXT: Noncommunicable diseases significantly impact global health, and chronic inflammation is a common pathological feature of these conditions. The relationship between chronic inflammation and dietary intake is increasingly evident, as emerging research elucidates the inflammation-modulating effects of diet.\nOBJECTIVE: This umbrella review aimed to systematically collect, summarize, and assess current evidence on the relationship between dietary patterns and inflammatory biomarkers.\nDATA SOURCES: The CINAHL, Cochrane Library, PubMed, Scopus, and Web of Science databases were searched from 1990 through March 19, 2025.\nDATA EXTRACTION: Systematic reviews and meta-analyses of intervention trials and observational studies that assessed the effects or associations of dietary patterns on chronic inflammatory markers were selected. Data extraction, methodological quality assessment, and evaluation of the strength of evidence were independently conducted by 2 authors.\nDATA ANALYSIS: Thirty reviews representing 225 eligible primary studies were included. Fifteen dietary patterns were assessed against a range of inflammatory marker outcomes, reported in 60 unique meta-analyses and 61 narrative syntheses. The findings indicate significant effects and overall beneficial association between the Mediterranean diet and the levels of inflammatory markers C-reactive protein (CRP), interleukin-6, and adiponectin, with the certainty of evidence (CoE) ranging from high to low. Additionally, a significant inverse association was identified between a vegetarian diet and CRP levels, with low to very low CoE. The findings for other dietary patterns assessed were inconclusive or limited due to the paucity of studies.\nCONCLUSION: The Mediterranean and vegetarian dietary patterns may ameliorate low-grade inflammation in adult populations with at least one chronic condition. Further studies are needed to evaluate the potential inflammation-modulating effects of other dietary patterns, considering the significant heterogeneity of comparator diets.\nSYSTEMATIC REVIEW REGISTRATION: PROSPERO no. CRD42023472469.",
+    "journal": "Nutrition reviews",
+    "year": "2026",
+    "authors": [
+      "Reyneke GL",
+      "Lambert K",
+      "Beck EJ"
+    ],
+    "doi": "10.1093/nutrit/nuaf104",
+    "pmcid": "PMC13161761",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Inflammation",
+      "Biomarkers",
+      "Systematic Reviews as Topic",
+      "Diet, Mediterranean",
+      "Diet",
+      "Meta-Analysis as Topic",
+      "C-Reactive Protein",
+      "Adiponectin",
+      "Interleukin-6"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40657695/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  },
+  {
+    "pmid": "40806155",
+    "title": "Effect of Plant-Based Proteins on Recovery from Resistance Exercise-Induced Muscle Damage in Healthy Young Adults-A Systematic Review.",
+    "abstract": "BACKGROUND: Plant-based protein supplementation in supporting muscle recovery following resistance exercise remains an area of growing interest, particularly among vegan athletes, as a potential alternative to animal-based proteins. This systematic review aimed to evaluate the effectiveness of plant-based proteins on recovery from resistance exercise-induced muscle damage in healthy young adults.\nMETHODS: A systematic and comprehensive search was administered in eight databases up to 1 May 2025, identifying 1407 articles. Following deduplication and screening, 24 studies met the eligibility criteria, including 22 randomized controlled trials and 2 non-randomized studies, with the majority from high income western countries.\nRESULTS: Interventions primarily involved soy, pea, rice, hemp, potato, and blended plant protein sources, with doses ranging from 15 to 50 g, typically administered post resistance exercise. Outcomes assessed included muscle protein synthesis (MPS), delayed-onset muscle soreness (DOMS), inflammatory biomarkers, muscle function, and fatigue. The review findings reaffirm that single-source plant proteins generally offer limited benefits compared to animal proteins such as whey, particularly in acute recovery settings, a limitation well-documented consistently in the literature. However, our synthesis highlights that well-formulated plant protein blends (e.g., combinations of pea, rice, and canola) can stimulate MPS at levels comparable to whey when consumed at adequate doses (≥30 g with ~2.5 g leucine). Some studies also reported improvements in subjective recovery outcomes and reductions in muscle damage biomarkers with soy or pea protein. However, overall evidence remains limited by small sample sizes, moderate to high risk of bias, and heterogeneity in intervention protocols, protein formulations, and outcome measures. Risk of bias assessments revealed concerns related to detection and reporting bias in nearly half the studies. Due to clinical and methodological variability, a meta-analysis was not conducted.\nCONCLUSION: plant-based proteins particularly in the form of protein blends and when dosed appropriately, may support muscle recovery in resistance-trained individuals and offer a viable alternative to animal-based proteins. However, further high-quality, long-term trials in vegan populations are needed to establish definitive recommendations for plant protein use in sports nutrition.",
+    "journal": "Nutrients",
+    "year": "2025",
+    "authors": [
+      "Govindasamy K",
+      "Parpa K",
+      "Katanic B",
+      "Clark CCT",
+      "Elayaraja M",
+      "Kambitta Valappil IN"
+    ],
+    "doi": "10.3390/nu17152571",
+    "pmcid": "PMC12348865",
+    "pub_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Resistance Training",
+      "Muscle, Skeletal",
+      "Young Adult",
+      "Dietary Supplements",
+      "Myalgia",
+      "Plant Proteins",
+      "Muscle Proteins",
+      "Adult",
+      "Male",
+      "Female",
+      "Plant Proteins, Dietary"
+    ],
+    "language": "eng",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40806155/",
+    "topic": "vegetarian_b12_iron_protein",
+    "source": "PubMed"
+  }
+]

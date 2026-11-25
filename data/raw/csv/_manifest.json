@@ -1,0 +1,42 @@
+{
+  "usda_foundation": {
+    "status": "ok",
+    "release": "FoodData_Central_foundation_food_csv_2026-10-29.zip",
+    "url": "https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_foundation_food_csv_2026-10-29.zip",
+    "zip_bytes": 1127612,
+    "csv_files": 13,
+    "downloaded_at": "2026-11-25T13:16:16+00:00"
+  },
+  "usda_sr_legacy": {
+    "status": "ok",
+    "release": "FoodData_Central_sr_legacy_food_csv_2018-04.zip",
+    "url": "https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_sr_legacy_food_csv_2018-04.zip",
+    "zip_bytes": 6074592,
+    "csv_files": 17,
+    "downloaded_at": "2026-11-25T13:16:21+00:00"
+  },
+  "usda_fndds": {
+    "status": "ok",
+    "release": "FoodData_Central_survey_food_csv_2024-10-31.zip",
+    "url": "https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_survey_food_csv_2024-10-31.zip",
+    "zip_bytes": 3325692,
+    "csv_files": 12,
+    "downloaded_at": "2026-11-25T13:16:24+00:00"
+  },
+  "openfoodfacts": {
+    "status": "ok",
+    "country": "india",
+    "rows": 98,
+    "total_available": 26400,
+    "api": "https://world.openfoodfacts.org/api/v2/search",
+    "license": "ODbL (database) - attribute Open Food Facts contributors",
+    "downloaded_at": "2026-11-25T13:16:51+00:00"
+  },
+  "openfda": {
+    "status": "ok",
+    "labels": 137,
+    "drugs": 28,
+    "api": "https://api.fda.gov/drug/label.json",
+    "downloaded_at": "2026-11-25T13:17:26+00:00"
+  }
+}

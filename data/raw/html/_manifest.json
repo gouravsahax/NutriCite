@@ -1,0 +1,278 @@
+{
+  "vitamin_a": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:11+00:00"
+  },
+  "vitamin_c": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:13+00:00"
+  },
+  "vitamin_d": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:15+00:00"
+  },
+  "vitamin_e": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:16+00:00"
+  },
+  "vitamin_k": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:25+00:00"
+  },
+  "vitamin_b6": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:26+00:00"
+  },
+  "vitamin_b12": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:27+00:00"
+  },
+  "thiamin": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:29+00:00"
+  },
+  "riboflavin": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:30+00:00"
+  },
+  "niacin": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:31+00:00"
+  },
+  "folate": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:33+00:00"
+  },
+  "biotin": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:35+00:00"
+  },
+  "pantothenic_acid": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/PantothenicAcid-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/PantothenicAcid-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:37+00:00"
+  },
+  "choline": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:38+00:00"
+  },
+  "calcium": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:40+00:00"
+  },
+  "iron": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:42+00:00"
+  },
+  "magnesium": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:45+00:00"
+  },
+  "zinc": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:47+00:00"
+  },
+  "potassium": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:49+00:00"
+  },
+  "phosphorus": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/Phosphorus-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/Phosphorus-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:51+00:00"
+  },
+  "iodine": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:53+00:00"
+  },
+  "selenium": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:55+00:00"
+  },
+  "copper": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:57+00:00"
+  },
+  "chromium": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/",
+    "tried_at": "2026-11-25T13:22:59+00:00"
+  },
+  "manganese": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/Manganese-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/Manganese-HealthProfessional/",
+    "tried_at": "2026-11-25T13:23:01+00:00"
+  },
+  "omega3": {
+    "status": "failed",
+    "url": "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/",
+    "error": "HTTP 403 for https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/",
+    "tried_at": "2026-11-25T13:23:02+00:00"
+  },
+  "who_healthy_diet": {
+    "status": "ok",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "title": "Healthy diet",
+    "publisher": "WHO",
+    "topic": "fact-sheet",
+    "chars": 21466,
+    "sha256": "844081e444a56cd217cf8d1c58e9467d2136019be6861629e7a8da78a7a264f7",
+    "retrieved_at": "2026-11-25T13:23:03+00:00"
+  },
+  "who_salt_reduction": {
+    "status": "ok",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/salt-reduction",
+    "title": "Sodium reduction",
+    "publisher": "WHO",
+    "topic": "fact-sheet",
+    "chars": 8965,
+    "sha256": "222568428022ff6d37a76e44b6cf7ea22c36540180c7e7a86d8c6588da6d1fbc",
+    "retrieved_at": "2026-11-25T13:23:04+00:00"
+  },
+  "who_obesity_overweight": {
+    "status": "ok",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "title": "Obesity and overweight",
+    "publisher": "WHO",
+    "topic": "fact-sheet",
+    "chars": 13581,
+    "sha256": "c947e92369cb07011309a10f715fb1e8ae13ddd0159373d9015c90e77fcd12a6",
+    "retrieved_at": "2026-11-25T13:23:05+00:00"
+  },
+  "who_diabetes": {
+    "status": "ok",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "title": "Diabetes",
+    "publisher": "WHO",
+    "topic": "fact-sheet",
+    "chars": 8443,
+    "sha256": "1d25acd60578f1cf53e1038e481aa88b44efa8b91ccec18a4a738e9b803c75e5",
+    "retrieved_at": "2026-11-25T13:23:06+00:00"
+  },
+  "who_hypertension": {
+    "status": "ok",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/hypertension",
+    "title": "Hypertension",
+    "publisher": "WHO",
+    "topic": "fact-sheet",
+    "chars": 9388,
+    "sha256": "8b126548d2a0334c4736b6a1683bdfa4188c05af30b7ff502d48f8ce27deb913",
+    "retrieved_at": "2026-11-25T13:23:07+00:00"
+  },
+  "who_anaemia": {
+    "status": "ok",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/anaemia",
+    "title": "Anaemia",
+    "publisher": "WHO",
+    "topic": "fact-sheet",
+    "chars": 9580,
+    "sha256": "9f2222ab4dd61c2086b07c7f29817cc1a80b3516800a32ddf048c1cb8fac14bf",
+    "retrieved_at": "2026-11-25T13:23:08+00:00"
+  },
+  "who_malnutrition": {
+    "status": "ok",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malnutrition",
+    "title": "Fact sheets - Malnutrition",
+    "publisher": "WHO",
+    "topic": "fact-sheet",
+    "chars": 8872,
+    "sha256": "7a46a7ac1efb8b92f9f188386c118c412ea23a8d46b63f581753a42d2a0ced84",
+    "retrieved_at": "2026-11-25T13:23:09+00:00"
+  },
+  "who_cardiovascular_diseases": {
+    "status": "ok",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)",
+    "title": "Cardiovascular diseases (CVDs)",
+    "publisher": "WHO",
+    "topic": "fact-sheet",
+    "chars": 10349,
+    "sha256": "aad2bb1a6bb500b32f07fd873d74a9a1459383225cac6de70e597e5f82c1e277",
+    "retrieved_at": "2026-11-25T13:23:10+00:00"
+  },
+  "nhlbi_dash_eating_plan": {
+    "status": "ok",
+    "url": "https://www.nhlbi.nih.gov/education/dash-eating-plan",
+    "title": "DASH - DASH Eating Plan | NHLBI, NIH",
+    "publisher": "NHLBI",
+    "topic": "hypertension-dash",
+    "chars": 1984,
+    "sha256": "91b2f7b72798bde5d90f934631add8c352443ae168b9475f2cf9296c5c8f174f",
+    "retrieved_at": "2026-11-25T13:23:13+00:00"
+  },
+  "niddk_diabetes_diet": {
+    "status": "ok",
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/diet-eating-physical-activity",
+    "title": "Healthy Living with Diabetes - NIDDK",
+    "publisher": "NIDDK",
+    "topic": "diabetes",
+    "chars": 18008,
+    "sha256": "c63cf2e73638a5b3d087675984042c230fe17c1ca14b626a527f3da9743cf3d9",
+    "retrieved_at": "2026-11-25T13:23:17+00:00"
+  },
+  "niddk_nafld_diet": {
+    "status": "ok",
+    "url": "https://www.niddk.nih.gov/health-information/liver-disease/nafld-nash/eating-diet-nutrition",
+    "title": "Eating, Diet, & Nutrition for NAFLD & NASH - NIDDK",
+    "publisher": "NIDDK",
+    "topic": "fatty-liver",
+    "chars": 2018,
+    "sha256": "ce3a6e64fec0a76e403f02d2fb7ccd44491c47d43eb4657407f3ff4de1b45bea",
+    "retrieved_at": "2026-11-25T13:23:19+00:00"
+  },
+  "niddk_ckd_nutrition": {
+    "status": "ok",
+    "url": "https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/eating-nutrition",
+    "title": "Healthy Eating for Adults with Chronic Kidney Disease - NIDDK",
+    "publisher": "NIDDK",
+    "topic": "kidney",
+    "chars": 17121,
+    "sha256": "9cf89abb7f50bd50b8bbf8ff4f495c44f01c2d7adcc6fddbefc6ec7bb04b7638",
+    "retrieved_at": "2026-11-25T13:23:23+00:00"
+  }
+}
